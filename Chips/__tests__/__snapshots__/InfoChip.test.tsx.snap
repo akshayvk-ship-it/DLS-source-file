@@ -1,0 +1,73 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Chip click 1`] = `
+<body>
+  <div>
+    <div
+      class="select-none rounded-2xl flex h-6 items-center justify-center border px-2 bg-fill-fill-dark cursor-pointer group border-fill-dark hover:bg-fill-hover hover:border-fill-dark-hover active:bg-fill-pressed active:border-fill-dark "
+      data-testid="defaultInfoChipTestId"
+      role="button"
+      tabindex="0"
+    >
+      <div />
+      <div
+        class="
+            label-small font-medium
+            text-text-text group-active:text-text-dark-pressed
+            mr-1
+            ml-1
+            
+          "
+      >
+        Click Here
+      </div>
+      <div />
+    </div>
+  </div>
+</body>
+`;
+
+exports[`Info Chip Snapshot test 1`] = `
+<body>
+  <div>
+    <div
+      class="select-none rounded-2xl flex h-6 items-center justify-center border px-2 bg-fill-fill-dark cursor-pointer group border-fill-dark hover:bg-fill-hover hover:border-fill-dark-hover active:bg-fill-pressed active:border-fill-dark "
+      data-testid="defaultInfoChipTestId"
+      role="button"
+      tabindex="0"
+    >
+      <div
+        class="
+            label-small font-medium
+            text-text-text group-active:text-text-dark-pressed
+            mr-1
+            
+            
+          "
+      >
+        Label
+      </div>
+      <button
+        aria-label="Close"
+        class="cursor-default "
+        type="button"
+      >
+        <svg
+          class="fill-icon-icon group-active:fill-icon-pressed"
+          fill="none"
+          height="16"
+          viewBox="0 0 16 16"
+          width="16"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            clip-rule="evenodd"
+            d="M14.4691 5.45585C14.7307 5.19679 14.7328 4.77468 14.4737 4.51305C14.2147 4.25142 13.7926 4.24934 13.5309 4.5084L10.9696 7.04458L8.44844 4.51833C8.18835 4.25772 7.76624 4.2573 7.50563 4.51738C7.24502 4.77747 7.2446 5.19958 7.50469 5.46019L10.0222 7.98274L7.47664 10.5033C7.21501 10.7624 7.21293 11.1845 7.472 11.4461C7.73106 11.7077 8.15317 11.7098 8.4148 11.4507L10.964 8.9265L13.5212 11.4888C13.7813 11.7494 14.2034 11.7498 14.464 11.4897C14.7246 11.2296 14.725 10.8075 14.4649 10.5469L11.9115 7.98834L14.4691 5.45585Z"
+            fill-rule="evenodd"
+          />
+        </svg>
+      </button>
+    </div>
+  </div>
+</body>
+`;

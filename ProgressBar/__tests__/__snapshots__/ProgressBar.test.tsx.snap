@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`ProgressBar Component ProgressBar Snapshot Test 1`] = `
+<body>
+  <div>
+    <div
+      class="flex w-full flex-row items-center gap-2 "
+      data-testid="test-progress-bar"
+    >
+      <div
+        class="w-full min-h-2 rounded bg-fill-pressed-dark overflow-hidden"
+      >
+        <div
+          class="bg-gradient-to-r from-[#FEA071] from-30% to-fill-action to-100% min-h-2 rounded  loading relative h-full "
+          role="progressbar"
+          style="--animation-duration: 5s; max-width: 0%;"
+        />
+      </div>
+    </div>
+  </div>
+</body>
+`;

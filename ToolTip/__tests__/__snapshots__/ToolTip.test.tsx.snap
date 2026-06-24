@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`ToolTip Snapshot Test 1`] = `
+<body>
+  <div>
+    <div
+      class=" relative"
+      data-testid="tooltip-ui-library"
+    >
+      <div
+        class="cursor-pointer"
+      >
+        <div>
+          This is sample
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+`;

@@ -1,0 +1,922 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`DateRange Snapshot Test 1`] = `
+<body>
+  <div>
+    <div
+      class="bg-fill-fill flex w-[21.25rem] flex-col items-center justify-end p-4 "
+    >
+      <div
+        class="mb-2 flex w-full flex-col justify-between px-2"
+      >
+        <div
+          class="flex w-full justify-between"
+        />
+        <div
+          class=" flex w-full justify-between pt-4  "
+        >
+          <div
+            class="paragraph-medium flex w-28  text-text-light"
+          >
+            Start date
+          </div>
+          <div
+            class="text-text-light paragraph-medium flex"
+          >
+            -
+          </div>
+          <div
+            class="paragraph-medium flex w-28 justify-end text-text-light "
+          >
+            End date
+          </div>
+        </div>
+      </div>
+      <div
+        class="border-border-border-light border-y mb-6 flex h-[23.375rem] w-full flex-col"
+      >
+        <div
+          class="flex flex-1 justify-between px-2 py-4"
+        >
+          <div
+            class="flex w-28 items-center justify-between py-2"
+          >
+            <button
+              class=" "
+              type="button"
+            >
+              <svg
+                class=" fill-icon-icon "
+                fill="none"
+                height="20"
+                viewBox="0 0 20 20"
+                width="20"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  clip-rule="evenodd"
+                  d="M6.06694 4.55806C6.31102 4.80214 6.31102 5.19786 6.06694 5.44194L1.50888 10L6.06694 14.5581C6.31102 14.8021 6.31102 15.1979 6.06694 15.4419C5.82286 15.686 5.42714 15.686 5.18306 15.4419L0.183058 10.4419C-0.0610189 10.1979 -0.0610189 9.80214 0.183058 9.55806L5.18306 4.55806C5.42714 4.31398 5.82286 4.31398 6.06694 4.55806Z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+            </button>
+            <div
+              class="flex w-[3.75rem] items-center justify-evenly"
+            >
+              <div
+                class="text-text-text label-medium flex w-10 pl-2 font-medium"
+              >
+                Sep
+              </div>
+              <button
+                type="button"
+              >
+                <svg
+                  fill="none"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    class="fill-icon-action"
+                    d="M9.99998 12.4998L5.83331 8.33313H14.1666L9.99998 12.4998Z"
+                    fill="#F15701"
+                  />
+                </svg>
+              </button>
+            </div>
+            <button
+              class=" pointer-events-none"
+              type="button"
+            >
+              <svg
+                class="  fill-icon-disabled"
+                fill="none"
+                height="20"
+                viewBox="0 0 20 20"
+                width="20"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  clip-rule="evenodd"
+                  d="M19.8169 9.55806C20.061 9.80214 20.061 10.1979 19.8169 10.4419L14.8169 15.4419C14.5729 15.686 14.1771 15.686 13.9331 15.4419C13.689 15.1979 13.689 14.8021 13.9331 14.5581L18.4911 10L13.9331 5.44194C13.689 5.19786 13.689 4.80214 13.9331 4.55806C14.1771 4.31398 14.5729 4.31398 14.8169 4.55806L19.8169 9.55806Z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+            </button>
+          </div>
+          <div
+            class="flex w-28 items-center justify-between  py-2"
+          >
+            <button
+              class=" "
+              type="button"
+            >
+              <svg
+                class=" fill-icon-icon "
+                fill="none"
+                height="20"
+                viewBox="0 0 20 20"
+                width="20"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  clip-rule="evenodd"
+                  d="M6.06694 4.55806C6.31102 4.80214 6.31102 5.19786 6.06694 5.44194L1.50888 10L6.06694 14.5581C6.31102 14.8021 6.31102 15.1979 6.06694 15.4419C5.82286 15.686 5.42714 15.686 5.18306 15.4419L0.183058 10.4419C-0.0610189 10.1979 -0.0610189 9.80214 0.183058 9.55806L5.18306 4.55806C5.42714 4.31398 5.82286 4.31398 6.06694 4.55806Z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+            </button>
+            <div
+              class="flex w-[4.25rem] items-center justify-evenly"
+            >
+              <div
+                class="text-text-text label-medium flex w-12 pl-2 text-left font-medium"
+              >
+                2024
+              </div>
+              <button
+                type="button"
+              >
+                <svg
+                  fill="none"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    class="fill-icon-action"
+                    d="M9.99998 12.4998L5.83331 8.33313H14.1666L9.99998 12.4998Z"
+                    fill="#F15701"
+                  />
+                </svg>
+              </button>
+            </div>
+            <button
+              class=" pointer-events-none"
+              type="button"
+            >
+              <svg
+                class="  fill-icon-disabled"
+                fill="none"
+                height="20"
+                viewBox="0 0 20 20"
+                width="20"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  clip-rule="evenodd"
+                  d="M19.8169 9.55806C20.061 9.80214 20.061 10.1979 19.8169 10.4419L14.8169 15.4419C14.5729 15.686 14.1771 15.686 13.9331 15.4419C13.689 15.1979 13.689 14.8021 13.9331 14.5581L18.4911 10L13.9331 5.44194C13.689 5.19786 13.689 4.80214 13.9331 4.55806C14.1771 4.31398 14.5729 4.31398 14.8169 4.55806L19.8169 9.55806Z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+        <div>
+          <div
+            class="flex w-full  "
+          >
+            <div
+              class="paragraph-extra-small text-text-light flex w-full items-center justify-center px-2 py-1 font-medium"
+            >
+              Sun
+            </div>
+            <div
+              class="paragraph-extra-small text-text-light flex w-full items-center justify-center px-2 py-1 font-medium"
+            >
+              Mon
+            </div>
+            <div
+              class="paragraph-extra-small text-text-light flex w-full items-center justify-center px-2 py-1 font-medium"
+            >
+              Tue
+            </div>
+            <div
+              class="paragraph-extra-small text-text-light flex w-full items-center justify-center px-2 py-1 font-medium"
+            >
+              Wed
+            </div>
+            <div
+              class="paragraph-extra-small text-text-light flex w-full items-center justify-center px-2 py-1 font-medium"
+            >
+              Thu
+            </div>
+            <div
+              class="paragraph-extra-small text-text-light flex w-full items-center justify-center px-2 py-1 font-medium"
+            >
+              Fri
+            </div>
+            <div
+              class="paragraph-extra-small text-text-light flex w-full items-center justify-center px-2 py-1 font-medium"
+            >
+              Sat
+            </div>
+          </div>
+          <div
+            class="my-2"
+          >
+            <div
+              class="flex items-center justify-center"
+            >
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg      text-text-text hover:bg-border-brand-focus-ring label-large  font-medium   "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    1
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg      text-text-text hover:bg-border-brand-focus-ring label-large  font-medium   "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    2
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg      text-text-text hover:bg-border-brand-focus-ring label-large  font-medium   "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    3
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg border-border-action-focused border      text-text-text hover:bg-border-brand-focus-ring label-large  font-medium   "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    4
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg      text-text-text hover:bg-border-brand-focus-ring label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    5
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg      text-text-text hover:bg-border-brand-focus-ring label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    6
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg      text-text-text hover:bg-border-brand-focus-ring label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    7
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="flex items-center justify-center"
+            >
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg      text-text-text hover:bg-border-brand-focus-ring label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    8
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg      text-text-text hover:bg-border-brand-focus-ring label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    9
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg      text-text-text hover:bg-border-brand-focus-ring label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    10
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg      text-text-text hover:bg-border-brand-focus-ring label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    11
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg      text-text-text hover:bg-border-brand-focus-ring label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    12
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg      text-text-text hover:bg-border-brand-focus-ring label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    13
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg      text-text-text hover:bg-border-brand-focus-ring label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    14
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="flex items-center justify-center"
+            >
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg      text-text-text hover:bg-border-brand-focus-ring label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    15
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg      text-text-text hover:bg-border-brand-focus-ring label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    16
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg      text-text-text hover:bg-border-brand-focus-ring label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    17
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg      text-text-text hover:bg-border-brand-focus-ring label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    18
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg      text-text-text hover:bg-border-brand-focus-ring label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    19
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg      text-text-text hover:bg-border-brand-focus-ring label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    20
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg      text-text-text hover:bg-border-brand-focus-ring label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    21
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="flex items-center justify-center"
+            >
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg      text-text-text hover:bg-border-brand-focus-ring label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    22
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg      text-text-text hover:bg-border-brand-focus-ring label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    23
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg      text-text-text hover:bg-border-brand-focus-ring label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    24
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg      text-text-text hover:bg-border-brand-focus-ring label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    25
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg      text-text-text hover:bg-border-brand-focus-ring label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    26
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg      text-text-text hover:bg-border-brand-focus-ring label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    27
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg      text-text-text hover:bg-border-brand-focus-ring label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    28
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="flex items-center justify-center"
+            >
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg      text-text-text hover:bg-border-brand-focus-ring label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    29
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg      text-text-text hover:bg-border-brand-focus-ring label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    30
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg    text-text-disabled hover:bg-icon-inverse-pressed label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    1
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg    text-text-disabled hover:bg-icon-inverse-pressed label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    2
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg    text-text-disabled hover:bg-icon-inverse-pressed label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    3
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg    text-text-disabled hover:bg-icon-inverse-pressed label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    4
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg    text-text-disabled hover:bg-icon-inverse-pressed label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    5
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="flex items-center justify-center"
+            >
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg    text-text-disabled hover:bg-icon-inverse-pressed label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    6
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg    text-text-disabled hover:bg-icon-inverse-pressed label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    7
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg    text-text-disabled hover:bg-icon-inverse-pressed label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    8
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg    text-text-disabled hover:bg-icon-inverse-pressed label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    9
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg    text-text-disabled hover:bg-icon-inverse-pressed label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    10
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg    text-text-disabled hover:bg-icon-inverse-pressed label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    11
+                  </div>
+                </div>
+              </div>
+              <div
+                class="relative flex h-11  w-full items-center justify-center p-1    z-10 before:absolute before:w-8 before:h-8 before:left-0 after:absolute after:w-8 after:h-8 after:right-0 before:-z-10 after:-z-10 before:top-[6px] "
+              >
+                <div
+                  class="flex h-full w-full items-center justify-center rounded-lg    text-text-disabled hover:bg-icon-inverse-pressed label-large  font-medium  !text-text-disabled pointer-events-none "
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="flex items-center justify-center  "
+                  >
+                    12
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="flex w-full items-center "
+      >
+        <button
+          class="mr-4 flex flex-1 bg-fill-action hover:bg-fill-action-pressed !shadow-border-brand-focus-ring active:bg-fill-action-pressed disabled:bg-fill-action-disabled text-fill-fill active:text-text-on-fill-action-pressed disabled:text-text-disabled [&:not(:focus)]:shadow-[0px_1px_2px_0px] [&:not(:focus)]:!shadow-[rgba(27,32,41,0.05)] label-medium h-10 px-5   flex items-center justify-center  rounded-lg font-semibold  !outline-none focus-visible:shadow-[0px_0px_0px_4px] disabled:cursor-not-allowed "
+          data-testid="defaultButtonTestId"
+          disabled=""
+          type="button"
+        >
+          <span
+            class="text-nowrap "
+          >
+            Set date
+          </span>
+        </button>
+        <button
+          class=" flex w-11 bg-fill-fill hover:bg-fill-hover-light !shadow-fill-hover active:bg-fill-hover-light disabled:bg-fill-disabled text-text-dark active:text-text-dark-pressed disabled:text-text-disabled border border-text-disabled disabled:border-border-disabled [&:not(:focus)]:shadow-[0px_1px_2px_0px] [&:not(:focus)]:!shadow-[rgba(27,32,41,0.05)] label-medium h-10 px-3   flex items-center justify-center  rounded-lg font-semibold  !outline-none focus-visible:shadow-[0px_0px_0px_4px] disabled:cursor-not-allowed "
+          data-testid="defaultButtonTestId"
+          type="button"
+        >
+          <div
+            class="max-h-[1.25rem] max-w-[1.25rem] "
+          >
+            <svg
+              class="h-5 w-5"
+              fill="none"
+              height="25"
+              viewBox="0 0 25 25"
+              width="25"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M12.9858 4.30445C10.7822 4.30445 8.78852 5.19579 7.3442 6.63895C6.58465 7.39789 5.72382 8.42812 5.0433 9.28293C4.96773 9.37785 4.89459 9.47035 4.82429 9.55977H9.09919C9.52403 9.55977 9.86842 9.90365 9.86842 10.3279C9.86842 10.7521 9.52403 11.0959 9.09919 11.0959H3.26923C2.8444 11.0959 2.5 10.7521 2.5 10.3279V4.50658C2.5 4.08238 2.8444 3.73849 3.26923 3.73849C3.69407 3.73849 4.03846 4.08238 4.03846 4.50658V8.07789C4.69728 7.25983 5.51006 6.2984 6.25597 5.55309C7.97703 3.83341 10.3576 2.76828 12.9858 2.76828C18.2404 2.76828 22.5 7.02157 22.5 12.2683C22.5 17.515 18.2404 21.7683 12.9858 21.7683C8.64721 21.7683 4.98872 18.8692 3.84361 14.9068C3.72583 14.4992 3.96124 14.0734 4.36942 13.9558C4.7776 13.8382 5.20398 14.0733 5.32176 14.4809C6.28195 17.8034 9.35083 20.2321 12.9858 20.2321C17.3907 20.2321 20.9615 16.6666 20.9615 12.2683C20.9615 7.86998 17.3907 4.30445 12.9858 4.30445Z"
+                fill="#3B475B"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+</body>
+`;

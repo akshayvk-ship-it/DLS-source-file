@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`TabToggle Snapshot matches snapshot with custom class names and defaultActiveTab 1`] = `
+<DocumentFragment>
+  <div
+    class="scroll-hidden relative flex w-full max-w-fit overflow-auto scroll-smooth custom-tabs overflow-visible bg-new-fill-light relative z-10 flex h-9 items-center rounded-3xl p-0.5"
+  >
+    <button
+      class="inactive text-text-disabled   label-medium flex h-full items-center text-nowrap px-6 font-semibold !outline-none transition-colors"
+      type="button"
+    >
+      Overview
+    </button>
+    <button
+      class="active text-text-on-fill  label-medium flex h-full items-center text-nowrap px-6 font-semibold !outline-none transition-colors"
+      type="button"
+    >
+      Details
+    </button>
+    <div
+      class="custom-highlighter bg-fill-action absolute bottom-0.5 top-0.5 -z-10 !m-0 rounded-3xl transition-[width_left_colors]"
+      style="width: 0px; left: 0px; box-shadow: 0px 4px 4px 0px rgba(241,87,1,0.2);"
+    />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`TabToggle Snapshot matches snapshot with default props 1`] = `
+<DocumentFragment>
+  <div
+    class="scroll-hidden relative flex w-full max-w-fit overflow-auto scroll-smooth undefined overflow-visible bg-new-fill-light relative z-10 flex h-9 items-center rounded-3xl p-0.5"
+  >
+    <button
+      class=" text-text-on-fill  label-medium flex h-full items-center text-nowrap px-6 font-semibold !outline-none transition-colors"
+      type="button"
+    >
+      Tab 1
+    </button>
+    <button
+      class=" text-text-disabled   label-medium flex h-full items-center text-nowrap px-6 font-semibold !outline-none transition-colors"
+      type="button"
+    >
+      Tab 2
+    </button>
+    <button
+      class=" text-text-disabled   label-medium flex h-full items-center text-nowrap px-6 font-semibold !outline-none transition-colors"
+      type="button"
+    >
+      Tab 3
+    </button>
+    <div
+      class="undefined bg-fill-action absolute bottom-0.5 top-0.5 -z-10 !m-0 rounded-3xl transition-[width_left_colors]"
+      style="width: 0px; left: 0px; box-shadow: 0px 4px 4px 0px rgba(241,87,1,0.2);"
+    />
+  </div>
+</DocumentFragment>
+`;

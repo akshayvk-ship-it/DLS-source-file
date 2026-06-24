@@ -1,0 +1,182 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Back Button Snapshot Test 1`] = `
+<body>
+  <div>
+    <div
+      class="flex flex-col justify-between px-4 pb-10 pt-6  "
+    >
+      <div
+        class="flex h-full flex-col items-center justify-center "
+      >
+        <svg
+          class="h-[7.5rem]"
+          fill="none"
+          height="121"
+          viewBox="0 0 120 121"
+          width="120"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <ellipse
+            cx="67.9799"
+            cy="43.5305"
+            fill="#F4F4F6"
+            rx="27.0549"
+            ry="27.0565"
+          />
+          <path
+            d="M21.557 39.5655L27.986 31.9588L34.6902 24.4392C35.5071 23.5229 36.6762 22.999 37.9038 22.999H69.6966C72.0744 22.999 74.002 24.9265 74.002 27.3043V88.0735C74.002 90.4513 72.0744 92.3789 69.6966 92.3789H24.8456C22.4679 92.3789 20.5403 90.4514 20.5403 88.0736L20.5398 42.3447C20.5398 41.3272 20.9002 40.3426 21.557 39.5655Z"
+            fill="#F4F4F6"
+            stroke="#F4F4F6"
+            stroke-width="2.87024"
+          />
+          <path
+            d="M36.2745 23.3345V36.2999C36.2745 39.4703 33.7044 42.0404 30.534 42.0404H20.0745C19.2198 42.0404 18.759 41.0375 19.3157 40.389L34.5157 22.6831C35.1202 21.979 36.2745 22.4065 36.2745 23.3345Z"
+            fill="#EBEDEF"
+          />
+          <mask
+            fill="white"
+            id="path-4-inside-1_5756_3272"
+          >
+            <path
+              d="M77.105 68.9894C76.7769 68.2679 77.0958 67.417 77.8173 67.0889L80.4438 65.8945C81.1653 65.5663 82.0161 65.8853 82.3442 66.6068L83.5787 69.3217C83.9068 70.0432 83.5879 70.8941 82.8664 71.2222L80.2399 72.4166C79.5184 72.7447 78.6675 72.4258 78.3395 71.7043L77.105 68.9894Z"
+            />
+          </mask>
+          <path
+            d="M77.105 68.9894C76.7769 68.2679 77.0958 67.417 77.8173 67.0889L80.4438 65.8945C81.1653 65.5663 82.0161 65.8853 82.3442 66.6068L83.5787 69.3217C83.9068 70.0432 83.5879 70.8941 82.8664 71.2222L80.2399 72.4166C79.5184 72.7447 78.6675 72.4258 78.3395 71.7043L77.105 68.9894Z"
+            fill="#F4F4F6"
+          />
+          <path
+            d="M76.5109 67.683L81.7502 65.3004L76.5109 67.683ZM84.1727 70.6281L78.9335 73.0107L84.1727 70.6281ZM79.7767 72.6272C78.3055 73.2963 76.5706 72.646 75.9016 71.1748C75.2327 69.7036 75.883 67.9686 77.3542 67.2995L78.3315 66.855C78.3315 66.855 78.5975 67.4399 78.9255 68.1615L80.16 70.8764C80.4881 71.5979 80.7541 72.1828 80.7541 72.1828L79.7767 72.6272ZM80.9069 65.6838C82.3781 65.0148 84.1131 65.6651 84.782 67.1363C85.451 68.6075 84.8007 70.3425 83.3295 71.0116L82.3522 71.456C82.3522 71.456 82.0862 70.8711 81.7581 70.1496L80.5236 67.4347C80.1955 66.7132 79.9296 66.1283 79.9296 66.1283L80.9069 65.6838Z"
+            fill="#D0D3D8"
+            mask="url(#path-4-inside-1_5756_3272)"
+          />
+          <rect
+            fill="#EBEDEF"
+            height="5.58919"
+            rx="1.43512"
+            width="18.5926"
+            x="24.5551"
+            y="43.5332"
+          />
+          <path
+            d="M24.5551 54.484C24.5551 53.6914 25.1976 53.0488 25.9902 53.0488H42.821C43.3282 53.0488 43.7976 53.3165 44.056 53.7529L45.6656 56.4718C46.232 57.4285 45.5424 58.638 44.4307 58.638H25.9902C25.1976 58.638 24.5551 57.9955 24.5551 57.2029V54.484Z"
+            fill="#EBEDEF"
+          />
+          <path
+            d="M24.5551 64.0425C24.5551 63.2499 25.1976 62.6074 25.9902 62.6074H50.8397L56.5192 68.1967H25.9902C25.1976 68.1967 24.5551 67.5542 24.5551 66.7616V64.0425Z"
+            fill="#EBEDEF"
+          />
+          <rect
+            fill="#EBEDEF"
+            height="5.58923"
+            rx="1.43512"
+            width="25.595"
+            x="24.5551"
+            y="71.2383"
+          />
+          <rect
+            fill="#EBEDEF"
+            height="7.44345"
+            rx="1.43512"
+            width="28.6993"
+            x="43.1281"
+            y="42.5931"
+          />
+          <rect
+            fill="#EBEDEF"
+            height="7.44345"
+            rx="1.43512"
+            width="28.6993"
+            x="43.1281"
+            y="32.6381"
+          />
+          <path
+            d="M43.9641 52.1166H70.3762C71.1688 52.1166 71.8113 52.7591 71.8113 53.5517V58.1249C71.8113 58.9175 71.1688 59.56 70.3762 59.56H46.3803L43.9641 52.1166Z"
+            fill="#EBEDEF"
+          />
+          <path
+            d="M50.1516 61.6713H70.4199C71.2125 61.6713 71.8551 62.3138 71.8551 63.1064V67.6795C71.8551 68.4721 71.2125 69.1146 70.42 69.1146H59.3537L50.1516 61.6713Z"
+            fill="#EBEDEF"
+          />
+          <rect
+            fill="#D0D3D8"
+            height="31.6939"
+            rx="4.30536"
+            stroke="#D0D3D8"
+            stroke-width="2.87024"
+            transform="matrix(0.910291 -0.413968 0.413927 0.91031 74.8788 73.9125)"
+            width="11.1574"
+            x="1.90041"
+            y="0.712311"
+          />
+          <path
+            d="M93.5996 43.5305C93.5996 57.6809 82.1292 69.1519 67.9799 69.1519C53.8305 69.1519 42.3601 57.6809 42.3601 43.5305C42.3601 29.3801 53.8305 17.9091 67.9799 17.9091C82.1292 17.9091 93.5996 29.3801 93.5996 43.5305Z"
+            stroke="#D0D3D8"
+            stroke-width="2.87024"
+          />
+          <ellipse
+            cx="87.4041"
+            cy="36.263"
+            fill="#848B98"
+            rx="14.6979"
+            ry="14.6992"
+          />
+          <path
+            d="M82.3285 30.4023L93.7477 41.8226"
+            stroke="#FAFBFB"
+            stroke-linecap="round"
+            stroke-width="2.87024"
+          />
+          <path
+            d="M93.7816 30.4023L82.3627 41.8223"
+            stroke="#FAFBFB"
+            stroke-linecap="round"
+            stroke-width="2.87024"
+          />
+        </svg>
+        <div
+          class="mt-6 w-full"
+        >
+          <div
+            class="sm:heading-1 heading-3 text-text-text text-center font-semibold "
+          >
+            Uh-oh! Wrong Turn
+          </div>
+          <div
+            class="sm:paragraph-large paragraph-medium text-text-light mt-1 text-center sm:mt-2 "
+          >
+            The URL seems incorrect. Double-check the spelling or use the homepage to find what you need.
+          </div>
+        </div>
+      </div>
+      <div
+        class="mt-10 flex w-full flex-col justify-center sm:flex-row"
+      >
+        <button
+          class="mb-6 sm:mb-0 sm:mr-6 undefined bg-fill-fill hover:bg-fill-hover-light !shadow-fill-hover active:bg-fill-hover-light disabled:bg-fill-disabled text-text-dark active:text-text-dark-pressed disabled:text-text-disabled border border-text-disabled disabled:border-border-disabled [&:not(:focus)]:shadow-[0px_1px_2px_0px] [&:not(:focus)]:!shadow-[rgba(27,32,41,0.05)] label-large h-12 px-6   flex items-center justify-center  rounded-lg font-semibold  !outline-none focus-visible:shadow-[0px_0px_0px_4px] disabled:cursor-not-allowed "
+          data-testid="defaultButtonTestId"
+          type="button"
+        >
+          <span
+            class="text-nowrap "
+          >
+            Notify me
+          </span>
+        </button>
+        <button
+          class=" undefined bg-fill-action hover:bg-fill-action-pressed !shadow-border-brand-focus-ring active:bg-fill-action-pressed disabled:bg-fill-action-disabled text-fill-fill active:text-text-on-fill-action-pressed disabled:text-text-disabled [&:not(:focus)]:shadow-[0px_1px_2px_0px] [&:not(:focus)]:!shadow-[rgba(27,32,41,0.05)] label-large h-12 px-6   flex items-center justify-center  rounded-lg font-semibold  !outline-none focus-visible:shadow-[0px_0px_0px_4px] disabled:cursor-not-allowed "
+          data-testid="defaultButtonTestId"
+          type="button"
+        >
+          <span
+            class="text-nowrap "
+          >
+            Go back
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+</body>
+`;

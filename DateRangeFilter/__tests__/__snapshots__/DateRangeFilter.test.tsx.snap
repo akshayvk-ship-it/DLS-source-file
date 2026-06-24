@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Date Range Filter Snapshot test 1`] = `
+<body>
+  <div>
+    <div
+      class=" relative"
+      data-testid="defaultDateRangeFilterTestId"
+    >
+      <div
+        class=" relative"
+      >
+        <div
+          class=" bg-fill-fill hover:bg-fill-hover-light active:!bg-fill-hover-light flex h-12  w-max cursor-pointer items-center rounded-lg border 
+              
+                border-border-border
+              "
+          role="button"
+          tabindex="0"
+        >
+          <svg
+            class="ml-4 h-6 w-6"
+            fill="none"
+            height="25"
+            viewBox="0 0 24 25"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              clip-rule="evenodd"
+              d="M7.97864 1.29092C8.39285 1.29092 8.72864 1.62671 8.72864 2.04092V3.19304H15.3259V2.04092C15.3259 1.62671 15.6617 1.29092 16.0759 1.29092C16.4901 1.29092 16.8259 1.62671 16.8259 2.04092V3.19304H18C20.2091 3.19304 22 4.9839 22 7.19304V19.1752C22 21.3843 20.2091 23.1752 18 23.1752H6C3.79086 23.1752 2 21.3843 2 19.1752V7.19303C2 4.98389 3.79086 3.19304 6 3.19304H7.22864V2.04092C7.22864 1.62671 7.56442 1.29092 7.97864 1.29092ZM15.3259 4.69304V6.18822C15.3259 6.60243 15.6617 6.93822 16.0759 6.93822C16.4901 6.93822 16.8259 6.60243 16.8259 6.18822V4.69304H18C19.3807 4.69304 20.5 5.81232 20.5 7.19304V9.47336H3.5V7.19303C3.5 5.81232 4.61929 4.69304 6 4.69304H7.22864V6.18822C7.22864 6.60243 7.56442 6.93822 7.97864 6.93822C8.39285 6.93822 8.72864 6.60243 8.72864 6.18822V4.69304H15.3259ZM3.5 10.9734V19.1752C3.5 20.5559 4.61929 21.6752 6 21.6752H18C19.3807 21.6752 20.5 20.5559 20.5 19.1752V10.9734H3.5Z"
+              fill="#3B475B"
+              fill-rule="evenodd"
+            />
+          </svg>
+          <div
+            class="px-4 label-large  date-range-label text-text-dark flex h-full select-none items-center font-semibold"
+          >
+            Test Label
+          </div>
+          <div
+            class="border-border-border flex h-full items-center border-l px-2 "
+          >
+            <svg
+              class="h-6 w-6"
+              fill="none"
+              height="24"
+              viewBox="0 0 25 24"
+              width="25"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M13.0303 15.5303C12.7374 15.8232 12.2626 15.8232 11.9697 15.5303L5.96967 9.53033C5.67678 9.23744 5.67678 8.76256 5.96967 8.46967C6.26256 8.17678 6.73744 8.17678 7.03033 8.46967L12.5 13.9393L17.9697 8.46967C18.2626 8.17678 18.7374 8.17678 19.0303 8.46967C19.3232 8.76256 19.3232 9.23744 19.0303 9.53033L13.0303 15.5303Z"
+                fill="#3B475B"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+`;

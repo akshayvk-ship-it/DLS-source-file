@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Toast snapshot 1`] = `
+<body>
+  <div>
+    <div
+      class="relative mx-auto flex justify-end overflow-hidden display-x-small text-text-dark font-semibold "
+      style="height: 0px; --duration: 1000ms;"
+    >
+      <span
+        class="flex flex-col items-center leading-none ticker-affix
+              min-w-[1ch]  
+              "
+      >
+        <span
+          class="leading-none"
+        >
+          $
+        </span>
+      </span>
+      <span
+        class="flex flex-col items-center leading-none 
+              min-w-[1ch]  
+              "
+      >
+        <span
+          class="leading-none"
+        >
+          3
+        </span>
+      </span>
+      <span
+        class="flex flex-col items-center leading-none 
+                
+              "
+      >
+        <span
+          class="leading-none"
+        >
+          ,
+        </span>
+      </span>
+      <span
+        class="flex flex-col items-center leading-none 
+              min-w-[1ch]  
+              "
+      >
+        <span
+          class="leading-none"
+        >
+          0
+        </span>
+      </span>
+      <span
+        class="flex flex-col items-center leading-none 
+              min-w-[1ch]  
+              "
+      >
+        <span
+          class="leading-none"
+        >
+          0
+        </span>
+      </span>
+      <span
+        class="flex flex-col items-center leading-none 
+              min-w-[1ch]  
+              "
+      >
+        <span
+          class="leading-none"
+        >
+          0
+        </span>
+      </span>
+      <span
+        class="pointer-events-none absolute leading-none opacity-0"
+        style="visibility: hidden;"
+      >
+        $
+        3,000
+      </span>
+    </div>
+  </div>
+</body>
+`;

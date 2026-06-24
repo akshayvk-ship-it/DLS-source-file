@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Header  Snapshot Test 1`] = `
+<body>
+  <div>
+    <div
+      class="pt-4  px-6  w-full  justify-between bg-fill-fill flex  border-b border-solid border-border-border-light w-full"
+    >
+      <div
+        class="flex w-64 justify-between pb-4"
+      >
+        <div>
+          Logo
+        </div>
+      </div>
+      <div
+        class=" flex flex-1 justify-center"
+      >
+        <div
+          class="scroll-hidden relative flex w-full max-w-fit overflow-auto scroll-smooth  after:content-[""] after:w-full after:bottom-0 after:absolute after:bg-border-disabled after:h-[0.0625rem]  space-x-4 "
+        >
+          <div
+            class="  text-text-action focus:text-text-action label-medium hover:text-text-action-hover text-nowrap px-2 pb-4 pt-1 font-semibold !outline-none"
+            role="button"
+            tabindex="0"
+          >
+            Placeholder 1
+          </div>
+          <div
+            class="  text-text-light focus:text-text-action label-medium hover:text-text-action-hover text-nowrap px-2 pb-4 pt-1 font-semibold !outline-none"
+            role="button"
+            tabindex="0"
+          >
+            Placeholder 2
+          </div>
+          <div
+            class="  text-text-light focus:text-text-action label-medium hover:text-text-action-hover text-nowrap px-2 pb-4 pt-1 font-semibold !outline-none"
+            role="button"
+            tabindex="0"
+          >
+            Placeholder 3
+          </div>
+          <div
+            class="  bg-border-action absolute bottom-0 z-10 !m-0 h-[0.125rem] transition-[width_left] ease-out"
+            style="width: 0px; left: 0px;"
+          />
+           
+        </div>
+      </div>
+      <div
+        class="flex items-center [&>*]:ml-6 pb-4"
+      >
+        <button
+          class=" bg-fill-action hover:bg-fill-action-pressed !shadow-border-brand-focus-ring active:bg-fill-action-pressed disabled:bg-fill-action-disabled text-fill-fill active:text-text-on-fill-action-pressed disabled:text-text-disabled [&:not(:focus)]:shadow-[0px_1px_2px_0px] [&:not(:focus)]:!shadow-[rgba(27,32,41,0.05)] label-medium h-10 px-5   flex items-center justify-center  rounded-lg font-semibold  !outline-none focus-visible:shadow-[0px_0px_0px_4px] disabled:cursor-not-allowed "
+          data-testid="defaultButtonTestId"
+          type="button"
+        >
+          <span
+            class="text-nowrap "
+          >
+            Button
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+</body>
+`;

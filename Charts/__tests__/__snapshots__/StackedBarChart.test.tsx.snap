@@ -1,0 +1,779 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`StackedBarChart renders correctly with all props provided (snapshot) 1`] = `
+<DocumentFragment>
+  <div
+    class=" relative flex items-end gap-10"
+    data-testid="bar-chart-test-id"
+  >
+    <svg
+      height="400"
+      width="600"
+    >
+      <g
+        class="visx-group"
+        transform="translate(0, 0)"
+      >
+        <g
+          class="visx-group visx-rows [&>*:first-child]:[stroke-dasharray:none]"
+          transform="translate(46, 0)"
+        >
+          <line
+            class="visx-line"
+            fill="transparent"
+            height="380"
+            shape-rendering="crispEdges"
+            stroke="rgba(208, 211, 216, 1)"
+            stroke-dasharray="4 4"
+            stroke-width="0.5"
+            x1="0"
+            x2="600"
+            y1="380"
+            y2="380"
+          />
+          <line
+            class="visx-line"
+            fill="transparent"
+            height="380"
+            shape-rendering="crispEdges"
+            stroke="rgba(208, 211, 216, 1)"
+            stroke-dasharray="4 4"
+            stroke-width="0.5"
+            x1="0"
+            x2="600"
+            y1="335"
+            y2="335"
+          />
+          <line
+            class="visx-line"
+            fill="transparent"
+            height="380"
+            shape-rendering="crispEdges"
+            stroke="rgba(208, 211, 216, 1)"
+            stroke-dasharray="4 4"
+            stroke-width="0.5"
+            x1="0"
+            x2="600"
+            y1="290"
+            y2="290"
+          />
+          <line
+            class="visx-line"
+            fill="transparent"
+            height="380"
+            shape-rendering="crispEdges"
+            stroke="rgba(208, 211, 216, 1)"
+            stroke-dasharray="4 4"
+            stroke-width="0.5"
+            x1="0"
+            x2="600"
+            y1="245"
+            y2="245"
+          />
+          <line
+            class="visx-line"
+            fill="transparent"
+            height="380"
+            shape-rendering="crispEdges"
+            stroke="rgba(208, 211, 216, 1)"
+            stroke-dasharray="4 4"
+            stroke-width="0.5"
+            x1="0"
+            x2="600"
+            y1="200"
+            y2="200"
+          />
+          <line
+            class="visx-line"
+            fill="transparent"
+            height="380"
+            shape-rendering="crispEdges"
+            stroke="rgba(208, 211, 216, 1)"
+            stroke-dasharray="4 4"
+            stroke-width="0.5"
+            x1="0"
+            x2="600"
+            y1="155"
+            y2="155"
+          />
+          <line
+            class="visx-line"
+            fill="transparent"
+            height="380"
+            shape-rendering="crispEdges"
+            stroke="rgba(208, 211, 216, 1)"
+            stroke-dasharray="4 4"
+            stroke-width="0.5"
+            x1="0"
+            x2="600"
+            y1="110"
+            y2="110"
+          />
+          <line
+            class="visx-line"
+            fill="transparent"
+            height="380"
+            shape-rendering="crispEdges"
+            stroke="rgba(208, 211, 216, 1)"
+            stroke-dasharray="4 4"
+            stroke-width="0.5"
+            x1="0"
+            x2="600"
+            y1="65"
+            y2="65"
+          />
+          <line
+            class="visx-line"
+            fill="transparent"
+            height="380"
+            shape-rendering="crispEdges"
+            stroke="rgba(208, 211, 216, 1)"
+            stroke-dasharray="4 4"
+            stroke-width="0.5"
+            x1="0"
+            x2="600"
+            y1="20"
+            y2="20"
+          />
+        </g>
+        <g
+          class="visx-group visx-axis visx-axis-left"
+          transform="translate(30, 0)"
+        >
+          <g
+            class="visx-group visx-axis-tick"
+            transform="translate(0, 0)"
+          >
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0"
+            >
+              <text
+                class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+                text-anchor="end"
+                transform=""
+                x="-8"
+                y="380"
+              >
+                <tspan
+                  dy="0.355em"
+                  x="-8"
+                >
+                  0
+                </tspan>
+              </text>
+            </svg>
+          </g>
+          <g
+            class="visx-group visx-axis-tick"
+            transform="translate(0, 0)"
+          >
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0"
+            >
+              <text
+                class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+                text-anchor="end"
+                transform=""
+                x="-8"
+                y="335"
+              >
+                <tspan
+                  dy="0.355em"
+                  x="-8"
+                >
+                  5
+                </tspan>
+              </text>
+            </svg>
+          </g>
+          <g
+            class="visx-group visx-axis-tick"
+            transform="translate(0, 0)"
+          >
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0"
+            >
+              <text
+                class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+                text-anchor="end"
+                transform=""
+                x="-8"
+                y="290"
+              >
+                <tspan
+                  dy="0.355em"
+                  x="-8"
+                >
+                  10
+                </tspan>
+              </text>
+            </svg>
+          </g>
+          <g
+            class="visx-group visx-axis-tick"
+            transform="translate(0, 0)"
+          >
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0"
+            >
+              <text
+                class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+                text-anchor="end"
+                transform=""
+                x="-8"
+                y="245"
+              >
+                <tspan
+                  dy="0.355em"
+                  x="-8"
+                >
+                  15
+                </tspan>
+              </text>
+            </svg>
+          </g>
+          <g
+            class="visx-group visx-axis-tick"
+            transform="translate(0, 0)"
+          >
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0"
+            >
+              <text
+                class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+                text-anchor="end"
+                transform=""
+                x="-8"
+                y="200"
+              >
+                <tspan
+                  dy="0.355em"
+                  x="-8"
+                >
+                  20
+                </tspan>
+              </text>
+            </svg>
+          </g>
+          <g
+            class="visx-group visx-axis-tick"
+            transform="translate(0, 0)"
+          >
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0"
+            >
+              <text
+                class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+                text-anchor="end"
+                transform=""
+                x="-8"
+                y="155"
+              >
+                <tspan
+                  dy="0.355em"
+                  x="-8"
+                >
+                  25
+                </tspan>
+              </text>
+            </svg>
+          </g>
+          <g
+            class="visx-group visx-axis-tick"
+            transform="translate(0, 0)"
+          >
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0"
+            >
+              <text
+                class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+                text-anchor="end"
+                transform=""
+                x="-8"
+                y="110"
+              >
+                <tspan
+                  dy="0.355em"
+                  x="-8"
+                >
+                  30
+                </tspan>
+              </text>
+            </svg>
+          </g>
+          <g
+            class="visx-group visx-axis-tick"
+            transform="translate(0, 0)"
+          >
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0"
+            >
+              <text
+                class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+                text-anchor="end"
+                transform=""
+                x="-8"
+                y="65"
+              >
+                <tspan
+                  dy="0.355em"
+                  x="-8"
+                >
+                  35
+                </tspan>
+              </text>
+            </svg>
+          </g>
+          <g
+            class="visx-group visx-axis-tick"
+            transform="translate(0, 0)"
+          >
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0"
+            >
+              <text
+                class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+                text-anchor="end"
+                transform=""
+                x="-8"
+                y="20"
+              >
+                <tspan
+                  dy="0.355em"
+                  x="-8"
+                >
+                  40
+                </tspan>
+              </text>
+            </svg>
+          </g>
+        </g>
+        <g
+          class="visx-group relative z-10"
+          transform="translate(0, 0)"
+          width="600"
+        >
+          <path
+            class=""
+            d="
+                              M 87 290 
+                              Q 87 290 87 290 
+                              H 185 
+                              Q 185 290 185 290 
+                              V 380 
+                              H 87 
+                              Z
+                            "
+            fill="#1f77b4"
+            style="filter: url('#stacked-bar-shadow');"
+          />
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class=" !label-extra-small fill-[rgba(0,0,0,0.6)] text-left"
+              text-anchor="middle"
+              transform=""
+              x="136"
+              y="335"
+            >
+              <tspan
+                dy="0.355em"
+                x="136"
+              >
+                26%
+              </tspan>
+            </text>
+          </svg>
+          <path
+            class=""
+            d="
+                              M 251 272 
+                              Q 251 272 251 272 
+                              H 349 
+                              Q 349 272 349 272 
+                              V 380 
+                              H 251 
+                              Z
+                            "
+            fill="#1f77b4"
+            style="filter: url('#stacked-bar-shadow');"
+          />
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class=" !label-extra-small fill-[rgba(0,0,0,0.6)] text-left"
+              text-anchor="middle"
+              transform=""
+              x="300"
+              y="326"
+            >
+              <tspan
+                dy="0.355em"
+                x="300"
+              >
+                31%
+              </tspan>
+            </text>
+          </svg>
+          <path
+            class=""
+            d="
+                              M 415 335 
+                              Q 415 335 415 335 
+                              H 513 
+                              Q 513 335 513 335 
+                              V 380 
+                              H 415 
+                              Z
+                            "
+            fill="#1f77b4"
+            style="filter: url('#stacked-bar-shadow');"
+          />
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class=" !label-extra-small fill-[rgba(0,0,0,0.6)] text-left"
+              text-anchor="middle"
+              transform=""
+              x="464"
+              y="357.5"
+            >
+              <tspan
+                dy="0.355em"
+                x="464"
+              >
+                13%
+              </tspan>
+            </text>
+          </svg>
+          <path
+            class=""
+            d="
+                              M 87 155 
+                              Q 87 155 87 155 
+                              H 185 
+                              Q 185 155 185 155 
+                              V 290 
+                              H 87 
+                              Z
+                            "
+            fill="#ff7f0e"
+            style="filter: url('#stacked-bar-shadow');"
+          />
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class=" !label-extra-small fill-[rgba(0,0,0,0.6)] text-left"
+              text-anchor="middle"
+              transform=""
+              x="136"
+              y="222.5"
+            >
+              <tspan
+                dy="0.355em"
+                x="136"
+              >
+                39%
+              </tspan>
+            </text>
+          </svg>
+          <path
+            class=""
+            d="
+                              M 251 200 
+                              Q 251 200 251 200 
+                              H 349 
+                              Q 349 200 349 200 
+                              V 272 
+                              H 251 
+                              Z
+                            "
+            fill="#ff7f0e"
+            style="filter: url('#stacked-bar-shadow');"
+          />
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class=" !label-extra-small fill-[rgba(0,0,0,0.6)] text-left"
+              text-anchor="middle"
+              transform=""
+              x="300"
+              y="236"
+            >
+              <tspan
+                dy="0.355em"
+                x="300"
+              >
+                21%
+              </tspan>
+            </text>
+          </svg>
+          <path
+            class=""
+            d="
+                              M 415 191 
+                              Q 415 191 415 191 
+                              H 513 
+                              Q 513 191 513 191 
+                              V 335 
+                              H 415 
+                              Z
+                            "
+            fill="#ff7f0e"
+            style="filter: url('#stacked-bar-shadow');"
+          />
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class=" !label-extra-small fill-[rgba(0,0,0,0.6)] text-left"
+              text-anchor="middle"
+              transform=""
+              x="464"
+              y="263"
+            >
+              <tspan
+                dy="0.355em"
+                x="464"
+              >
+                42%
+              </tspan>
+            </text>
+          </svg>
+          <path
+            class=""
+            d="
+                              M 87 50.999999999999986 
+                              Q 87 46.999999999999986 91 46.999999999999986 
+                              H 181 
+                              Q 185 46.999999999999986 185 50.999999999999986 
+                              V 155 
+                              H 87 
+                              Z
+                            "
+            fill="#2ca02c"
+            style="filter: url('#stacked-bar-shadow');"
+          />
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class=" !label-extra-small fill-[rgba(0,0,0,0.6)] text-left"
+              text-anchor="middle"
+              transform=""
+              x="136"
+              y="101"
+            >
+              <tspan
+                dy="0.355em"
+                x="136"
+              >
+                31%
+              </tspan>
+            </text>
+          </svg>
+          <path
+            class=""
+            d="
+                              M 251 42.000000000000014 
+                              Q 251 38.000000000000014 255 38.000000000000014 
+                              H 345 
+                              Q 349 38.000000000000014 349 42.000000000000014 
+                              V 200 
+                              H 251 
+                              Z
+                            "
+            fill="#2ca02c"
+            style="filter: url('#stacked-bar-shadow');"
+          />
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class=" !label-extra-small fill-[rgba(0,0,0,0.6)] text-left"
+              text-anchor="middle"
+              transform=""
+              x="300"
+              y="119.00000000000001"
+            >
+              <tspan
+                dy="0.355em"
+                x="300"
+              >
+                47%
+              </tspan>
+            </text>
+          </svg>
+          <path
+            class=""
+            d="
+                              M 415 104.99999999999999 
+                              Q 415 100.99999999999999 419 100.99999999999999 
+                              H 509 
+                              Q 513 100.99999999999999 513 104.99999999999999 
+                              V 191 
+                              H 415 
+                              Z
+                            "
+            fill="#2ca02c"
+            style="filter: url('#stacked-bar-shadow');"
+          />
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class=" !label-extra-small fill-[rgba(0,0,0,0.6)] text-left"
+              text-anchor="middle"
+              transform=""
+              x="464"
+              y="146"
+            >
+              <tspan
+                dy="0.355em"
+                x="464"
+              >
+                26%
+              </tspan>
+            </text>
+          </svg>
+          <defs>
+            <filter
+              color-interpolation-filters="sRGB"
+              filterUnits="userSpaceOnUse"
+              id="stacked-bar-shadow"
+            >
+              <fedropshadow
+                dx="4"
+                dy="0"
+                flood-color="rgba(251,203,176,0.5)"
+                stdDeviation="0"
+              />
+            </filter>
+          </defs>
+        </g>
+        <g
+          class="visx-group visx-axis visx-axis-bottom"
+          transform="translate(0, 380)"
+        >
+          <g
+            class="visx-group visx-axis-tick"
+            transform="translate(0, 0)"
+          >
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0.5rem"
+            >
+              <text
+                class="!label-small fill-[rgba(0,0,0,0.4)]"
+                text-anchor="middle"
+                transform=""
+                x="136"
+                y="18"
+              >
+                <tspan
+                  dy="0em"
+                  x="136"
+                >
+                  A
+                </tspan>
+              </text>
+            </svg>
+          </g>
+          <g
+            class="visx-group visx-axis-tick"
+            transform="translate(0, 0)"
+          >
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0.5rem"
+            >
+              <text
+                class="!label-small fill-[rgba(0,0,0,0.4)]"
+                text-anchor="middle"
+                transform=""
+                x="300"
+                y="18"
+              >
+                <tspan
+                  dy="0em"
+                  x="300"
+                >
+                  B
+                </tspan>
+              </text>
+            </svg>
+          </g>
+          <g
+            class="visx-group visx-axis-tick"
+            transform="translate(0, 0)"
+          >
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0.5rem"
+            >
+              <text
+                class="!label-small fill-[rgba(0,0,0,0.4)]"
+                text-anchor="middle"
+                transform=""
+                x="464"
+                y="18"
+              >
+                <tspan
+                  dy="0em"
+                  x="464"
+                >
+                  C
+                </tspan>
+              </text>
+            </svg>
+          </g>
+        </g>
+      </g>
+    </svg>
+  </div>
+</DocumentFragment>
+`;

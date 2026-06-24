@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`CardDetailsMweb renders correctly and matches snapshot 1`] = `
+<body>
+  <div>
+    <div
+      class="w-full min-w-[360px] grid grid-cols-2 items-center justify-center gap-6"
+      data-testid="card-details-mweb-id"
+    >
+      <div
+        class="relative  w-full col-span-2"
+      >
+        <div
+          class="flex w-full flex-col  col-span-2"
+        >
+          <label
+            class="!label-small  label-medium text-text-dark mb-2 flex items-center text-left font-medium "
+            for="cardNumber"
+          >
+            Card Number
+          </label>
+          <div
+            aria-label="0000 0000 0000 0000"
+            class="bg-fill-fill  border-border-border focus-within:border-border-action-focused focus-within:shadow-border-brand-focus-ring focus-within:shadow-[0px_0px_0px_4px]  relative h-12 rounded-lg border border-solid px-4 py-3 
+            
+            
+            
+            flex items-center hover:cursor-text
+          "
+            role="textbox"
+            tabindex="-1"
+          >
+            <input
+              autocomplete="off"
+              class="label-medium  paragraph-medium text-text-text placeholder-text-light w-full align-top focus:outline-none "
+              data-testid="cardNumber"
+              id="cardNumber"
+              inputmode="numeric"
+              maxlength="19"
+              name="cardNumber"
+              placeholder="0000 0000 0000 0000"
+              tabindex="0"
+              type="text"
+              value=""
+            />
+            <div
+              class="ml-2 text-icon-icon "
+            >
+              <svg
+                class=""
+                fill="none"
+                height="40"
+                viewBox="0 0 40 40"
+                width="40"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M25.4085 10.1726H14.5923V29.8276H25.4085V10.1726Z"
+                  fill="#FF5F00"
+                />
+                <path
+                  d="M15.279 20C15.2773 18.1071 15.7015 16.2386 16.5195 14.536C17.3374 12.8333 18.5278 11.3412 20.0003 10.1725C18.1768 8.72309 15.9867 7.82171 13.6805 7.57141C11.3743 7.32111 9.045 7.73197 6.9588 8.75706C4.8726 9.78215 3.1137 11.3801 1.88313 13.3682C0.652568 15.3564 0 17.6545 0 20C0 22.3455 0.652568 24.6436 1.88313 26.6318C3.1137 28.6199 4.8726 30.2179 6.9588 31.2429C9.045 32.268 11.3743 32.6789 13.6805 32.4286C15.9867 32.1783 18.1768 31.2769 20.0003 29.8275C18.5278 28.6588 17.3375 27.1667 16.5195 25.464C15.7015 23.7614 15.2773 21.8929 15.279 20Z"
+                  fill="#EB001B"
+                />
+                <path
+                  d="M39.9999 20C40 22.3454 39.3475 24.6436 38.117 26.6317C36.8865 28.6199 35.1277 30.2178 33.0415 31.2429C30.9554 32.268 28.6261 32.6789 26.3199 32.4286C24.0137 32.1783 21.8238 31.2769 20.0002 29.8275C21.4715 28.6576 22.6609 27.1653 23.4787 25.4629C24.2966 23.7605 24.7215 21.8926 24.7215 20C24.7215 18.1074 24.2966 16.2395 23.4787 14.5371C22.6609 12.8347 21.4715 11.3424 20.0002 10.1725C21.8238 8.72309 24.0137 7.82171 26.3199 7.57141C28.6261 7.32111 30.9554 7.73199 33.0415 8.75709C35.1277 9.78218 36.8865 11.3801 38.117 13.3683C39.3475 15.3564 40 17.6546 39.9999 20Z"
+                  fill="#F79E1B"
+                />
+                <path
+                  d="M38.8207 27.7459V27.3434H38.9811V27.2613H38.5727V27.3434H38.7331V27.7459H38.8207ZM39.6136 27.7459V27.2605H39.4884L39.3444 27.5944L39.2004 27.2605H39.0752V27.7459H39.1635V27.3798L39.2986 27.6954H39.3902L39.5253 27.379V27.7459H39.6136Z"
+                  fill="#F79E1B"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+`;

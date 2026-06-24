@@ -1,0 +1,690 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Table Snapshot 1`] = `
+<body>
+  <div>
+    <div
+      class=" rounded-b-lg border-t border-border-border-light flex flex-col overflow-y-auto  rounded-t-lg border-x border-b"
+    >
+      <div
+        class="  bg-fill-fill-dark border-border-border-light flex min-h-12 w-fit min-w-full items-center rounded-t-lg border-b px-6"
+      >
+        <div
+          class="  relative flex items-center
+            
+            pl-2
+            text-left justify-start            
+            [&:hover>.pin-button]:visible
+          "
+          data-col-key="date"
+          role="columnheader"
+          style="min-width: 200px;"
+          tabindex="-1"
+        >
+          <span
+            class="text-text-dark label-small  font-semibold"
+          >
+            Date
+          </span>
+        </div>
+        <div
+          class="  relative flex items-center
+            cursor-pointer
+            pr-2
+            text-right justify-end            
+            [&:hover>.pin-button]:visible
+          "
+          data-col-key="amount"
+          role="columnheader"
+          style="min-width: 150px;"
+          tabindex="0"
+        >
+          <span
+            class="text-text-dark label-small  font-semibold"
+          >
+            Amount
+          </span>
+          <div>
+            <svg
+              class="ml-2.5  "
+              fill="none"
+              height="16"
+              viewBox="0 0 11 16"
+              width="11"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M4.93887 0.688289C5.19356 0.437237 5.60649 0.437237 5.86118 0.688289L10.209 4.974C10.4637 5.22505 10.4637 5.63209 10.209 5.88314C9.95432 6.13419 9.54138 6.13419 9.28669 5.88314L5.40002 2.05199L1.51335 5.88314C1.25867 6.13419 0.845731 6.13419 0.591042 5.88314C0.336352 5.63209 0.336352 5.22505 0.591042 4.974L4.93887
+        "
+                fill="#D0D3D8"
+                fill-rule="evenodd"
+              />
+              <path
+                clip-rule="evenodd"
+                d="M4.93887 0.688289ZM0.591042 10.1169C0.845731 9.86581 1.25867   9.86581 1.51335 10.1169L5.40002 13.948L9.28669 10.1169C9.54138 9.86581 9.95432 9.86581 10.209 10.1169C10.4637 10.3679 10.4637 10.7749 10.209 11.026L5.86118 15.3117C5.60649 15.5628 5.19356 15.5628 4.93887 15.3117L0.591042 11.026C0.336352 10.7749 0.336352 10.3679 0.591042 10.1169Z"
+                fill="#D0D3D8"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </div>
+        </div>
+        <div
+          class="  relative flex items-center
+            
+            pl-2
+            text-left justify-start            
+            [&:hover>.pin-button]:visible
+          "
+          data-col-key="mode"
+          role="columnheader"
+          style="min-width: 80px;"
+          tabindex="-1"
+        >
+          <span
+            class="text-text-dark label-small  font-semibold"
+          >
+            Mode
+          </span>
+        </div>
+        <div
+          class="  relative flex items-center
+            
+            pl-2
+            text-center justify-center            
+            [&:hover>.pin-button]:visible
+          "
+          data-col-key="status"
+          role="columnheader"
+          style="min-width: 150px;"
+          tabindex="-1"
+        >
+          <span
+            class="text-text-dark label-small  font-semibold"
+          >
+            Status
+          </span>
+        </div>
+        <div
+          class="  relative flex items-center
+            
+            pl-2
+            text-left justify-start            
+            [&:hover>.pin-button]:visible
+          "
+          data-col-key="utr"
+          role="columnheader"
+          style="min-width: 100px;"
+          tabindex="-1"
+        >
+          <span
+            class="text-text-dark label-small  font-semibold"
+          >
+            UTR
+          </span>
+        </div>
+        <div
+          class="  relative flex items-center
+            
+            pl-2
+            text-left justify-start            
+            [&:hover>.pin-button]:visible
+          "
+          data-col-key="remitterName"
+          role="columnheader"
+          style="min-width: 150px;"
+          tabindex="-1"
+        >
+          <span
+            class="text-text-dark label-small  font-semibold"
+          >
+            Remitter Name
+          </span>
+        </div>
+        <div
+          class="  relative flex items-center
+            
+            pl-2
+            text-left justify-start            
+            [&:hover>.pin-button]:visible
+          "
+          data-col-key="actionButtons"
+          role="columnheader"
+          style="min-width: auto;"
+          tabindex="-1"
+        >
+          <span
+            class="text-text-dark label-small  font-semibold"
+          />
+        </div>
+      </div>
+      <div
+        class="w-fit min-w-full [&>*:last-child>div]:border-b-0"
+      >
+        <div>
+          <div
+            class="   px-6 flex items-center border-border-border-light border-b py-3 transition-[border-color] duration-300   "
+            role="row"
+            tabindex="-1"
+          >
+            <div
+              class=" text-text-text label-medium flex h-12 items-center gap-4 overflow-hidden pl-2  
+               text-left justify-start         
+            pl-2            
+          "
+              data-col-key="date"
+              data-testid="table-data-0-date-0"
+              style="min-width: 200px;"
+            >
+              <span>
+                25 Jul 2021, 03:03 PM
+              </span>
+            </div>
+            <div
+              class=" text-text-text label-medium flex h-12 items-center gap-4 overflow-hidden pl-2  
+               text-right justify-end         
+            pr-2            
+          "
+              data-col-key="amount"
+              data-testid="table-data-0-amount-0"
+              style="min-width: 150px;"
+            >
+              <span>
+                ₹
+                99999
+              </span>
+            </div>
+            <div
+              class=" text-text-text label-medium flex h-12 items-center gap-4 overflow-hidden pl-2  
+               text-left justify-start         
+            pl-2            
+          "
+              data-col-key="mode"
+              data-testid="table-data-0-mode-0"
+              style="min-width: 80px;"
+            >
+              <span
+                class=" rounded-2xl border border-solid border-[#5E6879] bg-[#FAFBFB] px-2"
+              >
+                IMPS
+              </span>
+            </div>
+            <div
+              class=" text-text-text label-medium flex h-12 items-center gap-4 overflow-hidden pl-2  
+               text-center justify-center         
+            pl-2            
+          "
+              data-col-key="status"
+              data-testid="table-data-0-status-0"
+              style="min-width: 150px;"
+            >
+              success
+            </div>
+            <div
+              class=" text-text-text label-medium flex h-12 items-center gap-4 overflow-hidden pl-2  
+               text-left justify-start         
+            pl-2            
+          "
+              data-col-key="utr"
+              data-testid="table-data-0-utr-0"
+              style="min-width: 100px;"
+            >
+              123451231231231...
+            </div>
+            <div
+              class=" text-text-text label-medium flex h-12 items-center gap-4 overflow-hidden pl-2  
+               text-left justify-start         
+            pl-2            
+          "
+              data-col-key="remitterName"
+              data-testid="table-data-0-remitterName-0"
+              style="min-width: 150px;"
+            >
+              Test
+            </div>
+            <div
+              class=" text-text-text label-medium flex h-12 items-center gap-4 overflow-hidden pl-2  
+               text-left justify-start         
+            pl-2            
+          "
+              data-col-key="actionButtons"
+              data-testid="table-data-0-actionButtons-0"
+              style="min-width: auto;"
+            >
+              <div
+                class="flex"
+              >
+                <button
+                  class="underline bg-transparent hover:bg-fill-hover-light !shadow-fill-hover active:bg-fill-hover-light text-text-dark active:text-text-dark-pressed disabled:text-text-disabled label-medium h-10 px-5   flex items-center justify-center  rounded-lg font-semibold  !outline-none focus-visible:shadow-[0px_0px_0px_4px] disabled:cursor-not-allowed "
+                  data-testid="defaultButtonTestId"
+                  type="button"
+                >
+                  <span
+                    class=" text-nowrap "
+                  >
+                    Action Button
+                  </span>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+`;
+
+exports[`Table With Pagination 1`] = `
+<body>
+  <div>
+    <div
+      class=" border-border-border-light  rounded-lg border"
+    >
+      <div
+        class=" border-x-0 border-border-border-light flex flex-col overflow-y-auto  rounded-t-lg border-x border-b"
+      >
+        <div
+          class="  bg-fill-fill-dark border-border-border-light flex min-h-12 w-fit min-w-full items-center rounded-t-lg border-b px-6"
+        >
+          <div
+            class="  relative flex items-center
+            
+            pl-2
+            text-left justify-start            
+            [&:hover>.pin-button]:visible
+          "
+            data-col-key="date"
+            role="columnheader"
+            style="min-width: 200px;"
+            tabindex="-1"
+          >
+            <span
+              class="text-text-dark label-small  font-semibold"
+            >
+              Date
+            </span>
+          </div>
+          <div
+            class="  relative flex items-center
+            cursor-pointer
+            pr-2
+            text-right justify-end            
+            [&:hover>.pin-button]:visible
+          "
+            data-col-key="amount"
+            role="columnheader"
+            style="min-width: 150px;"
+            tabindex="0"
+          >
+            <span
+              class="text-text-dark label-small  font-semibold"
+            >
+              Amount
+            </span>
+            <div>
+              <svg
+                class="ml-2.5  "
+                fill="none"
+                height="16"
+                viewBox="0 0 11 16"
+                width="11"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  clip-rule="evenodd"
+                  d="M4.93887 0.688289C5.19356 0.437237 5.60649 0.437237 5.86118 0.688289L10.209 4.974C10.4637 5.22505 10.4637 5.63209 10.209 5.88314C9.95432 6.13419 9.54138 6.13419 9.28669 5.88314L5.40002 2.05199L1.51335 5.88314C1.25867 6.13419 0.845731 6.13419 0.591042 5.88314C0.336352 5.63209 0.336352 5.22505 0.591042 4.974L4.93887
+        "
+                  fill="#D0D3D8"
+                  fill-rule="evenodd"
+                />
+                <path
+                  clip-rule="evenodd"
+                  d="M4.93887 0.688289ZM0.591042 10.1169C0.845731 9.86581 1.25867   9.86581 1.51335 10.1169L5.40002 13.948L9.28669 10.1169C9.54138 9.86581 9.95432 9.86581 10.209 10.1169C10.4637 10.3679 10.4637 10.7749 10.209 11.026L5.86118 15.3117C5.60649 15.5628 5.19356 15.5628 4.93887 15.3117L0.591042 11.026C0.336352 10.7749 0.336352 10.3679 0.591042 10.1169Z"
+                  fill="#D0D3D8"
+                  fill-rule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            class="  relative flex items-center
+            
+            pl-2
+            text-left justify-start            
+            [&:hover>.pin-button]:visible
+          "
+            data-col-key="mode"
+            role="columnheader"
+            style="min-width: 80px;"
+            tabindex="-1"
+          >
+            <span
+              class="text-text-dark label-small  font-semibold"
+            >
+              Mode
+            </span>
+          </div>
+          <div
+            class="  relative flex items-center
+            
+            pl-2
+            text-center justify-center            
+            [&:hover>.pin-button]:visible
+          "
+            data-col-key="status"
+            role="columnheader"
+            style="min-width: 150px;"
+            tabindex="-1"
+          >
+            <span
+              class="text-text-dark label-small  font-semibold"
+            >
+              Status
+            </span>
+          </div>
+          <div
+            class="  relative flex items-center
+            
+            pl-2
+            text-left justify-start            
+            [&:hover>.pin-button]:visible
+          "
+            data-col-key="utr"
+            role="columnheader"
+            style="min-width: 100px;"
+            tabindex="-1"
+          >
+            <span
+              class="text-text-dark label-small  font-semibold"
+            >
+              UTR
+            </span>
+          </div>
+          <div
+            class="  relative flex items-center
+            
+            pl-2
+            text-left justify-start            
+            [&:hover>.pin-button]:visible
+          "
+            data-col-key="remitterName"
+            role="columnheader"
+            style="min-width: 150px;"
+            tabindex="-1"
+          >
+            <span
+              class="text-text-dark label-small  font-semibold"
+            >
+              Remitter Name
+            </span>
+          </div>
+          <div
+            class="  relative flex items-center
+            
+            pl-2
+            text-left justify-start            
+            [&:hover>.pin-button]:visible
+          "
+            data-col-key="actionButtons"
+            role="columnheader"
+            style="min-width: auto;"
+            tabindex="-1"
+          >
+            <span
+              class="text-text-dark label-small  font-semibold"
+            />
+          </div>
+        </div>
+        <div
+          class="w-fit min-w-full [&>*:last-child>div]:border-b-0"
+        >
+          <div>
+            <div
+              class="   px-6 flex items-center border-border-border-light border-b py-3 transition-[border-color] duration-300   "
+              role="row"
+              tabindex="-1"
+            >
+              <div
+                class=" text-text-text label-medium flex h-12 items-center gap-4 overflow-hidden pl-2  
+               text-left justify-start         
+            pl-2            
+          "
+                data-col-key="date"
+                data-testid="table-data-0-date-0"
+                style="min-width: 200px;"
+              >
+                <span>
+                  25 Jul 2021, 03:03 PM
+                </span>
+              </div>
+              <div
+                class=" text-text-text label-medium flex h-12 items-center gap-4 overflow-hidden pl-2  
+               text-right justify-end         
+            pr-2            
+          "
+                data-col-key="amount"
+                data-testid="table-data-0-amount-0"
+                style="min-width: 150px;"
+              >
+                <span>
+                  ₹
+                  99999
+                </span>
+              </div>
+              <div
+                class=" text-text-text label-medium flex h-12 items-center gap-4 overflow-hidden pl-2  
+               text-left justify-start         
+            pl-2            
+          "
+                data-col-key="mode"
+                data-testid="table-data-0-mode-0"
+                style="min-width: 80px;"
+              >
+                <span
+                  class=" rounded-2xl border border-solid border-[#5E6879] bg-[#FAFBFB] px-2"
+                >
+                  IMPS
+                </span>
+              </div>
+              <div
+                class=" text-text-text label-medium flex h-12 items-center gap-4 overflow-hidden pl-2  
+               text-center justify-center         
+            pl-2            
+          "
+                data-col-key="status"
+                data-testid="table-data-0-status-0"
+                style="min-width: 150px;"
+              >
+                success
+              </div>
+              <div
+                class=" text-text-text label-medium flex h-12 items-center gap-4 overflow-hidden pl-2  
+               text-left justify-start         
+            pl-2            
+          "
+                data-col-key="utr"
+                data-testid="table-data-0-utr-0"
+                style="min-width: 100px;"
+              >
+                123451231231231...
+              </div>
+              <div
+                class=" text-text-text label-medium flex h-12 items-center gap-4 overflow-hidden pl-2  
+               text-left justify-start         
+            pl-2            
+          "
+                data-col-key="remitterName"
+                data-testid="table-data-0-remitterName-0"
+                style="min-width: 150px;"
+              >
+                Test
+              </div>
+              <div
+                class=" text-text-text label-medium flex h-12 items-center gap-4 overflow-hidden pl-2  
+               text-left justify-start         
+            pl-2            
+          "
+                data-col-key="actionButtons"
+                data-testid="table-data-0-actionButtons-0"
+                style="min-width: auto;"
+              >
+                <div
+                  class="flex"
+                >
+                  <button
+                    class="underline bg-transparent hover:bg-fill-hover-light !shadow-fill-hover active:bg-fill-hover-light text-text-dark active:text-text-dark-pressed disabled:text-text-disabled label-medium h-10 px-5   flex items-center justify-center  rounded-lg font-semibold  !outline-none focus-visible:shadow-[0px_0px_0px_4px] disabled:cursor-not-allowed "
+                    data-testid="defaultButtonTestId"
+                    type="button"
+                  >
+                    <span
+                      class=" text-nowrap "
+                    >
+                      Action Button
+                    </span>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="flex w-full items-center justify-between px-6 py-4 undefined  "
+      >
+        <div
+          class="flex items-center"
+        >
+          <div
+            class=" border-border-border relative mr-4 w-32 rounded-lg border px-3 py-2.5"
+            role="button"
+            tabindex="0"
+          >
+            <div
+              class=" label-medium text-text-dark flex items-center px-1 font-semibold"
+            >
+              <span
+                class="mr-1"
+              >
+                Show:
+              </span>
+              <div
+                class="flex flex-1 justify-between"
+              >
+                5
+                <svg
+                  class="text-icon-icon  duration-200"
+                  fill="none"
+                  height="20"
+                  viewBox="0 0 20 20"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    clip-rule="evenodd"
+                    d="M3.22781 6.23431C3.53155 5.9219 4.02401 5.9219 4.32775 6.23431L10 12.0686L15.6723 6.23431C15.976 5.9219 16.4685 5.9219 16.7722 6.23431C17.0759 6.54673 17.0759 7.05327 16.7722 7.36569L10.55 13.7657C10.2462 14.0781 9.75377 14.0781 9.45003 13.7657L3.22781 7.36569C2.92406 7.05327 2.92406 6.54673 3.22781 6.23431Z"
+                    fill="#3B475B"
+                    fill-rule="evenodd"
+                  />
+                </svg>
+              </div>
+            </div>
+             
+          </div>
+          <div
+            class="label-medium text-text-light mr-2"
+          >
+            Result: 
+            1
+             - 
+            1
+             of 
+            1
+          </div>
+        </div>
+        <ul
+          class="rc-pagination flex items-center"
+        >
+          <li
+            aria-disabled="true"
+            class="rc-pagination-prev rc-pagination-disabled"
+          >
+            <button
+              class="bg-fill-fill text-icon-icon label-medium border-border-border mr-4 flex w-28 items-center justify-center rounded-lg border px-2 py-2.5 font-semibold
+              
+                text-text-disabled border-border-disabled
+              "
+              disabled=""
+              tabindex="-1"
+              type="button"
+            >
+              <svg
+                fill="none"
+                height="20"
+                viewBox="0 0 20 20"
+                width="20"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  clip-rule="evenodd"
+                  d="M13.5303 3.46967C13.8232 3.76256 13.8232 4.23744 13.5303 4.53033L8.06066 10L13.5303 15.4697C13.8232 15.7626 13.8232 16.2374 13.5303 16.5303C13.2374 16.8232 12.7626 16.8232 12.4697 16.5303L6.46967 10.5303C6.17678 10.2374 6.17678 9.76256 6.46967 9.46967L12.4697 3.46967C12.7626 3.17678 13.2374 3.17678 13.5303 3.46967Z"
+                  fill="currentColor"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <span
+                class="px-1 text-text-disabled"
+              >
+                Previous
+              </span>
+            </button>
+          </li>
+          <li
+            class="rc-pagination-item rc-pagination-item-1 rc-pagination-item-active"
+            tabindex="0"
+          >
+            <div
+              class="!border-border-dark-hover !pointer-events-none !border label-medium text-text-dark hover:!bg-fill-pressed mr-2 flex h-6 w-auto min-w-6 cursor-pointer items-center justify-center rounded px-1"
+            >
+              1
+            </div>
+          </li>
+          <li
+            aria-disabled="true"
+            class="rc-pagination-next rc-pagination-disabled"
+          >
+            <button
+              class="bg-fill-fill text-icon-icon label-medium border-border-border ml-2 flex w-28 items-center justify-center rounded-lg border px-2 py-2.5 font-semibold 
+              text-text-disabled border-border-disabled
+            "
+              disabled=""
+              tabindex="-1"
+              type="button"
+            >
+              <span
+                class="px-1 text-text-disabled"
+              >
+                Next
+              </span>
+              <svg
+                fill="none"
+                height="20"
+                viewBox="0 0 21 20"
+                width="21"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  clip-rule="evenodd"
+                  d="M15.7803 9.46967C16.0732 9.76256 16.0732 10.2374 15.7803 10.5303L9.78033 16.5303C9.48744 16.8232 9.01256 16.8232 8.71967 16.5303C8.42678 16.2374 8.42678 15.7626 8.71967 15.4697L14.1893 10L8.71967 4.53033C8.42678 4.23744 8.42678 3.76256 8.71967 3.46967C9.01256 3.17678 9.48744 3.17678 9.78033 3.46967L15.7803 9.46967Z"
+                  fill="currentColor"
+                  fill-rule="evenodd"
+                />
+              </svg>
+            </button>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</body>
+`;

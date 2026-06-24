@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`CardsComponent renders correctly and matches snapshot 1`] = `
+<div>
+  <div
+    class="
+          border-border-border-light rounded-2xl border
+          bg-fill-fill
+          flex w-[21.375rem] flex-col
+          
+        "
+    data-testid="cards-test-id"
+  >
+    <div
+      class="p-4 flex flex-col justify-between"
+    >
+      <div>
+        <div
+          class="pb-3"
+        >
+          <p
+            class="heading-4-semibold text-text-dark "
+          >
+            Test Title
+          </p>
+          <p
+            class="label-medium text-text-light "
+          >
+            Test Subtitle
+          </p>
+        </div>
+        <p
+          class="label-medium text-text-text "
+        >
+          This is a sample card description.
+        </p>
+      </div>
+      <div
+        class="flex pt-10  gap-4"
+      />
+    </div>
+  </div>
+</div>
+`;

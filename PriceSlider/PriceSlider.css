@@ -1,0 +1,37 @@
+.slider-input {
+  position: absolute;
+  width: calc(100% + 24px);
+  top: 0;
+  left: -12px;
+  background: none;
+  pointer-events: none;
+  appearance: none;
+  height: 5px;
+}
+
+.slider-input::-webkit-slider-thumb {
+  height: 24px;
+  width: 24px;
+  border-radius: 50%;
+  border: 2px solid var(--thumb-border-color, #f15701);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 0.5px 4px 0px var(--thumb-border-color, #f15701);
+  background: #fff;
+  pointer-events: auto;
+  appearance: none;
+  cursor: pointer;
+  position: relative;
+}
+
+.slider-input::-moz-range-thumb {
+  height: 24px;
+  width: 24px;
+  border-radius: 50%;
+  border: 2px solid var(--thumb-border-color, #f15701);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 0.5px 4px 0px var(--thumb-border-color, #f15701);
+  background: #fff;
+  pointer-events: auto;
+  cursor: pointer;
+  position: relative;
+}

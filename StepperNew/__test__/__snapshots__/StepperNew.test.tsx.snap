@@ -1,0 +1,546 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`failed state 1`] = `
+<body>
+  <div>
+    <div
+      class="  flex flex-row pl-16 "
+    >
+      <div
+        class=" flex flex-col"
+        data-testid=""
+      >
+        <div
+          class="flex flex-row items-center"
+        >
+          <div
+            class=" bg-fill-action 
+       grid h-6 w-6 min-w-6 place-items-center rounded-full"
+          >
+            <svg
+              class="h-fit w-fit"
+              fill="none"
+              height="10"
+              viewBox="0 0 13 10"
+              width="13"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M2 5.5L5 8.5L11 2.5"
+                stroke="#EBEDEF"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2.5"
+              />
+            </svg>
+          </div>
+          <svg
+            class="border-border-action border"
+            fill="none"
+            height="1"
+            width="w-auto"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <line
+              stroke="currentColor"
+              stroke-width="1"
+              x1="0"
+              x2="100%"
+              y1="0"
+              y2="0"
+            />
+          </svg>
+        </div>
+        <div
+          class="  mt-2 flex max-w-64 translate-x-[calc(-1*50%+0.75rem)] flex-col items-center"
+        />
+      </div>
+      <div
+        class=" flex flex-col"
+        data-testid=""
+      >
+        <div
+          class="flex flex-row items-center"
+        >
+          <div
+            class=" bg-fill-error 
+       grid h-6 w-6 min-w-6 place-items-center rounded-full"
+          >
+            <svg
+              class="h-fit w-fit"
+              fill="none"
+              height="14"
+              viewBox="0 0 4 14"
+              width="4"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M1.99365 2V7M1.99365 12H2.00615"
+                stroke="#EBEDEF"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2.5"
+              />
+            </svg>
+          </div>
+          <svg
+            class="border-border-disabled border"
+            fill="none"
+            height="1"
+            width="w-auto"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <line
+              stroke="currentColor"
+              stroke-width="1"
+              x1="0"
+              x2="100%"
+              y1="0"
+              y2="0"
+            />
+          </svg>
+        </div>
+        <div
+          class="  mt-2 flex max-w-64 translate-x-[calc(-1*50%+0.75rem)] flex-col items-center"
+        />
+      </div>
+      <div
+        class=" flex flex-col"
+        data-testid=""
+      >
+        <div
+          class="flex flex-row items-center"
+        >
+          <div
+            class=" bg-fill-fill 
+      border-border-disabled border-4 grid h-6 w-6 min-w-6 place-items-center rounded-full"
+          >
+             
+          </div>
+           
+        </div>
+        <div
+          class="  mt-2 flex max-w-64 translate-x-[calc(-1*50%+0.75rem)] flex-col items-center"
+        />
+      </div>
+    </div>
+  </div>
+</body>
+`;
+
+exports[`finished state 1`] = `
+<body>
+  <div>
+    <div
+      class="  flex flex-row pl-16 "
+    >
+      <div
+        class=" flex flex-col"
+        data-testid=""
+      >
+        <div
+          class="flex flex-row items-center"
+        >
+          <div
+            class=" bg-fill-action 
+       grid h-6 w-6 min-w-6 place-items-center rounded-full"
+          >
+            <svg
+              class="h-fit w-fit"
+              fill="none"
+              height="10"
+              viewBox="0 0 13 10"
+              width="13"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M2 5.5L5 8.5L11 2.5"
+                stroke="#EBEDEF"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2.5"
+              />
+            </svg>
+          </div>
+          <svg
+            class="border-border-action border"
+            fill="none"
+            height="1"
+            width="w-auto"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <line
+              stroke="currentColor"
+              stroke-width="1"
+              x1="0"
+              x2="100%"
+              y1="0"
+              y2="0"
+            />
+          </svg>
+        </div>
+        <div
+          class="  mt-2 flex max-w-64 translate-x-[calc(-1*50%+0.75rem)] flex-col items-center"
+        />
+      </div>
+      <div
+        class=" flex flex-col"
+        data-testid=""
+      >
+        <div
+          class="flex flex-row items-center"
+        >
+          <div
+            class=" bg-fill-action 
+       grid h-6 w-6 min-w-6 place-items-center rounded-full"
+          >
+            <svg
+              class="h-fit w-fit"
+              fill="none"
+              height="10"
+              viewBox="0 0 13 10"
+              width="13"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M2 5.5L5 8.5L11 2.5"
+                stroke="#EBEDEF"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2.5"
+              />
+            </svg>
+          </div>
+          <svg
+            class="border-border-action border"
+            fill="none"
+            height="1"
+            width="w-auto"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <line
+              stroke="currentColor"
+              stroke-width="1"
+              x1="0"
+              x2="100%"
+              y1="0"
+              y2="0"
+            />
+          </svg>
+        </div>
+        <div
+          class="  mt-2 flex max-w-64 translate-x-[calc(-1*50%+0.75rem)] flex-col items-center"
+        />
+      </div>
+      <div
+        class=" flex flex-col"
+        data-testid=""
+      >
+        <div
+          class="flex flex-row items-center"
+        >
+          <div
+            class=" bg-fill-action 
+       grid h-6 w-6 min-w-6 place-items-center rounded-full"
+          >
+            <svg
+              class="h-fit w-fit"
+              fill="none"
+              height="10"
+              viewBox="0 0 13 10"
+              width="13"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M2 5.5L5 8.5L11 2.5"
+                stroke="#EBEDEF"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2.5"
+              />
+            </svg>
+          </div>
+           
+        </div>
+        <div
+          class="  mt-2 flex max-w-64 translate-x-[calc(-1*50%+0.75rem)] flex-col items-center"
+        />
+      </div>
+    </div>
+  </div>
+</body>
+`;
+
+exports[`initial state 1`] = `
+<body>
+  <div>
+    <div
+      class="  flex flex-row pl-16 "
+    >
+      <div
+        class=" flex flex-col"
+        data-testid=""
+      >
+        <div
+          class="flex flex-row items-center"
+        >
+          <div
+            class=" bg-fill-fill border-border-action border-4
+       grid h-6 w-6 min-w-6 place-items-center rounded-full"
+          >
+             
+          </div>
+          <svg
+            class="border-border-disabled border"
+            fill="none"
+            height="1"
+            width="w-auto"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <line
+              stroke="currentColor"
+              stroke-width="1"
+              x1="0"
+              x2="100%"
+              y1="0"
+              y2="0"
+            />
+          </svg>
+        </div>
+        <div
+          class="  mt-2 flex max-w-64 translate-x-[calc(-1*50%+0.75rem)] flex-col items-center"
+        />
+      </div>
+      <div
+        class=" flex flex-col"
+        data-testid=""
+      >
+        <div
+          class="flex flex-row items-center"
+        >
+          <div
+            class=" bg-fill-fill 
+      border-border-disabled border-4 grid h-6 w-6 min-w-6 place-items-center rounded-full"
+          >
+             
+          </div>
+          <svg
+            class="border-border-disabled border"
+            fill="none"
+            height="1"
+            width="w-auto"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <line
+              stroke="currentColor"
+              stroke-width="1"
+              x1="0"
+              x2="100%"
+              y1="0"
+              y2="0"
+            />
+          </svg>
+        </div>
+        <div
+          class="  mt-2 flex max-w-64 translate-x-[calc(-1*50%+0.75rem)] flex-col items-center"
+        />
+      </div>
+      <div
+        class=" flex flex-col"
+        data-testid=""
+      >
+        <div
+          class="flex flex-row items-center"
+        >
+          <div
+            class=" bg-fill-fill 
+      border-border-disabled border-4 grid h-6 w-6 min-w-6 place-items-center rounded-full"
+          >
+             
+          </div>
+           
+        </div>
+        <div
+          class="  mt-2 flex max-w-64 translate-x-[calc(-1*50%+0.75rem)] flex-col items-center"
+        />
+      </div>
+    </div>
+  </div>
+</body>
+`;
+
+exports[`labelled steps 1`] = `
+<body>
+  <div>
+    <div
+      class="  flex flex-row pl-16 "
+    >
+      <div
+        class=" flex flex-col"
+        data-testid=""
+      >
+        <div
+          class="flex flex-row items-center"
+        >
+          <div
+            class=" bg-fill-action 
+       grid h-6 w-6 min-w-6 place-items-center rounded-full"
+          >
+            <svg
+              class="h-fit w-fit"
+              fill="none"
+              height="10"
+              viewBox="0 0 13 10"
+              width="13"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M2 5.5L5 8.5L11 2.5"
+                stroke="#EBEDEF"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2.5"
+              />
+            </svg>
+          </div>
+          <svg
+            class="border-border-action border"
+            fill="none"
+            height="1"
+            width="w-auto"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <line
+              stroke="currentColor"
+              stroke-width="1"
+              x1="0"
+              x2="100%"
+              y1="0"
+              y2="0"
+            />
+          </svg>
+        </div>
+        <div
+          class="  mt-2 flex max-w-64 translate-x-[calc(-1*50%+0.75rem)] flex-col items-center"
+        >
+          <span
+            class="label-small font-semibold text-text-dark text-center"
+          >
+            Step 1
+          </span>
+          <span
+            class="label-medium font-semibold text-text-dark mt-1 text-center"
+          >
+            sub 1
+          </span>
+        </div>
+      </div>
+      <div
+        class=" flex flex-col"
+        data-testid=""
+      >
+        <div
+          class="flex flex-row items-center"
+        >
+          <div
+            class=" bg-fill-action 
+       grid h-6 w-6 min-w-6 place-items-center rounded-full"
+          >
+            <svg
+              class="h-fit w-fit"
+              fill="none"
+              height="10"
+              viewBox="0 0 13 10"
+              width="13"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M2 5.5L5 8.5L11 2.5"
+                stroke="#EBEDEF"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2.5"
+              />
+            </svg>
+          </div>
+          <svg
+            class="border-border-action border"
+            fill="none"
+            height="1"
+            width="w-auto"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <line
+              stroke="currentColor"
+              stroke-width="1"
+              x1="0"
+              x2="100%"
+              y1="0"
+              y2="0"
+            />
+          </svg>
+        </div>
+        <div
+          class="  mt-2 flex max-w-64 translate-x-[calc(-1*50%+0.75rem)] flex-col items-center"
+        >
+          <span
+            class="label-small font-semibold text-text-dark text-center"
+          >
+            Step 2
+          </span>
+          <span
+            class="label-medium font-semibold text-text-dark mt-1 text-center"
+          >
+            sub 2
+          </span>
+        </div>
+      </div>
+      <div
+        class=" flex flex-col"
+        data-testid=""
+      >
+        <div
+          class="flex flex-row items-center"
+        >
+          <div
+            class=" bg-fill-action 
+       grid h-6 w-6 min-w-6 place-items-center rounded-full"
+          >
+            <svg
+              class="h-fit w-fit"
+              fill="none"
+              height="10"
+              viewBox="0 0 13 10"
+              width="13"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M2 5.5L5 8.5L11 2.5"
+                stroke="#EBEDEF"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2.5"
+              />
+            </svg>
+          </div>
+           
+        </div>
+        <div
+          class="  mt-2 flex max-w-64 translate-x-[calc(-1*50%+0.75rem)] flex-col items-center"
+        >
+          <span
+            class="label-small font-semibold text-text-dark text-center"
+          >
+            Step 3
+          </span>
+          <span
+            class="label-medium font-semibold text-text-dark mt-1 text-center"
+          >
+            sub 3
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+`;

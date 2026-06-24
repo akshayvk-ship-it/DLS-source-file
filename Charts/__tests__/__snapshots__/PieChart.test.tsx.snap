@@ -1,0 +1,109 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`PieChart renders correctly with default props 1`] = `
+<div
+  class=" relative flex items-center "
+  data-testid="pie-chart-test-id"
+>
+  <svg
+    height="400"
+    width="600"
+  >
+    <g
+      class="visx-group"
+      transform="translate(300, 200)"
+    >
+      <g>
+        <path
+          d="M1.1021821192326179e-14,-180A180,180,0,0,1,173.8666487320323,46.58742811845372L0,0Z"
+          fill="#5F6FFC"
+        />
+        <text
+          class=" font-medium"
+          dy=".33em"
+          fill="#000000"
+          font-size="13"
+          pointer-events="none"
+          text-anchor="middle"
+          x="71.40180062621117"
+          y="-54.78852861078486"
+        >
+          29%
+        </text>
+      </g>
+      <g>
+        <path
+          d="M173.8666487320323,46.58742811845372A180,180,0,0,1,-46.58742811845367,173.8666487320323L0,0Z"
+          fill="#5F6FFC66"
+        />
+        <text
+          class=" font-medium"
+          dy=".33em"
+          fill="#000000"
+          font-size="13"
+          pointer-events="none"
+          text-anchor="middle"
+          x="45.00000000000003"
+          y="77.94228634059947"
+        >
+          25%
+        </text>
+      </g>
+      <g>
+        <path
+          d="M-46.58742811845367,173.8666487320323A180,180,0,0,1,-180,2.2043642384652358e-14L0,0Z"
+          fill="#5F6FFC52"
+        />
+        <text
+          class=" font-medium"
+          dy=".33em"
+          fill="#000000"
+          font-size="13"
+          pointer-events="none"
+          text-anchor="middle"
+          x="-71.40180062621116"
+          y="54.78852861078488"
+        >
+          21%
+        </text>
+      </g>
+      <g>
+        <path
+          d="M-180,2.2043642384652358e-14A180,180,0,0,1,-90.00000000000009,-155.88457268119893L0,0Z"
+          fill="#5F6FFC3D"
+        />
+        <text
+          class=" font-medium"
+          dy=".33em"
+          fill="#000000"
+          font-size="13"
+          pointer-events="none"
+          text-anchor="middle"
+          x="-77.94228634059951"
+          y="-44.99999999999994"
+        >
+          17%
+        </text>
+      </g>
+      <g>
+        <path
+          d="M-90.00000000000009,-155.88457268119893A180,180,0,0,1,-3.3065463576978534e-14,-180L0,0Z"
+          fill="#5F6FFC29"
+        />
+        <text
+          class=" font-medium"
+          dy=".33em"
+          fill="#000000"
+          font-size="13"
+          pointer-events="none"
+          text-anchor="middle"
+          x="-23.293714059226858"
+          y="-86.93332436601615"
+        >
+          8%
+        </text>
+      </g>
+    </g>
+  </svg>
+</div>
+`;

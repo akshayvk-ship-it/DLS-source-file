@@ -1,0 +1,195 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`UpDownBarChart renders correctly with default props 1`] = `
+<div
+  class=""
+  data-testid="UpDownBarChart-testId"
+>
+  <svg
+    height="400"
+    width="600"
+  >
+    <g
+      class="visx-group"
+      transform="translate(20, 20)"
+    >
+      <g>
+        <path
+          d="
+                        M 3 107.00000000000001
+                        A 53 53 0 0 1 56 54.000000000000014
+                        L 56 54.000000000000014
+                        A 53 53 0 0 1 109 107.00000000000001
+                        L 109 180
+                        L 3 180
+                        Z
+                        "
+          fill="#00DD76"
+        />
+        <path
+          d="
+                        M 3 180
+                        L 3 181
+                        A 53 53 0 0 0 56 234
+                        L 56 234
+                        A 53 53 0 0 0 109 181
+                        L 109 180
+                        Z
+                      "
+          fill="#F06470"
+        />
+      </g>
+      <g>
+        <path
+          d="
+                        M 116.5 197
+                        A 53 53 0 0 1 169.5 144
+                        L 169.5 144
+                        A 53 53 0 0 1 222.5 197
+                        L 222.5 180
+                        L 116.5 180
+                        Z
+                        "
+          fill="#00DD76"
+        />
+        <path
+          d="
+                        M 116.5 180
+                        L 116.5 271
+                        A 53 53 0 0 0 169.5 324
+                        L 169.5 324
+                        A 53 53 0 0 0 222.5 271
+                        L 222.5 180
+                        Z
+                      "
+          fill="#F06470"
+        />
+      </g>
+      <g>
+        <path
+          d="
+                        M 230 71
+                        A 53 53 0 0 1 283 18
+                        L 283 18
+                        A 53 53 0 0 1 336 71
+                        L 336 180
+                        L 230 180
+                        Z
+                        "
+          fill="#00DD76"
+        />
+        <path
+          d="
+                        M 230 180
+                        L 230 145
+                        A 53 53 0 0 0 283 198
+                        L 283 198
+                        A 53 53 0 0 0 336 145
+                        L 336 180
+                        Z
+                      "
+          fill="#F06470"
+        />
+      </g>
+      <g>
+        <path
+          d="
+                        M 343.5 161
+                        A 53 53 0 0 1 396.5 108
+                        L 396.5 108
+                        A 53 53 0 0 1 449.5 161
+                        L 449.5 180
+                        L 343.5 180
+                        Z
+                        "
+          fill="#00DD76"
+        />
+        <path
+          d="
+                        M 343.5 180
+                        L 343.5 235
+                        A 53 53 0 0 0 396.5 288
+                        L 396.5 288
+                        A 53 53 0 0 0 449.5 235
+                        L 449.5 180
+                        Z
+                      "
+          fill="#F06470"
+        />
+      </g>
+      <g>
+        <path
+          d="
+                        M 457 125
+                        A 53 53 0 0 1 510 72
+                        L 510 72
+                        A 53 53 0 0 1 563 125
+                        L 563 180
+                        L 457 180
+                        Z
+                        "
+          fill="#00DD76"
+        />
+        <path
+          d="
+                        M 457 180
+                        L 457 199
+                        A 53 53 0 0 0 510 252
+                        L 510 252
+                        A 53 53 0 0 0 563 199
+                        L 563 180
+                        Z
+                      "
+          fill="#F06470"
+        />
+      </g>
+      <line
+        stroke="#000000"
+        stroke-width="1"
+        x1="2"
+        x2="563"
+        y1="180"
+        y2="180"
+      />
+      <text
+        class="fill-text-text paragraph-medium"
+        dy="-10"
+        x="0"
+        y="0"
+      >
+        100%
+      </text>
+      <text
+        class="fill-text-text paragraph-medium"
+        dy="24"
+        x="0"
+        y="360"
+      >
+        100%
+      </text>
+      <text
+        class="fill-text-text heading-3-semibold  !text-base"
+        dy="-10"
+        text-anchor="end"
+        x="560"
+        y="0"
+      >
+        Success 
+        56.00
+        %
+      </text>
+      <text
+        class="fill-text-text heading-3-semibold !text-base"
+        dy="24"
+        text-anchor="end"
+        x="560"
+        y="360"
+      >
+        Failure 
+        44
+        %
+      </text>
+    </g>
+  </svg>
+</div>
+`;

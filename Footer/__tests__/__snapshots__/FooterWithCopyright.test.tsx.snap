@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`FooterWithCopyright renders correctly with copyright text 1`] = `
+<body>
+  <div>
+    <div
+      class=" bg-fill-fill h-18 flex min-w-full items-center justify-center "
+    >
+      <div
+        class="flex gap-2 "
+      >
+        <span
+          class=" paragraph-extra-small text-text-text"
+        >
+          © 
+          2026 IndiaIdeas.com Limited (BillDesk).
+        </span>
+      </div>
+    </div>
+  </div>
+</body>
+`;
+
+exports[`FooterWithCopyright renders correctly with custom text component 1`] = `
+<body>
+  <div>
+    <div
+      class=" bg-fill-fill h-18 flex min-w-full items-center justify-center "
+    >
+      <p>
+        <span
+          class="paragraph-extra-small text-text-text"
+        >
+          Custom Copyright Text.
+        </span>
+      </p>
+    </div>
+  </div>
+</body>
+`;
+
+exports[`FooterWithCopyright renders correctly with dark mode 1`] = `
+<body>
+  <div>
+    <div
+      class="bg-[#171717] h-18 flex min-w-full items-center justify-center "
+    >
+      <div
+        class="flex gap-2 "
+      >
+        <span
+          class=" paragraph-extra-small text-text-on-fill"
+        >
+          © 
+          2026 IndiaIdeas.com Limited (BillDesk).
+        </span>
+        <span
+          class=" paragraph-extra-small text-text-on-fill"
+        >
+          All Rights Reserved.
+        </span>
+      </div>
+    </div>
+  </div>
+</body>
+`;
+
+exports[`FooterWithCopyright renders correctly with rights text 1`] = `
+<body>
+  <div>
+    <div
+      class=" bg-fill-fill h-18 flex min-w-full items-center justify-center "
+    >
+      <div
+        class="flex gap-2 "
+      >
+        <span
+          class=" paragraph-extra-small text-text-text"
+        >
+          All Rights Reserved.
+        </span>
+      </div>
+    </div>
+  </div>
+</body>
+`;

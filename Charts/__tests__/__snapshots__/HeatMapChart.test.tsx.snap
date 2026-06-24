@@ -1,0 +1,898 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`HeatMap Chart renders health heatmap correctly with default props 1`] = `
+<div
+  class=" relative  flex items-end gap-10"
+  data-testid="heat-map-chart"
+  style="height: 400px; padding-bottom: 0px;"
+>
+  <div
+    class=" "
+  >
+    <svg
+      height="400px"
+      width="600"
+    >
+      <defs>
+        <pattern
+          height="4"
+          id="empty-bin-pattern"
+          patternUnits="userSpaceOnUse"
+          width="4"
+        >
+          <rect
+            fill="#FFF"
+            height="4"
+            width="4"
+          />
+          <path
+            d="M-1,1 l2,-2 M0,4 l4,-4 M3,5 l2,-2"
+            stroke="#E1E2E4"
+            stroke-width="1"
+          />
+        </pattern>
+      </defs>
+      <g
+        class="visx-group"
+        transform="translate(65, 25)"
+      >
+        <rect
+          fill="#17B26A"
+          fill-opacity="1"
+          height="79.75"
+          rx="6"
+          ry="6"
+          stroke="none"
+          stroke-width="1"
+          style="cursor: default; transition: stroke 0.2s ease; filter: none;"
+          width="253.5"
+          x="0"
+          y="4"
+        />
+        <rect
+          fill="#FFC533"
+          fill-opacity="1"
+          height="79.75"
+          rx="6"
+          ry="6"
+          stroke="none"
+          stroke-width="1"
+          style="cursor: default; transition: stroke 0.2s ease; filter: none;"
+          width="253.5"
+          x="0"
+          y="87.75"
+        />
+        <rect
+          fill="#A8063C"
+          fill-opacity="1"
+          height="79.75"
+          rx="6"
+          ry="6"
+          stroke="none"
+          stroke-width="1"
+          style="cursor: default; transition: stroke 0.2s ease; filter: none;"
+          width="253.5"
+          x="0"
+          y="171.5"
+        />
+        <rect
+          fill="url(#empty-bin-pattern)"
+          fill-opacity="1"
+          height="79.75"
+          rx="6"
+          ry="6"
+          stroke="#E1E2E4"
+          stroke-width="1"
+          style="cursor: default; transition: stroke 0.2s ease; filter: none;"
+          width="253.5"
+          x="0"
+          y="255.25"
+        />
+        <rect
+          fill="#17B26A"
+          fill-opacity="1"
+          height="79.75"
+          rx="6"
+          ry="6"
+          stroke="none"
+          stroke-width="1"
+          style="cursor: default; transition: stroke 0.2s ease; filter: none;"
+          width="253.5"
+          x="257.5"
+          y="4"
+        />
+        <rect
+          fill="#FFC533"
+          fill-opacity="1"
+          height="79.75"
+          rx="6"
+          ry="6"
+          stroke="none"
+          stroke-width="1"
+          style="cursor: default; transition: stroke 0.2s ease; filter: none;"
+          width="253.5"
+          x="257.5"
+          y="87.75"
+        />
+        <rect
+          fill="#A8063C"
+          fill-opacity="1"
+          height="79.75"
+          rx="6"
+          ry="6"
+          stroke="none"
+          stroke-width="1"
+          style="cursor: default; transition: stroke 0.2s ease; filter: none;"
+          width="253.5"
+          x="257.5"
+          y="171.5"
+        />
+        <rect
+          fill="url(#empty-bin-pattern)"
+          fill-opacity="1"
+          height="79.75"
+          rx="6"
+          ry="6"
+          stroke="#E1E2E4"
+          stroke-width="1"
+          style="cursor: default; transition: stroke 0.2s ease; filter: none;"
+          width="253.5"
+          x="257.5"
+          y="255.25"
+        />
+      </g>
+      <g
+        class="visx-group visx-axis visx-axis-top"
+        transform="translate(65, 25)"
+      >
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="126.75px"
+            y="0"
+          >
+            <text
+              class="!label-small fill-text-light "
+              text-anchor="middle"
+              transform=""
+              x="0"
+              y="-8"
+            >
+              <tspan
+                dy="0em"
+                x="0"
+              >
+                Sun
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="126.75px"
+            y="0"
+          >
+            <text
+              class="!label-small fill-text-light "
+              text-anchor="middle"
+              transform=""
+              x="257.5"
+              y="-8"
+            >
+              <tspan
+                dy="0em"
+                x="257.5"
+              >
+                Mon
+              </tspan>
+            </text>
+          </svg>
+        </g>
+      </g>
+      <g
+        class="visx-group visx-axis visx-axis-left"
+        transform="translate(15, 25)"
+      >
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-text-light text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="43.875"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                12 AM
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-text-light text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="127.625"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                2 AM
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-text-light text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="211.375"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                4 AM
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-text-light text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="295.125"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                6 AM
+              </tspan>
+            </text>
+          </svg>
+        </g>
+      </g>
+    </svg>
+  </div>
+</div>
+`;
+
+exports[`HeatMap Chart renders heatmap correctly with default props 1`] = `
+<div
+  class=" relative  flex items-end gap-10"
+  data-testid="heat-map-chart"
+  style="height: 400px; padding-bottom: 0px;"
+>
+  <div
+    class=" "
+  >
+    <svg
+      height="400px"
+      width="600"
+    >
+      <defs>
+        <pattern
+          height="4"
+          id="empty-bin-pattern"
+          patternUnits="userSpaceOnUse"
+          width="4"
+        >
+          <rect
+            fill="#FFF"
+            height="4"
+            width="4"
+          />
+          <path
+            d="M-1,1 l2,-2 M0,4 l4,-4 M3,5 l2,-2"
+            stroke="#E1E2E4"
+            stroke-width="1"
+          />
+        </pattern>
+      </defs>
+      <g
+        class="visx-group"
+        transform="translate(65, 25)"
+      >
+        <rect
+          fill="rgb(18, 67, 33)"
+          fill-opacity="0.7225953503542712"
+          height="43.857142857142854"
+          rx="6"
+          ry="6"
+          stroke="none"
+          stroke-width="1"
+          style="cursor: default; transition: stroke 0.2s ease; filter: none;"
+          width="253.5"
+          x="0"
+          y="4"
+        />
+        <rect
+          fill="rgb(18, 67, 33)"
+          fill-opacity="0.4554427626388095"
+          height="43.857142857142854"
+          rx="6"
+          ry="6"
+          stroke="none"
+          stroke-width="1"
+          style="cursor: default; transition: stroke 0.2s ease; filter: none;"
+          width="253.5"
+          x="0"
+          y="51.857142857142854"
+        />
+        <rect
+          fill="rgb(18, 67, 33)"
+          fill-opacity="0.9330154904561174"
+          height="43.857142857142854"
+          rx="6"
+          ry="6"
+          stroke="none"
+          stroke-width="1"
+          style="cursor: default; transition: stroke 0.2s ease; filter: none;"
+          width="253.5"
+          x="0"
+          y="99.71428571428571"
+        />
+        <rect
+          fill="rgb(18, 67, 33)"
+          fill-opacity="1"
+          height="43.857142857142854"
+          rx="6"
+          ry="6"
+          stroke="none"
+          stroke-width="1"
+          style="cursor: default; transition: stroke 0.2s ease; filter: none;"
+          width="253.5"
+          x="0"
+          y="147.57142857142856"
+        />
+        <rect
+          fill="rgb(18, 67, 33)"
+          fill-opacity="0.4403152894394799"
+          height="43.857142857142854"
+          rx="6"
+          ry="6"
+          stroke="none"
+          stroke-width="1"
+          style="cursor: default; transition: stroke 0.2s ease; filter: none;"
+          width="253.5"
+          x="0"
+          y="195.42857142857142"
+        />
+        <rect
+          fill="rgb(18, 67, 33)"
+          fill-opacity="0.9479423920671635"
+          height="43.857142857142854"
+          rx="6"
+          ry="6"
+          stroke="none"
+          stroke-width="1"
+          style="cursor: default; transition: stroke 0.2s ease; filter: none;"
+          width="253.5"
+          x="0"
+          y="243.28571428571428"
+        />
+        <rect
+          fill="rgb(18, 67, 33)"
+          fill-opacity="0.5472781023150617"
+          height="43.857142857142854"
+          rx="6"
+          ry="6"
+          stroke="none"
+          stroke-width="1"
+          style="cursor: default; transition: stroke 0.2s ease; filter: none;"
+          width="253.5"
+          x="0"
+          y="291.1428571428571"
+        />
+        <rect
+          fill="rgb(18, 67, 33)"
+          fill-opacity="0.100124749701541"
+          height="43.857142857142854"
+          rx="6"
+          ry="6"
+          stroke="none"
+          stroke-width="1"
+          style="cursor: default; transition: stroke 0.2s ease; filter: none;"
+          width="253.5"
+          x="257.5"
+          y="4"
+        />
+        <rect
+          fill="rgb(18, 67, 33)"
+          fill-opacity="0.23957976266124503"
+          height="43.857142857142854"
+          rx="6"
+          ry="6"
+          stroke="none"
+          stroke-width="1"
+          style="cursor: default; transition: stroke 0.2s ease; filter: none;"
+          width="253.5"
+          x="257.5"
+          y="51.857142857142854"
+        />
+        <rect
+          fill="rgb(18, 67, 33)"
+          fill-opacity="0.28669357131804163"
+          height="43.857142857142854"
+          rx="6"
+          ry="6"
+          stroke="none"
+          stroke-width="1"
+          style="cursor: default; transition: stroke 0.2s ease; filter: none;"
+          width="253.5"
+          x="257.5"
+          y="99.71428571428571"
+        />
+        <rect
+          fill="rgb(18, 67, 33)"
+          fill-opacity="0.6990387813215222"
+          height="43.857142857142854"
+          rx="6"
+          ry="6"
+          stroke="none"
+          stroke-width="1"
+          style="cursor: default; transition: stroke 0.2s ease; filter: none;"
+          width="253.5"
+          x="257.5"
+          y="147.57142857142856"
+        />
+        <rect
+          fill="rgb(18, 67, 33)"
+          fill-opacity="0.14426430987629182"
+          height="43.857142857142854"
+          rx="6"
+          ry="6"
+          stroke="none"
+          stroke-width="1"
+          style="cursor: default; transition: stroke 0.2s ease; filter: none;"
+          width="253.5"
+          x="257.5"
+          y="195.42857142857142"
+        />
+        <rect
+          fill="rgb(18, 67, 33)"
+          fill-opacity="0.47796502201567675"
+          height="43.857142857142854"
+          rx="6"
+          ry="6"
+          stroke="none"
+          stroke-width="1"
+          style="cursor: default; transition: stroke 0.2s ease; filter: none;"
+          width="253.5"
+          x="257.5"
+          y="243.28571428571428"
+        />
+        <rect
+          fill="rgb(18, 67, 33)"
+          fill-opacity="0.33144853588258555"
+          height="43.857142857142854"
+          rx="6"
+          ry="6"
+          stroke="none"
+          stroke-width="1"
+          style="cursor: default; transition: stroke 0.2s ease; filter: none;"
+          width="253.5"
+          x="257.5"
+          y="291.1428571428571"
+        />
+      </g>
+      <g
+        class="visx-group visx-axis visx-axis-top"
+        transform="translate(65, 25)"
+      >
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="126.75px"
+            y="0"
+          >
+            <text
+              class="!label-small fill-text-light "
+              text-anchor="middle"
+              transform=""
+              x="0"
+              y="-8"
+            >
+              <tspan
+                dy="0em"
+                x="0"
+              >
+                Sun
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="126.75px"
+            y="0"
+          >
+            <text
+              class="!label-small fill-text-light "
+              text-anchor="middle"
+              transform=""
+              x="257.5"
+              y="-8"
+            >
+              <tspan
+                dy="0em"
+                x="257.5"
+              >
+                Mon
+              </tspan>
+            </text>
+          </svg>
+        </g>
+      </g>
+      <g
+        class="visx-group visx-axis visx-axis-left"
+        transform="translate(15, 25)"
+      >
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-text-light text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="25.928571428571427"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                12 AM
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-text-light text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="73.78571428571428"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                2 AM
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-text-light text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="121.64285714285712"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                4 AM
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-text-light text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="169.5"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                6 AM
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-text-light text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="217.35714285714286"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                8 AM
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-text-light text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="265.21428571428567"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                10 AM
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-text-light text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="313.07142857142856"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                12 PM
+              </tspan>
+            </text>
+          </svg>
+        </g>
+      </g>
+    </svg>
+  </div>
+</div>
+`;
+
+exports[`HeatMap Chart renders heatmap legend with custom labels 1`] = `
+<div
+  class=" flex h-full flex-col justify-around"
+  data-testid="heat-map-legend"
+>
+  <div
+    class="flex flex-col"
+  >
+    <p
+      class="label-small text-text-light"
+    >
+      Today
+    </p>
+    <div
+      class="heading-3-semibold text-text-text"
+      style="color: rgb(67, 33, 75);"
+    >
+      6,758.89
+    </div>
+    <div
+      class="label-small text-text-light flex items-center gap-0.5"
+    >
+      <svg
+        fill="none"
+        height="12"
+        viewBox="0 0 12 12"
+        width="12"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <rect
+          fill="#09AF17"
+          height="12"
+          rx="6"
+          width="12"
+        />
+        <path
+          d="M3.10662 5.7005L3.71813 6.31499L5.55563 4.4745L5.55563 9.19141L6.44455 9.19141L6.44455 4.4745L8.28503 6.31499L8.89355 5.7005L6.00009 2.80703L3.10662 5.7005Z"
+          fill="white"
+        />
+      </svg>
+      <span>
+        +
+        13.75
+        %
+      </span>
+    </div>
+  </div>
+  <div
+    class="flex flex-col"
+  >
+    <p
+      class="label-small text-text-light"
+    >
+      This week
+    </p>
+    <div
+      class="heading-3-semibold text-text-text"
+    >
+      16,758.89
+    </div>
+    <div
+      class="label-small text-text-light flex items-center gap-0.5"
+    >
+      <svg
+        fill="none"
+        height="12"
+        viewBox="0 0 12 12"
+        width="12"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <rect
+          fill="#EC3636"
+          height="12"
+          rx="6"
+          width="12"
+        />
+        <path
+          d="M3.10662 6.2995L3.71813 5.68501L5.55563 7.5255L5.55563 2.80859L6.44455 2.80859L6.44455 7.5255L8.28503 5.68501L8.89355 6.2995L6.00009 9.19297L3.10662 6.2995Z"
+          fill="white"
+        />
+      </svg>
+      <span>
+        -
+        10.73
+        %
+      </span>
+    </div>
+  </div>
+  <div
+    class="flex flex-col"
+  >
+    <p
+      class="label-small text-text-light"
+    >
+      This month
+    </p>
+    <div
+      class="heading-3-semibold text-text-text"
+    >
+      325,758.89
+    </div>
+    <div
+      class="label-small text-text-light flex items-center gap-0.5"
+    >
+      <svg
+        fill="none"
+        height="12"
+        viewBox="0 0 12 12"
+        width="12"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <rect
+          fill="#09AF17"
+          height="12"
+          rx="6"
+          width="12"
+        />
+        <path
+          d="M3.10662 5.7005L3.71813 6.31499L5.55563 4.4745L5.55563 9.19141L6.44455 9.19141L6.44455 4.4745L8.28503 6.31499L8.89355 5.7005L6.00009 2.80703L3.10662 5.7005Z"
+          fill="white"
+        />
+      </svg>
+      <span>
+        +
+        12.55
+        %
+      </span>
+    </div>
+  </div>
+</div>
+`;

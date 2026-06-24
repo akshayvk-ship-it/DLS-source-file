@@ -1,0 +1,5 @@
+.search-icon-remover[type='search']::-webkit-search-cancel-button,
+.search-icon-remover[type='search']::-webkit-search-decoration {
+  -webkit-appearance: none;
+  appearance: none;
+}

@@ -1,0 +1,42 @@
+/* Chrome/Safari/Edge - webkit scrollbar styles */
+.layout-scroll::-webkit-scrollbar {
+  width: 14px;
+}
+
+.layout-scroll::-webkit-scrollbar-thumb {
+  background-color: var(--layout-sidebar-main, rgba(155, 155, 155, 0.4));
+  border: 4px solid transparent;
+  border-radius: 8px;
+  background-clip: padding-box;
+}
+
+.layout-scroll::-webkit-scrollbar-thumb:hover {
+  background-color: var(--layout-sidebar-hover, rgba(155, 155, 155, 0.6));
+}
+
+.layout-scroll::-webkit-scrollbar-thumb:active {
+  background-color: var(--layout-sidebar-active, rgba(155, 155, 155, 0.8));
+}
+
+.layout-content-scroll::-webkit-scrollbar-thumb {
+  min-height: 100px;
+}
+
+.layout-content-scroll::-webkit-scrollbar-track,
+.layout-content-scroll::-webkit-scrollbar-track:hover {
+  margin: 35px !important;
+  min-height: 300px;
+}
+
+/* Firefox-only styles - only apply when webkit scrollbar is NOT supported */
+@supports not selector(::-webkit-scrollbar) {
+  .layout-scroll {
+    scrollbar-color: var(--layout-sidebar-main, rgba(155, 155, 155, 0.4))
+      transparent;
+  }
+
+  .layout-content-scroll {
+    scrollbar-color: var(--layout-sidebar-main, rgba(155, 155, 155, 0.4))
+      transparent;
+  }
+}

@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Render Sidebar test 1`] = `
+<body>
+  <div>
+    <div
+      class=" !w-20 flex flex-col h-full w-[17.5rem] box-border   fixed top-0 left-0 h-full "
+      data-testid="drawer-id"
+    >
+      <div
+        class=" mt-1 flex-1 overflow-y-auto"
+      >
+        <div>
+          <p
+            class="!mt-0 label-small text-text-light flex h-6 items-center pl-6 pr-10 font-medium hidden"
+          >
+            Sub Header
+          </p>
+          <div
+            class=" px-4 pt-1 flex flex-col items-center justify-center px-0 !pt-0"
+          >
+            <button
+              class="  hover:bg-fill-hover  flex w-full cursor-pointer items-center justify-between rounded-lg px-4 py-2  !w-fit !px-3 "
+              type="button"
+            >
+              <div
+                class=" flex"
+              >
+                <div
+                  class=" pr-2 !pr-0"
+                >
+                  <div>
+                    icon
+                  </div>
+                </div>
+                <div
+                  class=" label-medium flex h-6 items-center hidden text-text-text "
+                >
+                  Placeholder
+                </div>
+              </div>
+              <div
+                class=" ml-2 flex hidden"
+              >
+                <div
+                  class=" bg-icon-action text-icon-on-fill label-medium flex h-6 w-6 items-center justify-center rounded-lg px-[4.5px] py-[3px] mr-2"
+                >
+                  99
+                </div>
+                <div
+                  class=""
+                >
+                  <svg
+                    fill="none"
+                    height="24"
+                    viewBox="0 0 24 24"
+                    width="24"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M23.7803 11.4697C24.0732 11.7626 24.0732 12.2374 23.7803 12.5303L17.7803 18.5303C17.4874 18.8232 17.0126 18.8232 16.7197 18.5303C16.4268 18.2374 16.4268 17.7626 16.7197 17.4697L22.1893 12L16.7197 6.53033C16.4268 6.23744 16.4268 5.76256 16.7197 5.46967C17.0126 5.17678 17.4874 5.17678 17.7803 5.46967L23.7803 11.4697Z"
+                      fill="#3B475B"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+`;

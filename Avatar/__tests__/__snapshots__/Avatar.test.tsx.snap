@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Avatar Snapshot SVG Test 1`] = `
+<body>
+  <div>
+    <div
+      class="  h-10 w-10  rounded-full flex items-center justify-center"
+      data-testid="avatarTestId"
+    >
+      <svg
+        fill="none"
+        height="24"
+        viewBox="0 0 24 24"
+        width="24"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M16.4679 8.18135C16.4679 10.6589 14.4656 12.6637 12 12.6637C9.5344 12.6637 7.5321 10.6589 7.5321 8.18135C7.5321 5.70385 9.5344 3.69899 12 3.69899C14.4656 3.69899 16.4679 5.70385 16.4679 8.18135Z"
+          stroke="#3B475B"
+          stroke-width="1.5"
+        />
+        <path
+          d="M3.76945 21.0248L3.76925 19.4414C3.76897 17.2215 5.57646 15.4259 7.79632 15.441L16.2581 15.4982C18.4564 15.5131 20.2308 17.2993 20.231 19.4976L20.2312 21.051"
+          stroke="#3B475B"
+          stroke-linecap="round"
+          stroke-width="1.5"
+        />
+      </svg>
+    </div>
+  </div>
+</body>
+`;

@@ -1,0 +1,542 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`open state snapshot 1`] = `
+<body>
+  <div>
+    <div
+      class="relative w-full min-w-72 "
+    >
+      <div
+        aria-label=""
+        class="false  border-border-border focus-within:border-border-action-focused focus-within:shadow-border-brand-focus-ring focus-within:shadow-[0px_0px_0px_4px]  relative h-12 rounded-lg border border-solid px-4 py-3 
+            !border-border-action-focused shadow-border-brand-focus-ring shadow-[0px_0px_0px_4px]
+            
+            
+            flex items-center hover:cursor-text
+          "
+        role="textbox"
+        tabindex="-1"
+      >
+        <input
+          class=" placeholder:text-text-text  paragraph-medium text-text-text placeholder-text-light w-full align-top focus:outline-none "
+          data-testid="dropdown-element"
+          id="dropdown-element"
+          name="dropdown-element"
+          placeholder=""
+          tabindex="0"
+          type="text"
+          value=""
+        />
+        <div
+          class="ml-2 text-icon-icon "
+        >
+          <svg
+            class=" cursor-pointer"
+            data-testid="dropDownTestId chevronIcon"
+            height="24"
+            transform="rotate(180)"
+            viewBox="0 0 24 24"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              clip-rule="evenodd"
+              d="M12.5303 15.5303C12.2374 15.8232 11.7626 15.8232 11.4697 15.5303L5.46967 9.53033C5.17678 9.23744 5.17678 8.76256 5.46967 8.46967C5.76256 8.17678 6.23744 8.17678 6.53033 8.46967L12 13.9393L17.4697 8.46967C17.7626 8.17678 18.2374 8.17678 18.5303 8.46967C18.8232 8.76256 18.8232 9.23744 18.5303 9.53033L12.5303 15.5303Z"
+              fill="currentColor"
+              fill-rule="evenodd"
+            />
+          </svg>
+        </div>
+      </div>
+      <div
+        class="mt-2 bg-fill-fill border-border-border-light absolute flex w-full flex-col overflow-x-hidden overflow-y-auto rounded-lg border-[0.0625rem] px-2 shadow-[0px_1px_3px_0px_rgba(0,0,0,0.1),0px_1px_2px_0px_rgba(27,32,41,0.06)]  top-full"
+        role="listbox"
+        style="max-height: 320px;"
+      >
+        <div
+          class="py-4"
+        >
+          <span
+            aria-selected="false"
+            class="flex w-full items-center space-x-4 rounded-lg p-2 cursor-pointer  hover:!bg-fill-hover-light active:!bg-fill-pressed-dark text-text-text font-normal label-large flex items-center justify-between"
+            role="option"
+            tabindex="0"
+          >
+            Option A
+          </span>
+          <span
+            aria-selected="false"
+            class="flex w-full items-center space-x-4 rounded-lg p-2 cursor-pointer  hover:!bg-fill-hover-light active:!bg-fill-pressed-dark text-text-text font-normal label-large flex items-center justify-between"
+            role="option"
+            tabindex="0"
+          >
+            Option B
+          </span>
+          <span
+            aria-selected="false"
+            class="flex w-full items-center space-x-4 rounded-lg p-2 cursor-pointer  hover:!bg-fill-hover-light active:!bg-fill-pressed-dark text-text-text font-normal label-large flex items-center justify-between"
+            role="option"
+            tabindex="0"
+          >
+            Option C
+          </span>
+          <span
+            aria-selected="false"
+            class="flex w-full items-center space-x-4 rounded-lg p-2 cursor-pointer  hover:!bg-fill-hover-light active:!bg-fill-pressed-dark text-text-text font-normal label-large flex items-center justify-between"
+            role="option"
+            tabindex="0"
+          >
+            Option D
+          </span>
+          <span
+            aria-selected="false"
+            class="flex w-full items-center space-x-4 rounded-lg p-2 cursor-pointer  hover:!bg-fill-hover-light active:!bg-fill-pressed-dark text-text-text font-normal label-large flex items-center justify-between"
+            role="option"
+            tabindex="0"
+          >
+            Option E
+          </span>
+          <span
+            aria-selected="false"
+            class="flex w-full items-center space-x-4 rounded-lg p-2 cursor-pointer  hover:!bg-fill-hover-light active:!bg-fill-pressed-dark text-text-text font-normal label-large flex items-center justify-between"
+            role="option"
+            tabindex="0"
+          >
+            Option F
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+`;
+
+exports[`selectAll and deSelectAll 1`] = `
+<body>
+  <div>
+    <div
+      class="relative w-full min-w-72 "
+    >
+      <div
+        aria-label="6 items selected"
+        class="!cursor-pointer  border-border-border !caret-transparent relative h-12 rounded-lg border border-solid px-4 py-3 
+            
+            
+            
+            flex items-center hover:cursor-text
+          "
+        role="textbox"
+        tabindex="-1"
+      >
+        <input
+          class=" placeholder:text-text-text  paragraph-medium text-text-text placeholder-text-light w-full align-top focus:outline-none "
+          data-testid="dropdown-element"
+          id="dropdown-element"
+          name="dropdown-element"
+          placeholder="6 items selected"
+          tabindex="-1"
+          type="text"
+          value=""
+        />
+        <div
+          class="ml-2 text-icon-icon "
+        >
+          <svg
+            class=" cursor-pointer"
+            data-testid="dropDownTestId chevronIcon"
+            height="24"
+            transform="rotate(180)"
+            viewBox="0 0 24 24"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              clip-rule="evenodd"
+              d="M12.5303 15.5303C12.2374 15.8232 11.7626 15.8232 11.4697 15.5303L5.46967 9.53033C5.17678 9.23744 5.17678 8.76256 5.46967 8.46967C5.76256 8.17678 6.23744 8.17678 6.53033 8.46967L12 13.9393L17.4697 8.46967C17.7626 8.17678 18.2374 8.17678 18.5303 8.46967C18.8232 8.76256 18.8232 9.23744 18.5303 9.53033L12.5303 15.5303Z"
+              fill="currentColor"
+              fill-rule="evenodd"
+            />
+          </svg>
+        </div>
+      </div>
+      <div
+        class="mt-2 bg-fill-fill border-border-border-light absolute flex w-full flex-col overflow-x-hidden overflow-y-auto rounded-lg border-[0.0625rem] px-2 shadow-[0px_1px_3px_0px_rgba(0,0,0,0.1),0px_1px_2px_0px_rgba(27,32,41,0.06)]  top-full"
+        role="listbox"
+        style="max-height: 320px;"
+      >
+        <div
+          class="bg-fill-fill sticky top-0 z-10 flex justify-between pb-2 pt-4"
+        >
+          <span
+            class="label-medium text-text-light pl-2 font-normal"
+          >
+            Selected (
+            6
+            )
+          </span>
+          <div
+            class="flex space-x-4"
+          >
+            <button
+              class=" !shadow-border-brand-focus-ring text-fill-action active:text-text-on-fill-action-pressed disabled:text-text-disabled label-small    flex items-center justify-center  rounded-lg font-semibold  !outline-none focus-visible:shadow-[0px_0px_0px_4px] disabled:cursor-not-allowed "
+              data-testid="deSelectAllBtn"
+              type="button"
+            >
+              <span
+                class="text-nowrap "
+              >
+                De-select all
+              </span>
+            </button>
+            <button
+              class=" !shadow-border-brand-focus-ring text-fill-action active:text-text-on-fill-action-pressed disabled:text-text-disabled label-small    flex items-center justify-center  rounded-lg font-semibold  !outline-none focus-visible:shadow-[0px_0px_0px_4px] disabled:cursor-not-allowed "
+              data-testid="selectAllBtn"
+              type="button"
+            >
+              <span
+                class="text-nowrap "
+              >
+                Select all
+              </span>
+            </button>
+          </div>
+        </div>
+        <div
+          class="last:mb-4"
+        >
+          <label
+            class="flex w-full items-center space-x-4 rounded-lg p-2 cursor-pointer  hover:bg-fill-hover-light active:bg-fill-pressed-dark text-text-text [&_span]:label-large  [&_span]:font-normal flex space-x-2 text-text-dark"
+            for=":rc:"
+            tabindex="-1"
+          >
+            <div
+              class="flex items-center"
+            >
+              <div
+                class=" relative h-fit w-fit"
+              >
+                <input
+                  class="flex-shrink-0 block w-5 h-5  border-border-border
+          hover:border-border-action focus:!shadow-border-brand-focus-ring focus:border-border-action-focused disabled:!border-border-disabled disabled:bg-fill-disabled bg-50 appearance-none rounded border bg-origin-border !outline-none focus:shadow-[0px_0px_0px_4px]
+        disabled:cursor-not-allowed !border-border-action bg-fill-action-light
+            
+          "
+                  id=":rc:"
+                  type="Checkbox"
+                />
+                <span
+                  class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 block"
+                  role="none"
+                  tabindex="-1"
+                >
+                  <svg
+                    fill="none"
+                    height="8"
+                    viewBox="0 0 10 8"
+                    width="10"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      class="undefined fill-icon-action            
+                          
+          "
+                      clip-rule="evenodd"
+                      d="M8.84386 0.663771C9.13675 0.956664 9.13675 1.43154 8.84386 1.72443L3.68313 6.88515C3.39103 7.17725 2.91772 7.17816 2.62451 6.88718L0.317154 4.59744C0.0231403 4.30567 0.0213207 3.8308 0.31309 3.53679C0.604858 3.24277 1.07973 3.24095 1.37374 3.53272L3.15077 5.29619L7.7832 0.66377C8.07609 0.370877 8.55096 0.370877 8.84386 0.663771Z"
+                      fill="#F15701"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </span>
+              </div>
+            </div>
+            <div
+              class="flex flex-col justify-center"
+            >
+              <span
+                class=" label-medium font-medium"
+              >
+                Option A
+              </span>
+            </div>
+          </label>
+          <label
+            class="flex w-full items-center space-x-4 rounded-lg p-2 cursor-pointer  hover:bg-fill-hover-light active:bg-fill-pressed-dark text-text-text [&_span]:label-large  [&_span]:font-normal flex space-x-2 text-text-dark"
+            for=":rd:"
+            tabindex="-1"
+          >
+            <div
+              class="flex items-center"
+            >
+              <div
+                class=" relative h-fit w-fit"
+              >
+                <input
+                  class="flex-shrink-0 block w-5 h-5  border-border-border
+          hover:border-border-action focus:!shadow-border-brand-focus-ring focus:border-border-action-focused disabled:!border-border-disabled disabled:bg-fill-disabled bg-50 appearance-none rounded border bg-origin-border !outline-none focus:shadow-[0px_0px_0px_4px]
+        disabled:cursor-not-allowed !border-border-action bg-fill-action-light
+            
+          "
+                  id=":rd:"
+                  type="Checkbox"
+                />
+                <span
+                  class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 block"
+                  role="none"
+                  tabindex="-1"
+                >
+                  <svg
+                    fill="none"
+                    height="8"
+                    viewBox="0 0 10 8"
+                    width="10"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      class="undefined fill-icon-action            
+                          
+          "
+                      clip-rule="evenodd"
+                      d="M8.84386 0.663771C9.13675 0.956664 9.13675 1.43154 8.84386 1.72443L3.68313 6.88515C3.39103 7.17725 2.91772 7.17816 2.62451 6.88718L0.317154 4.59744C0.0231403 4.30567 0.0213207 3.8308 0.31309 3.53679C0.604858 3.24277 1.07973 3.24095 1.37374 3.53272L3.15077 5.29619L7.7832 0.66377C8.07609 0.370877 8.55096 0.370877 8.84386 0.663771Z"
+                      fill="#F15701"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </span>
+              </div>
+            </div>
+            <div
+              class="flex flex-col justify-center"
+            >
+              <span
+                class=" label-medium font-medium"
+              >
+                Option B
+              </span>
+            </div>
+          </label>
+          <label
+            class="flex w-full items-center space-x-4 rounded-lg p-2 cursor-pointer  hover:bg-fill-hover-light active:bg-fill-pressed-dark text-text-text [&_span]:label-large  [&_span]:font-normal flex space-x-2 text-text-dark"
+            for=":re:"
+            tabindex="-1"
+          >
+            <div
+              class="flex items-center"
+            >
+              <div
+                class=" relative h-fit w-fit"
+              >
+                <input
+                  class="flex-shrink-0 block w-5 h-5  border-border-border
+          hover:border-border-action focus:!shadow-border-brand-focus-ring focus:border-border-action-focused disabled:!border-border-disabled disabled:bg-fill-disabled bg-50 appearance-none rounded border bg-origin-border !outline-none focus:shadow-[0px_0px_0px_4px]
+        disabled:cursor-not-allowed !border-border-action bg-fill-action-light
+            
+          "
+                  id=":re:"
+                  type="Checkbox"
+                />
+                <span
+                  class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 block"
+                  role="none"
+                  tabindex="-1"
+                >
+                  <svg
+                    fill="none"
+                    height="8"
+                    viewBox="0 0 10 8"
+                    width="10"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      class="undefined fill-icon-action            
+                          
+          "
+                      clip-rule="evenodd"
+                      d="M8.84386 0.663771C9.13675 0.956664 9.13675 1.43154 8.84386 1.72443L3.68313 6.88515C3.39103 7.17725 2.91772 7.17816 2.62451 6.88718L0.317154 4.59744C0.0231403 4.30567 0.0213207 3.8308 0.31309 3.53679C0.604858 3.24277 1.07973 3.24095 1.37374 3.53272L3.15077 5.29619L7.7832 0.66377C8.07609 0.370877 8.55096 0.370877 8.84386 0.663771Z"
+                      fill="#F15701"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </span>
+              </div>
+            </div>
+            <div
+              class="flex flex-col justify-center"
+            >
+              <span
+                class=" label-medium font-medium"
+              >
+                Option C
+              </span>
+            </div>
+          </label>
+          <label
+            class="flex w-full items-center space-x-4 rounded-lg p-2 cursor-pointer  hover:bg-fill-hover-light active:bg-fill-pressed-dark text-text-text [&_span]:label-large  [&_span]:font-normal flex space-x-2 text-text-dark"
+            for=":rf:"
+            tabindex="-1"
+          >
+            <div
+              class="flex items-center"
+            >
+              <div
+                class=" relative h-fit w-fit"
+              >
+                <input
+                  class="flex-shrink-0 block w-5 h-5  border-border-border
+          hover:border-border-action focus:!shadow-border-brand-focus-ring focus:border-border-action-focused disabled:!border-border-disabled disabled:bg-fill-disabled bg-50 appearance-none rounded border bg-origin-border !outline-none focus:shadow-[0px_0px_0px_4px]
+        disabled:cursor-not-allowed !border-border-action bg-fill-action-light
+            
+          "
+                  id=":rf:"
+                  type="Checkbox"
+                />
+                <span
+                  class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 block"
+                  role="none"
+                  tabindex="-1"
+                >
+                  <svg
+                    fill="none"
+                    height="8"
+                    viewBox="0 0 10 8"
+                    width="10"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      class="undefined fill-icon-action            
+                          
+          "
+                      clip-rule="evenodd"
+                      d="M8.84386 0.663771C9.13675 0.956664 9.13675 1.43154 8.84386 1.72443L3.68313 6.88515C3.39103 7.17725 2.91772 7.17816 2.62451 6.88718L0.317154 4.59744C0.0231403 4.30567 0.0213207 3.8308 0.31309 3.53679C0.604858 3.24277 1.07973 3.24095 1.37374 3.53272L3.15077 5.29619L7.7832 0.66377C8.07609 0.370877 8.55096 0.370877 8.84386 0.663771Z"
+                      fill="#F15701"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </span>
+              </div>
+            </div>
+            <div
+              class="flex flex-col justify-center"
+            >
+              <span
+                class=" label-medium font-medium"
+              >
+                Option D
+              </span>
+            </div>
+          </label>
+          <label
+            class="flex w-full items-center space-x-4 rounded-lg p-2 cursor-pointer  hover:bg-fill-hover-light active:bg-fill-pressed-dark text-text-text [&_span]:label-large  [&_span]:font-normal flex space-x-2 text-text-dark"
+            for=":rg:"
+            tabindex="-1"
+          >
+            <div
+              class="flex items-center"
+            >
+              <div
+                class=" relative h-fit w-fit"
+              >
+                <input
+                  class="flex-shrink-0 block w-5 h-5  border-border-border
+          hover:border-border-action focus:!shadow-border-brand-focus-ring focus:border-border-action-focused disabled:!border-border-disabled disabled:bg-fill-disabled bg-50 appearance-none rounded border bg-origin-border !outline-none focus:shadow-[0px_0px_0px_4px]
+        disabled:cursor-not-allowed !border-border-action bg-fill-action-light
+            
+          "
+                  id=":rg:"
+                  type="Checkbox"
+                />
+                <span
+                  class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 block"
+                  role="none"
+                  tabindex="-1"
+                >
+                  <svg
+                    fill="none"
+                    height="8"
+                    viewBox="0 0 10 8"
+                    width="10"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      class="undefined fill-icon-action            
+                          
+          "
+                      clip-rule="evenodd"
+                      d="M8.84386 0.663771C9.13675 0.956664 9.13675 1.43154 8.84386 1.72443L3.68313 6.88515C3.39103 7.17725 2.91772 7.17816 2.62451 6.88718L0.317154 4.59744C0.0231403 4.30567 0.0213207 3.8308 0.31309 3.53679C0.604858 3.24277 1.07973 3.24095 1.37374 3.53272L3.15077 5.29619L7.7832 0.66377C8.07609 0.370877 8.55096 0.370877 8.84386 0.663771Z"
+                      fill="#F15701"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </span>
+              </div>
+            </div>
+            <div
+              class="flex flex-col justify-center"
+            >
+              <span
+                class=" label-medium font-medium"
+              >
+                Option E
+              </span>
+            </div>
+          </label>
+          <label
+            class="flex w-full items-center space-x-4 rounded-lg p-2 cursor-pointer  hover:bg-fill-hover-light active:bg-fill-pressed-dark text-text-text [&_span]:label-large  [&_span]:font-normal flex space-x-2 text-text-dark"
+            for=":rh:"
+            tabindex="-1"
+          >
+            <div
+              class="flex items-center"
+            >
+              <div
+                class=" relative h-fit w-fit"
+              >
+                <input
+                  class="flex-shrink-0 block w-5 h-5  border-border-border
+          hover:border-border-action focus:!shadow-border-brand-focus-ring focus:border-border-action-focused disabled:!border-border-disabled disabled:bg-fill-disabled bg-50 appearance-none rounded border bg-origin-border !outline-none focus:shadow-[0px_0px_0px_4px]
+        disabled:cursor-not-allowed !border-border-action bg-fill-action-light
+            
+          "
+                  id=":rh:"
+                  type="Checkbox"
+                />
+                <span
+                  class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 block"
+                  role="none"
+                  tabindex="-1"
+                >
+                  <svg
+                    fill="none"
+                    height="8"
+                    viewBox="0 0 10 8"
+                    width="10"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      class="undefined fill-icon-action            
+                          
+          "
+                      clip-rule="evenodd"
+                      d="M8.84386 0.663771C9.13675 0.956664 9.13675 1.43154 8.84386 1.72443L3.68313 6.88515C3.39103 7.17725 2.91772 7.17816 2.62451 6.88718L0.317154 4.59744C0.0231403 4.30567 0.0213207 3.8308 0.31309 3.53679C0.604858 3.24277 1.07973 3.24095 1.37374 3.53272L3.15077 5.29619L7.7832 0.66377C8.07609 0.370877 8.55096 0.370877 8.84386 0.663771Z"
+                      fill="#F15701"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </span>
+              </div>
+            </div>
+            <div
+              class="flex flex-col justify-center"
+            >
+              <span
+                class=" label-medium font-medium"
+              >
+                Option F
+              </span>
+            </div>
+          </label>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+`;

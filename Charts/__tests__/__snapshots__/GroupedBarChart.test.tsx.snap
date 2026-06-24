@@ -1,0 +1,894 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`GroupedBarChart renders correctly with default props 1`] = `
+<DocumentFragment>
+  <div
+    class=" relative flex items-end gap-10"
+    data-testid="bar-chart-test-id"
+  >
+    <svg
+      height="400"
+      width="600"
+    >
+      <g
+        class="visx-group"
+        transform="translate(0, 0)"
+      >
+        <g
+          class="visx-group visx-rows [&>*:first-child]:[stroke-dasharray:none]"
+          transform="translate(31, 0)"
+        >
+          <line
+            class="visx-line"
+            fill="transparent"
+            height="380"
+            shape-rendering="crispEdges"
+            stroke="rgba(208, 211, 216, 1)"
+            stroke-dasharray="4 4"
+            stroke-width="0.5"
+            x1="0"
+            x2="600"
+            y1="380"
+            y2="380"
+          />
+          <line
+            class="visx-line"
+            fill="transparent"
+            height="380"
+            shape-rendering="crispEdges"
+            stroke="rgba(208, 211, 216, 1)"
+            stroke-dasharray="4 4"
+            stroke-width="0.5"
+            x1="0"
+            x2="600"
+            y1="340"
+            y2="340"
+          />
+          <line
+            class="visx-line"
+            fill="transparent"
+            height="380"
+            shape-rendering="crispEdges"
+            stroke="rgba(208, 211, 216, 1)"
+            stroke-dasharray="4 4"
+            stroke-width="0.5"
+            x1="0"
+            x2="600"
+            y1="300"
+            y2="300"
+          />
+          <line
+            class="visx-line"
+            fill="transparent"
+            height="380"
+            shape-rendering="crispEdges"
+            stroke="rgba(208, 211, 216, 1)"
+            stroke-dasharray="4 4"
+            stroke-width="0.5"
+            x1="0"
+            x2="600"
+            y1="260"
+            y2="260"
+          />
+          <line
+            class="visx-line"
+            fill="transparent"
+            height="380"
+            shape-rendering="crispEdges"
+            stroke="rgba(208, 211, 216, 1)"
+            stroke-dasharray="4 4"
+            stroke-width="0.5"
+            x1="0"
+            x2="600"
+            y1="220"
+            y2="220"
+          />
+          <line
+            class="visx-line"
+            fill="transparent"
+            height="380"
+            shape-rendering="crispEdges"
+            stroke="rgba(208, 211, 216, 1)"
+            stroke-dasharray="4 4"
+            stroke-width="0.5"
+            x1="0"
+            x2="600"
+            y1="180"
+            y2="180"
+          />
+          <line
+            class="visx-line"
+            fill="transparent"
+            height="380"
+            shape-rendering="crispEdges"
+            stroke="rgba(208, 211, 216, 1)"
+            stroke-dasharray="4 4"
+            stroke-width="0.5"
+            x1="0"
+            x2="600"
+            y1="140"
+            y2="140"
+          />
+          <line
+            class="visx-line"
+            fill="transparent"
+            height="380"
+            shape-rendering="crispEdges"
+            stroke="rgba(208, 211, 216, 1)"
+            stroke-dasharray="4 4"
+            stroke-width="0.5"
+            x1="0"
+            x2="600"
+            y1="100"
+            y2="100"
+          />
+          <line
+            class="visx-line"
+            fill="transparent"
+            height="380"
+            shape-rendering="crispEdges"
+            stroke="rgba(208, 211, 216, 1)"
+            stroke-dasharray="4 4"
+            stroke-width="0.5"
+            x1="0"
+            x2="600"
+            y1="60"
+            y2="60"
+          />
+          <line
+            class="visx-line"
+            fill="transparent"
+            height="380"
+            shape-rendering="crispEdges"
+            stroke="rgba(208, 211, 216, 1)"
+            stroke-dasharray="4 4"
+            stroke-width="0.5"
+            x1="0"
+            x2="600"
+            y1="20"
+            y2="20"
+          />
+        </g>
+        <g
+          class="visx-group visx-axis visx-axis-left"
+          transform="translate(15, 0)"
+        >
+          <g
+            class="visx-group visx-axis-tick"
+            transform="translate(0, 0)"
+          >
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0"
+            >
+              <text
+                class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+                text-anchor="end"
+                transform=""
+                x="-8"
+                y="380"
+              >
+                <tspan
+                  dy="0.355em"
+                  x="-8"
+                >
+                  0
+                </tspan>
+              </text>
+            </svg>
+          </g>
+          <g
+            class="visx-group visx-axis-tick"
+            transform="translate(0, 0)"
+          >
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0"
+            >
+              <text
+                class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+                text-anchor="end"
+                transform=""
+                x="-8"
+                y="340"
+              >
+                <tspan
+                  dy="0.355em"
+                  x="-8"
+                >
+                  2
+                </tspan>
+              </text>
+            </svg>
+          </g>
+          <g
+            class="visx-group visx-axis-tick"
+            transform="translate(0, 0)"
+          >
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0"
+            >
+              <text
+                class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+                text-anchor="end"
+                transform=""
+                x="-8"
+                y="300"
+              >
+                <tspan
+                  dy="0.355em"
+                  x="-8"
+                >
+                  4
+                </tspan>
+              </text>
+            </svg>
+          </g>
+          <g
+            class="visx-group visx-axis-tick"
+            transform="translate(0, 0)"
+          >
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0"
+            >
+              <text
+                class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+                text-anchor="end"
+                transform=""
+                x="-8"
+                y="260"
+              >
+                <tspan
+                  dy="0.355em"
+                  x="-8"
+                >
+                  6
+                </tspan>
+              </text>
+            </svg>
+          </g>
+          <g
+            class="visx-group visx-axis-tick"
+            transform="translate(0, 0)"
+          >
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0"
+            >
+              <text
+                class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+                text-anchor="end"
+                transform=""
+                x="-8"
+                y="220"
+              >
+                <tspan
+                  dy="0.355em"
+                  x="-8"
+                >
+                  8
+                </tspan>
+              </text>
+            </svg>
+          </g>
+          <g
+            class="visx-group visx-axis-tick"
+            transform="translate(0, 0)"
+          >
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0"
+            >
+              <text
+                class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+                text-anchor="end"
+                transform=""
+                x="-8"
+                y="180"
+              >
+                <tspan
+                  dy="0.355em"
+                  x="-8"
+                >
+                  10
+                </tspan>
+              </text>
+            </svg>
+          </g>
+          <g
+            class="visx-group visx-axis-tick"
+            transform="translate(0, 0)"
+          >
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0"
+            >
+              <text
+                class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+                text-anchor="end"
+                transform=""
+                x="-8"
+                y="140"
+              >
+                <tspan
+                  dy="0.355em"
+                  x="-8"
+                >
+                  12
+                </tspan>
+              </text>
+            </svg>
+          </g>
+          <g
+            class="visx-group visx-axis-tick"
+            transform="translate(0, 0)"
+          >
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0"
+            >
+              <text
+                class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+                text-anchor="end"
+                transform=""
+                x="-8"
+                y="100"
+              >
+                <tspan
+                  dy="0.355em"
+                  x="-8"
+                >
+                  14
+                </tspan>
+              </text>
+            </svg>
+          </g>
+          <g
+            class="visx-group visx-axis-tick"
+            transform="translate(0, 0)"
+          >
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0"
+            >
+              <text
+                class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+                text-anchor="end"
+                transform=""
+                x="-8"
+                y="60"
+              >
+                <tspan
+                  dy="0.355em"
+                  x="-8"
+                >
+                  16
+                </tspan>
+              </text>
+            </svg>
+          </g>
+          <g
+            class="visx-group visx-axis-tick"
+            transform="translate(0, 0)"
+          >
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0"
+            >
+              <text
+                class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+                text-anchor="end"
+                transform=""
+                x="-8"
+                y="20"
+              >
+                <tspan
+                  dy="0.355em"
+                  x="-8"
+                >
+                  18
+                </tspan>
+              </text>
+            </svg>
+          </g>
+        </g>
+        <g
+          class="visx-group relative z-10"
+          transform="translate(0, 0)"
+          width="600"
+        >
+          <g
+            class="visx-group"
+            transform="translate(85.88235294117649, 0)"
+          >
+            <path
+              class=" "
+              d="
+                          M 3.1878557874762805 184 
+                          Q 3.1878557874762805 180 7.1878557874762805 180 
+                          H 27.878557874762805 
+                          Q 31.878557874762805 180 31.878557874762805 184 
+                          V 380 
+                          H 3.1878557874762805 
+                          Z
+                        "
+              fill="url('#grouped-slant-pattern')"
+              stroke="#FBCBB0"
+              stroke-width="0.5"
+              style="filter: url('#grouped-bar-shadow');"
+            />
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0"
+            >
+              <text
+                class=" !label-extra-small relative z-10 fill-[rgba(0,0,0,0.6)] text-left"
+                text-anchor="middle"
+                transform=""
+                x="19.533206831119543"
+                y="174"
+              >
+                <tspan
+                  dy="0em"
+                  x="19.533206831119543"
+                >
+                  55%
+                </tspan>
+              </text>
+            </svg>
+            <path
+              class=" "
+              d="
+                          M 35.066413662239086 84 
+                          Q 35.066413662239086 80 39.066413662239086 80 
+                          H 59.75711574952561 
+                          Q 63.75711574952561 80 63.75711574952561 84 
+                          V 380 
+                          H 35.066413662239086 
+                          Z
+                        "
+              fill="url('#grouped-slant-pattern')"
+              stroke="#FBCBB0"
+              stroke-width="0.5"
+              style="filter: url('#grouped-bar-shadow');"
+            />
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0"
+            >
+              <text
+                class=" !label-extra-small relative z-10 fill-[rgba(0,0,0,0.6)] text-left"
+                text-anchor="middle"
+                transform=""
+                x="51.41176470588235"
+                y="74"
+              >
+                <tspan
+                  dy="0em"
+                  x="51.41176470588235"
+                >
+                  83%
+                </tspan>
+              </text>
+            </svg>
+            <path
+              class=" "
+              d="
+                          M 66.94497153700189 144 
+                          Q 66.94497153700189 140 70.94497153700189 140 
+                          H 91.63567362428842 
+                          Q 95.63567362428842 140 95.63567362428842 144 
+                          V 380 
+                          H 66.94497153700189 
+                          Z
+                        "
+              fill="url('#grouped-slant-pattern')"
+              stroke="#FBCBB0"
+              stroke-width="0.5"
+              style="filter: url('#grouped-bar-shadow');"
+            />
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0"
+            >
+              <text
+                class=" !label-extra-small relative z-10 fill-[rgba(0,0,0,0.6)] text-left"
+                text-anchor="middle"
+                transform=""
+                x="83.29032258064515"
+                y="134"
+              >
+                <tspan
+                  dy="0em"
+                  x="83.29032258064515"
+                >
+                  66%
+                </tspan>
+              </text>
+            </svg>
+          </g>
+          <g
+            class="visx-group"
+            transform="translate(250.58823529411765, 0)"
+          >
+            <path
+              class=" "
+              d="
+                          M 3.1878557874762805 144 
+                          Q 3.1878557874762805 140 7.1878557874762805 140 
+                          H 27.878557874762805 
+                          Q 31.878557874762805 140 31.878557874762805 144 
+                          V 380 
+                          H 3.1878557874762805 
+                          Z
+                        "
+              fill="url('#grouped-slant-pattern')"
+              stroke="#FBCBB0"
+              stroke-width="0.5"
+              style="filter: url('#grouped-bar-shadow');"
+            />
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0"
+            >
+              <text
+                class=" !label-extra-small relative z-10 fill-[rgba(0,0,0,0.6)] text-left"
+                text-anchor="middle"
+                transform=""
+                x="19.533206831119543"
+                y="134"
+              >
+                <tspan
+                  dy="0em"
+                  x="19.533206831119543"
+                >
+                  66%
+                </tspan>
+              </text>
+            </svg>
+            <path
+              class=" "
+              d="
+                          M 35.066413662239086 224 
+                          Q 35.066413662239086 220 39.066413662239086 220 
+                          H 59.75711574952561 
+                          Q 63.75711574952561 220 63.75711574952561 224 
+                          V 380 
+                          H 35.066413662239086 
+                          Z
+                        "
+              fill="url('#grouped-slant-pattern')"
+              stroke="#FBCBB0"
+              stroke-width="0.5"
+              style="filter: url('#grouped-bar-shadow');"
+            />
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0"
+            >
+              <text
+                class=" !label-extra-small relative z-10 fill-[rgba(0,0,0,0.6)] text-left"
+                text-anchor="middle"
+                transform=""
+                x="51.41176470588235"
+                y="214"
+              >
+                <tspan
+                  dy="0em"
+                  x="51.41176470588235"
+                >
+                  44%
+                </tspan>
+              </text>
+            </svg>
+            <path
+              class=" "
+              d="
+                          M 66.94497153700189 24 
+                          Q 66.94497153700189 20 70.94497153700189 20 
+                          H 91.63567362428842 
+                          Q 95.63567362428842 20 95.63567362428842 24 
+                          V 380 
+                          H 66.94497153700189 
+                          Z
+                        "
+              fill="url('#grouped-bar-gradient')"
+              stroke="#FBCBB0"
+              stroke-width="0"
+              style="filter: url('#grouped-bar-max-shadow');"
+            />
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0"
+            >
+              <text
+                class=" !label-extra-small relative z-10 fill-[rgba(0,0,0,0.6)] text-left"
+                text-anchor="middle"
+                transform=""
+                x="83.29032258064515"
+                y="14"
+              >
+                <tspan
+                  dy="0em"
+                  x="83.29032258064515"
+                >
+                  100%
+                </tspan>
+              </text>
+            </svg>
+          </g>
+          <g
+            class="visx-group"
+            transform="translate(415.2941176470588, 0)"
+          >
+            <path
+              class=" "
+              d="
+                          M 3.1878557874762805 284 
+                          Q 3.1878557874762805 280 7.1878557874762805 280 
+                          H 27.878557874762805 
+                          Q 31.878557874762805 280 31.878557874762805 284 
+                          V 380 
+                          H 3.1878557874762805 
+                          Z
+                        "
+              fill="url('#grouped-slant-pattern')"
+              stroke="#FBCBB0"
+              stroke-width="0.5"
+              style="filter: url('#grouped-bar-shadow');"
+            />
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0"
+            >
+              <text
+                class=" !label-extra-small relative z-10 fill-[rgba(0,0,0,0.6)] text-left"
+                text-anchor="middle"
+                transform=""
+                x="19.533206831119543"
+                y="274"
+              >
+                <tspan
+                  dy="0em"
+                  x="19.533206831119543"
+                >
+                  27%
+                </tspan>
+              </text>
+            </svg>
+            <path
+              class=" "
+              d="
+                          M 35.066413662239086 64 
+                          Q 35.066413662239086 60 39.066413662239086 60 
+                          H 59.75711574952561 
+                          Q 63.75711574952561 60 63.75711574952561 64 
+                          V 380 
+                          H 35.066413662239086 
+                          Z
+                        "
+              fill="url('#grouped-slant-pattern')"
+              stroke="#FBCBB0"
+              stroke-width="0.5"
+              style="filter: url('#grouped-bar-shadow');"
+            />
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0"
+            >
+              <text
+                class=" !label-extra-small relative z-10 fill-[rgba(0,0,0,0.6)] text-left"
+                text-anchor="middle"
+                transform=""
+                x="51.41176470588235"
+                y="54"
+              >
+                <tspan
+                  dy="0em"
+                  x="51.41176470588235"
+                >
+                  88%
+                </tspan>
+              </text>
+            </svg>
+            <path
+              class=" "
+              d="
+                          M 66.94497153700189 184 
+                          Q 66.94497153700189 180 70.94497153700189 180 
+                          H 91.63567362428842 
+                          Q 95.63567362428842 180 95.63567362428842 184 
+                          V 380 
+                          H 66.94497153700189 
+                          Z
+                        "
+              fill="url('#grouped-slant-pattern')"
+              stroke="#FBCBB0"
+              stroke-width="0.5"
+              style="filter: url('#grouped-bar-shadow');"
+            />
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0"
+            >
+              <text
+                class=" !label-extra-small relative z-10 fill-[rgba(0,0,0,0.6)] text-left"
+                text-anchor="middle"
+                transform=""
+                x="83.29032258064515"
+                y="174"
+              >
+                <tspan
+                  dy="0em"
+                  x="83.29032258064515"
+                >
+                  55%
+                </tspan>
+              </text>
+            </svg>
+          </g>
+          <defs>
+            <lineargradient
+              gradientTransform="rotate(90)"
+              id="grouped-bar-gradient"
+            >
+              <stop
+                offset="41.13%"
+                stop-color="#FE9F69"
+              />
+              <stop
+                offset="81.93%"
+                stop-color="#F15701"
+              />
+            </lineargradient>
+            <filter
+              color-interpolation-filters="sRGB"
+              filterUnits="userSpaceOnUse"
+              id="grouped-bar-max-shadow"
+            >
+              <fedropshadow
+                dx="4"
+                dy="0"
+                flood-color="rgb(241,87,1)"
+                stdDeviation="0"
+              />
+            </filter>
+            <filter
+              color-interpolation-filters="sRGB"
+              filterUnits="userSpaceOnUse"
+              id="grouped-bar-shadow"
+            >
+              <fedropshadow
+                dx="4"
+                dy="0"
+                flood-color="rgb(251,203,176)"
+                stdDeviation="0"
+              />
+            </filter>
+            <pattern
+              height="10"
+              id="grouped-slant-pattern"
+              patternUnits="userSpaceOnUse"
+              width="10"
+            >
+              <rect
+                class=""
+                fill="#FEF4EE"
+                height="10"
+                width="10"
+              />
+              <path
+                class=""
+                d="M-2,2 l4,-4 M0,10 l10,-10 M8,12 l4,-4"
+                stroke="#FFE3D4"
+                stroke-width="1"
+              />
+            </pattern>
+          </defs>
+        </g>
+        <g
+          class="visx-group visx-axis visx-axis-bottom"
+          transform="translate(0, 380)"
+        >
+          <g
+            class="visx-group visx-axis-tick"
+            transform="translate(0, 0)"
+          >
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0.5rem"
+            >
+              <text
+                class="!label-small fill-[rgba(0,0,0,0.4)]"
+                text-anchor="middle"
+                transform=""
+                x="135.29411764705884"
+                y="18"
+              >
+                <tspan
+                  dy="0em"
+                  x="135.29411764705884"
+                >
+                  A
+                </tspan>
+              </text>
+            </svg>
+          </g>
+          <g
+            class="visx-group visx-axis-tick"
+            transform="translate(0, 0)"
+          >
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0.5rem"
+            >
+              <text
+                class="!label-small fill-[rgba(0,0,0,0.4)]"
+                text-anchor="middle"
+                transform=""
+                x="300"
+                y="18"
+              >
+                <tspan
+                  dy="0em"
+                  x="300"
+                >
+                  B
+                </tspan>
+              </text>
+            </svg>
+          </g>
+          <g
+            class="visx-group visx-axis-tick"
+            transform="translate(0, 0)"
+          >
+            <svg
+              style="overflow: visible;"
+              x="0"
+              y="0.5rem"
+            >
+              <text
+                class="!label-small fill-[rgba(0,0,0,0.4)]"
+                text-anchor="middle"
+                transform=""
+                x="464.7058823529411"
+                y="18"
+              >
+                <tspan
+                  dy="0em"
+                  x="464.7058823529411"
+                >
+                  C
+                </tspan>
+              </text>
+            </svg>
+          </g>
+        </g>
+      </g>
+    </svg>
+  </div>
+</DocumentFragment>
+`;

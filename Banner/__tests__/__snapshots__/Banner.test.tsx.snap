@@ -1,0 +1,185 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`clicks 1`] = `
+<body>
+  <div>
+    <div
+      class=" p-4 bg-fill-info text-text-on-fill -translate-y-20 opacity-0 flex w-full flex-row flex-nowrap justify-between border transition-[opacity_translate]"
+      data-testid=""
+      style="transition-duration: 500ms;"
+    >
+      <div
+        class="flex w-full items-start space-x-4"
+      >
+        <div
+          class="mt-1 flex h-6 w-6 flex-shrink-0 items-center justify-center rounded-full"
+        >
+          <svg
+            fill="none"
+            height="24"
+            viewBox="0 0 20 24"
+            width="20"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <circle
+              cx="10"
+              cy="12"
+              fill="#C2D2F8"
+              r="10"
+            />
+            <path
+              clip-rule="evenodd"
+              d="M10.0109 9.42822C10.4941 9.42822 10.8859 9.03647 10.8859 8.55322C10.8859 8.06997 10.4941 7.67822 10.0109 7.67822C9.52763 7.67822 9.13587 8.06997 9.13587 8.55322C9.13587 9.03647 9.52763 9.42822 10.0109 9.42822ZM10.7809 11.006C10.779 10.5458 10.4043 10.1742 9.94406 10.1762C9.48382 10.1781 9.11231 10.5528 9.11427 11.0131L9.13326 15.492C9.13522 15.9522 9.50989 16.3237 9.97012 16.3218C10.4304 16.3198 10.8019 15.9451 10.7999 15.4849L10.7809 11.006Z"
+              fill="#3B475B"
+              fill-rule="evenodd"
+            />
+          </svg>
+        </div>
+        <div
+          class="flex flex-col space-y-2"
+        >
+          <div
+            class="flex flex-col"
+          >
+            <h5
+              class=" heading-5-semibold hidden sm:block"
+            >
+              Title Text
+            </h5>
+            <h6
+              class=" heading-6-semibold block sm:hidden"
+            >
+              Title Text
+            </h6>
+            <p
+              class="label-small paragraph-small text-text-on-fill "
+            >
+              Lorem ipsum is  used where in the case of dummy text
+            </p>
+          </div>
+        </div>
+      </div>
+      <div
+        class="flex items-center justify-between space-x-6"
+      >
+        <div
+          class="flex space-x-1"
+        >
+          <button
+            class="!text-inherit !bg-transparent bg-transparent hover:bg-fill-hover-light !shadow-fill-hover active:bg-fill-hover-light text-text-dark active:text-text-dark-pressed disabled:text-text-disabled label-small h-8 px-4   flex items-center justify-center  rounded-lg font-semibold  !outline-none focus-visible:shadow-[0px_0px_0px_4px] disabled:cursor-not-allowed "
+            data-testid="textBtn"
+            type="button"
+          >
+            <span
+              class="text-nowrap "
+            >
+              View Updates
+            </span>
+          </button>
+          <button
+            class=" bg-fill-fill hover:bg-fill-hover-light !shadow-fill-hover active:bg-fill-hover-light disabled:bg-fill-disabled text-text-dark active:text-text-dark-pressed disabled:text-text-disabled border border-text-disabled disabled:border-border-disabled [&:not(:focus)]:shadow-[0px_1px_2px_0px] [&:not(:focus)]:!shadow-[rgba(27,32,41,0.05)] label-small h-8 px-4   flex items-center justify-center  rounded-lg font-semibold  !outline-none focus-visible:shadow-[0px_0px_0px_4px] disabled:cursor-not-allowed "
+            data-testid="secBtn"
+            type="button"
+          >
+            <span
+              class="text-nowrap "
+            >
+              Update Now
+            </span>
+          </button>
+        </div>
+        <div
+          class="block"
+        >
+          <svg
+            class=" cursor-pointer"
+            data-testid="closeBtn"
+            fill="none"
+            height="24"
+            viewBox="0 0 24 24"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <g
+              id="Close"
+            >
+              <path
+                d="M19 5L5 19M5 5L19 19"
+                id="Vector"
+                stroke="currentColor"
+                stroke-width="2"
+              />
+            </g>
+          </svg>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+`;
+
+exports[`closed 1`] = `
+<body>
+  <div>
+    <div
+      class=" rounded-md px-4 py-2 bg-fill-info-light border-border-info-light text-text-dark -translate-y-20 opacity-0 flex w-full flex-row flex-nowrap justify-between border transition-[opacity_translate]"
+      data-testid=""
+      style="transition-duration: 500ms;"
+    >
+      <div
+        class="flex w-full items-start space-x-4"
+      >
+        <div
+          class="flex flex-col space-y-2"
+        >
+          <div
+            class="flex flex-col"
+          >
+            <h5
+              class=" heading-5-semibold hidden sm:block"
+            >
+              Title Text
+            </h5>
+            <h6
+              class=" heading-6-semibold block sm:hidden"
+            >
+              Title Text
+            </h6>
+          </div>
+        </div>
+      </div>
+      <div
+        class="flex items-center justify-between space-x-6"
+      >
+        <div
+          class="flex space-x-1"
+        />
+        <div
+          class="block"
+        >
+          <svg
+            class="text-icon-icon cursor-pointer"
+            data-testid="closeBtn"
+            fill="none"
+            height="24"
+            viewBox="0 0 24 24"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <g
+              id="Close"
+            >
+              <path
+                d="M19 5L5 19M5 5L19 19"
+                id="Vector"
+                stroke="currentColor"
+                stroke-width="2"
+              />
+            </g>
+          </svg>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+`;

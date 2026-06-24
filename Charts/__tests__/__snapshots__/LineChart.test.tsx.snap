@@ -1,0 +1,1248 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`LineChart Render Line Chart 1`] = `
+<div
+  class="relative "
+  data-testid="line-chart-test-id"
+>
+  <svg
+    height="400"
+    width="600"
+  >
+    <g
+      class="visx-group"
+      transform="translate(0, 0)"
+    >
+      <defs>
+        <pattern
+          height="1"
+          id="horizontal-grid-dash-pattern-line"
+          patternUnits="userSpaceOnUse"
+          width="8"
+        >
+          <rect
+            fill="rgba(208, 211, 216, 1)"
+            height="1"
+            width="4"
+            x="0"
+            y="0"
+          />
+        </pattern>
+        <pattern
+          height="8"
+          id="vertical-grid-dash-pattern-line"
+          patternUnits="userSpaceOnUse"
+          width="1"
+        >
+          <rect
+            fill="rgba(208, 211, 216, 1)"
+            height="4"
+            width="1"
+            x="0"
+            y="0"
+          />
+        </pattern>
+        <pattern
+          height="4"
+          id="tooltip-line-dash-pattern"
+          patternUnits="userSpaceOnUse"
+          width="1"
+        >
+          <rect
+            fill="#323C4D"
+            height="2"
+            width="1"
+            x="0"
+            y="0"
+          />
+        </pattern>
+      </defs>
+      <g
+        class="visx-group visx-rows"
+        transform="translate(22, 0)"
+      >
+        <rect
+          fill="rgba(208, 211, 216, 1)"
+          height="1"
+          shape-rendering="crispEdges"
+          width="558"
+          x="0"
+          y="380"
+        />
+        <rect
+          fill="url('#horizontal-grid-dash-pattern-line')"
+          height="1"
+          shape-rendering="crispEdges"
+          width="558"
+          x="0"
+          y="344"
+        />
+        <rect
+          fill="url('#horizontal-grid-dash-pattern-line')"
+          height="1"
+          shape-rendering="crispEdges"
+          width="558"
+          x="0"
+          y="308"
+        />
+        <rect
+          fill="url('#horizontal-grid-dash-pattern-line')"
+          height="1"
+          shape-rendering="crispEdges"
+          width="558"
+          x="0"
+          y="272"
+        />
+        <rect
+          fill="url('#horizontal-grid-dash-pattern-line')"
+          height="1"
+          shape-rendering="crispEdges"
+          width="558"
+          x="0"
+          y="236"
+        />
+        <rect
+          fill="url('#horizontal-grid-dash-pattern-line')"
+          height="1"
+          shape-rendering="crispEdges"
+          width="558"
+          x="0"
+          y="200"
+        />
+        <rect
+          fill="url('#horizontal-grid-dash-pattern-line')"
+          height="1"
+          shape-rendering="crispEdges"
+          width="558"
+          x="0"
+          y="164"
+        />
+        <rect
+          fill="url('#horizontal-grid-dash-pattern-line')"
+          height="1"
+          shape-rendering="crispEdges"
+          width="558"
+          x="0"
+          y="128"
+        />
+        <rect
+          fill="url('#horizontal-grid-dash-pattern-line')"
+          height="1"
+          shape-rendering="crispEdges"
+          width="558"
+          x="0"
+          y="92"
+        />
+        <rect
+          fill="url('#horizontal-grid-dash-pattern-line')"
+          height="1"
+          shape-rendering="crispEdges"
+          width="558"
+          x="0"
+          y="56"
+        />
+        <rect
+          fill="url('#horizontal-grid-dash-pattern-line')"
+          height="1"
+          shape-rendering="crispEdges"
+          width="558"
+          x="0"
+          y="20"
+        />
+      </g>
+      <g
+        class="visx-group visx-axis visx-axis-left mx-4 px-4"
+        transform="translate(8, 0)"
+      >
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="380"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                0
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="344"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                10
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="308"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                20
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="272"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                30
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="236"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                40
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="200"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                50
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="164"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                60
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="128"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                70
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="91.99999999999999"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                80
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="55.99999999999999"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                90
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="20"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                100
+              </tspan>
+            </text>
+          </svg>
+        </g>
+      </g>
+      <path
+        class="visx-linepath"
+        d="M22,344L115,20L208,55.99999999999999L301,380L394,236L487,164L580,55.99999999999999"
+        fill="transparent"
+        stroke="#9355FA"
+        stroke-linecap="round"
+        stroke-linejoin="miter"
+        stroke-width="1.5"
+      />
+      <g
+        class="visx-group visx-axis visx-axis-bottom"
+        transform="translate(0, 380)"
+      >
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="-0.5rem"
+            y="0.5rem"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)]"
+              text-anchor="start"
+              transform=""
+              x="22"
+              y="18"
+            >
+              <tspan
+                dy="0em"
+                x="22"
+              >
+                x1
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="-0.5rem"
+            y="0.5rem"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)]"
+              text-anchor="start"
+              transform=""
+              x="115"
+              y="18"
+            >
+              <tspan
+                dy="0em"
+                x="115"
+              >
+                x2
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="-0.5rem"
+            y="0.5rem"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)]"
+              text-anchor="start"
+              transform=""
+              x="208"
+              y="18"
+            >
+              <tspan
+                dy="0em"
+                x="208"
+              >
+                x3
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="-0.5rem"
+            y="0.5rem"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)]"
+              text-anchor="start"
+              transform=""
+              x="301"
+              y="18"
+            >
+              <tspan
+                dy="0em"
+                x="301"
+              >
+                x4
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="-0.5rem"
+            y="0.5rem"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)]"
+              text-anchor="start"
+              transform=""
+              x="394"
+              y="18"
+            >
+              <tspan
+                dy="0em"
+                x="394"
+              >
+                x5
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="-0.5rem"
+            y="0.5rem"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)]"
+              text-anchor="start"
+              transform=""
+              x="487"
+              y="18"
+            >
+              <tspan
+                dy="0em"
+                x="487"
+              >
+                x6
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="-0.5rem"
+            y="0.5rem"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)]"
+              text-anchor="start"
+              transform=""
+              x="580"
+              y="18"
+            >
+              <tspan
+                dy="0em"
+                x="580"
+              >
+                x7
+              </tspan>
+            </text>
+          </svg>
+        </g>
+      </g>
+      <rect
+        fill="transparent"
+        height="360"
+        width="558"
+        x="22"
+        y="20"
+      />
+    </g>
+  </svg>
+</div>
+`;
+
+exports[`LineChart Render Line Chart with Series 1`] = `
+<div
+  class="relative "
+  data-testid="line-chart-test-id"
+>
+  <svg
+    height="400"
+    width="600"
+  >
+    <g
+      class="visx-group"
+      transform="translate(0, 0)"
+    >
+      <defs>
+        <pattern
+          height="1"
+          id="horizontal-grid-dash-pattern-line"
+          patternUnits="userSpaceOnUse"
+          width="8"
+        >
+          <rect
+            fill="rgba(208, 211, 216, 1)"
+            height="1"
+            width="4"
+            x="0"
+            y="0"
+          />
+        </pattern>
+        <pattern
+          height="8"
+          id="vertical-grid-dash-pattern-line"
+          patternUnits="userSpaceOnUse"
+          width="1"
+        >
+          <rect
+            fill="rgba(208, 211, 216, 1)"
+            height="4"
+            width="1"
+            x="0"
+            y="0"
+          />
+        </pattern>
+        <pattern
+          height="4"
+          id="tooltip-line-dash-pattern"
+          patternUnits="userSpaceOnUse"
+          width="1"
+        >
+          <rect
+            fill="#323C4D"
+            height="2"
+            width="1"
+            x="0"
+            y="0"
+          />
+        </pattern>
+      </defs>
+      <g
+        class="visx-group visx-rows"
+        transform="translate(22, 0)"
+      >
+        <rect
+          fill="rgba(208, 211, 216, 1)"
+          height="1"
+          shape-rendering="crispEdges"
+          width="558"
+          x="0"
+          y="380"
+        />
+        <rect
+          fill="url('#horizontal-grid-dash-pattern-line')"
+          height="1"
+          shape-rendering="crispEdges"
+          width="558"
+          x="0"
+          y="340"
+        />
+        <rect
+          fill="url('#horizontal-grid-dash-pattern-line')"
+          height="1"
+          shape-rendering="crispEdges"
+          width="558"
+          x="0"
+          y="300"
+        />
+        <rect
+          fill="url('#horizontal-grid-dash-pattern-line')"
+          height="1"
+          shape-rendering="crispEdges"
+          width="558"
+          x="0"
+          y="260"
+        />
+        <rect
+          fill="url('#horizontal-grid-dash-pattern-line')"
+          height="1"
+          shape-rendering="crispEdges"
+          width="558"
+          x="0"
+          y="220"
+        />
+        <rect
+          fill="url('#horizontal-grid-dash-pattern-line')"
+          height="1"
+          shape-rendering="crispEdges"
+          width="558"
+          x="0"
+          y="180"
+        />
+        <rect
+          fill="url('#horizontal-grid-dash-pattern-line')"
+          height="1"
+          shape-rendering="crispEdges"
+          width="558"
+          x="0"
+          y="140"
+        />
+        <rect
+          fill="url('#horizontal-grid-dash-pattern-line')"
+          height="1"
+          shape-rendering="crispEdges"
+          width="558"
+          x="0"
+          y="100"
+        />
+        <rect
+          fill="url('#horizontal-grid-dash-pattern-line')"
+          height="1"
+          shape-rendering="crispEdges"
+          width="558"
+          x="0"
+          y="60"
+        />
+        <rect
+          fill="url('#horizontal-grid-dash-pattern-line')"
+          height="1"
+          shape-rendering="crispEdges"
+          width="558"
+          x="0"
+          y="20"
+        />
+      </g>
+      <g
+        class="visx-group visx-axis visx-axis-left mx-4 px-4"
+        transform="translate(8, 0)"
+      >
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="380"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                0
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="340"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                20
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="300"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                40
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="260.00000000000006"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                60
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="220"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                80
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="180"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                100
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="140.00000000000003"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                120
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="100"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                140
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="60.00000000000002"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                160
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="20"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                180
+              </tspan>
+            </text>
+          </svg>
+        </g>
+      </g>
+      <path
+        class="visx-linepath"
+        d="M22,359.99999999999994L115,180L208,200L301,380L394,300L487,260.00000000000006L580,200"
+        fill="transparent"
+        stroke="#9355FA"
+        stroke-linecap="round"
+        stroke-linejoin="miter"
+        stroke-width="1.5"
+      />
+      <path
+        class="visx-linepath"
+        d="M22,207.99999999999994L115,186L208,359.99999999999994L301,140.00000000000003L394,200L487,380L580,180"
+        fill="transparent"
+        stroke="#fa2a23"
+        stroke-linecap="round"
+        stroke-linejoin="miter"
+        stroke-width="1.5"
+      />
+      <path
+        class="visx-linepath"
+        d="M22,328.00000000000006L115,246L208,280L301,340L394,100L487,380L580,20"
+        fill="transparent"
+        stroke="#54f29a"
+        stroke-linecap="round"
+        stroke-linejoin="miter"
+        stroke-width="1.5"
+      />
+      <g
+        class="visx-group visx-axis visx-axis-bottom"
+        transform="translate(0, 380)"
+      >
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="-0.5rem"
+            y="0.5rem"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)]"
+              text-anchor="start"
+              transform=""
+              x="22"
+              y="18"
+            >
+              <tspan
+                dy="0em"
+                x="22"
+              >
+                x1
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="-0.5rem"
+            y="0.5rem"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)]"
+              text-anchor="start"
+              transform=""
+              x="115"
+              y="18"
+            >
+              <tspan
+                dy="0em"
+                x="115"
+              >
+                x2
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="-0.5rem"
+            y="0.5rem"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)]"
+              text-anchor="start"
+              transform=""
+              x="208"
+              y="18"
+            >
+              <tspan
+                dy="0em"
+                x="208"
+              >
+                x3
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="-0.5rem"
+            y="0.5rem"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)]"
+              text-anchor="start"
+              transform=""
+              x="301"
+              y="18"
+            >
+              <tspan
+                dy="0em"
+                x="301"
+              >
+                x4
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="-0.5rem"
+            y="0.5rem"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)]"
+              text-anchor="start"
+              transform=""
+              x="394"
+              y="18"
+            >
+              <tspan
+                dy="0em"
+                x="394"
+              >
+                x5
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="-0.5rem"
+            y="0.5rem"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)]"
+              text-anchor="start"
+              transform=""
+              x="487"
+              y="18"
+            >
+              <tspan
+                dy="0em"
+                x="487"
+              >
+                x6
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="-0.5rem"
+            y="0.5rem"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)]"
+              text-anchor="start"
+              transform=""
+              x="580"
+              y="18"
+            >
+              <tspan
+                dy="0em"
+                x="580"
+              >
+                x7
+              </tspan>
+            </text>
+          </svg>
+        </g>
+      </g>
+      <rect
+        fill="transparent"
+        height="360"
+        width="558"
+        x="22"
+        y="20"
+      />
+    </g>
+  </svg>
+</div>
+`;

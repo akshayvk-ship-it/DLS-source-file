@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`PillsMweb Render Pills Mweb 1`] = `
+<div
+  class="scroll-hidden relative flex w-full max-w-fit overflow-auto scroll-smooth  bg-fill-fill z-10 py-1 flex items-center space-x-2"
+  data-testid="pills-mweb-test-id"
+>
+  <div
+    class=" text-text-on-fill border-transparent  label-medium border-border-border-light flex items-center text-nowrap  border px-4 font-medium !outline-none
+        h-10 rounded-[2.5rem]
+      "
+    role="button"
+    tabindex="0"
+  >
+    Test name 1
+  </div>
+  <div
+    class=" text-text-text hover:border-border-dark hover:bg-fill-fill-dark  label-medium border-border-border-light flex items-center text-nowrap  border px-4 font-medium !outline-none
+        h-10 rounded-[2.5rem]
+      "
+    role="button"
+    tabindex="0"
+  >
+    Test name 2
+  </div>
+  <div
+    class=" text-text-text hover:border-border-dark hover:bg-fill-fill-dark  label-medium border-border-border-light flex items-center text-nowrap  border px-4 font-medium !outline-none
+        h-10 rounded-[2.5rem]
+      "
+    role="button"
+    tabindex="0"
+  >
+    Test name 3
+  </div>
+  <div
+    class=" text-text-text hover:border-border-dark hover:bg-fill-fill-dark  label-medium border-border-border-light flex items-center text-nowrap  border px-4 font-medium !outline-none
+        h-10 rounded-[2.5rem]
+      "
+    role="button"
+    tabindex="0"
+  >
+    Test name 4
+  </div>
+  <div
+    class=" bg-fill-info-dark absolute -z-10 !m-0  h-10 rounded-[2.5rem] shadow-[0px_1px_3px_0px_rgba(0,0,0,0.1)_,_0px_1px_2px_0px_rgba(0,0,0,0.06)] "
+    style="width: 0px; left: 0px;"
+  />
+   
+</div>
+`;

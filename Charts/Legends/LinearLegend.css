@@ -1,0 +1,32 @@
+.legend-checkbox-override input[type='Checkbox'] {
+  border-color: var(--legend-color) !important;
+  border: 1px solid var(--legend-color) !important;
+}
+
+.legend-checkbox-override input[type='Checkbox']:focus {
+  box-shadow: none !important;
+}
+
+.legend-checkbox-override.unchecked-unfill input[type='Checkbox'] {
+  background-color: transparent !important;
+}
+
+.legend-checkbox-override.unchecked-fill input[type='Checkbox'] {
+  background-color: var(--legend-color) !important;
+}
+
+.legend-checkbox-override.checked-fill input[type='Checkbox'] {
+  background-color: var(--legend-color) !important;
+}
+
+.legend-checkbox-override.checked-unfill input[type='Checkbox'] {
+  background-color: rgba(var(--legend-color-rgb, 241, 87, 1), 0.08) !important;
+}
+
+.legend-checkbox-override.checked-icon-fill span svg path {
+  fill: var(--legend-color) !important;
+}
+
+.legend-checkbox-override.checked-icon-unfill span svg path {
+  fill: white !important;
+}

@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Text Input Snapshot Test 1`] = `
+<body>
+  <div>
+    <div
+      class="flex w-full flex-col  "
+    >
+      <div
+        aria-label=""
+        class=" border-border-border focus-within:border-border-action-focused focus-within:shadow-border-brand-focus-ring focus-within:shadow-[0px_0px_0px_4px]  relative h-12 rounded-lg border border-solid px-4 py-3 
+            
+            
+            
+            flex items-center hover:cursor-text
+          "
+        role="textbox"
+        tabindex="-1"
+      >
+        <input
+          class=" paragraph-medium text-text-text placeholder-text-light w-full align-top focus:outline-none "
+          placeholder=""
+          tabindex="0"
+          value=""
+        />
+      </div>
+    </div>
+  </div>
+</body>
+`;

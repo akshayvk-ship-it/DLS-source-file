@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Checkbox snapshot test 1`] = `
+<body>
+  <div>
+    <label
+      class=" flex space-x-2 text-text-dark"
+      for="test-radio"
+      tabindex="-1"
+    >
+      <div
+        class="mt-1"
+      >
+        <input
+          class=" !outline-none appearance-none border border-border-border checked:bg-fill-action-light  checked:!border-border-action  hover:border-border-action focus:shadow-[0px_0px_0px_4px] focus:!shadow-border-brand-focus-ring focus:border-border-action-focused disabled:!border-border-disabled disabled:bg-fill-disabled bg-50 bg-origin-border w-5 h-5 relative rounded-full
+          after:absolute disabled:cursor-not-allowed  after:h-2.5 after:w-2.5  after:checked:bg-fill-action after:left-1/2  after:top-1/2 after:-translate-x-1/2
+        after:-translate-y-1/2
+        after:rounded-full
+      "
+          data-testid=""
+          id="test-radio"
+          type="radio"
+        />
+      </div>
+      <div
+        class="flex flex-col justify-center"
+      >
+        <span
+          class=" label-medium font-medium"
+        >
+          Sample Text
+        </span>
+        <p
+          class=" paragraph-small text-text-text font-normal"
+        >
+          Sample support text
+        </p>
+      </div>
+    </label>
+  </div>
+</body>
+`;

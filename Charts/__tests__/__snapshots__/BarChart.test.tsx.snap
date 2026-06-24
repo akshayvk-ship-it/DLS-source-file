@@ -1,0 +1,1383 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`BarChart renders correctly with default props 1`] = `
+<div
+  class=" relative flex items-end gap-10 "
+  data-testid="bar-chart-test-id"
+>
+  <svg
+    height="400"
+    width="600"
+  >
+    <defs>
+      <pattern
+        height="1"
+        id="horizontal-grid-dash-pattern"
+        patternUnits="userSpaceOnUse"
+        width="8"
+      >
+        <rect
+          fill="rgba(208, 211, 216, 1)"
+          height="1"
+          width="4"
+          x="0"
+          y="0"
+        />
+      </pattern>
+    </defs>
+    <g
+      class="visx-group"
+      transform="translate(0, 0)"
+    >
+      <g
+        class="visx-group visx-rows"
+        transform="translate(31, 0)"
+      >
+        <rect
+          fill="rgba(208, 211, 216, 1)"
+          height="1"
+          shape-rendering="crispEdges"
+          width="570"
+          x="0"
+          y="330"
+        />
+        <rect
+          fill="url('#horizontal-grid-dash-pattern')"
+          height="1"
+          shape-rendering="crispEdges"
+          width="570"
+          x="0"
+          y="300"
+        />
+        <rect
+          fill="url('#horizontal-grid-dash-pattern')"
+          height="1"
+          shape-rendering="crispEdges"
+          width="570"
+          x="0"
+          y="269"
+        />
+        <rect
+          fill="url('#horizontal-grid-dash-pattern')"
+          height="1"
+          shape-rendering="crispEdges"
+          width="570"
+          x="0"
+          y="238"
+        />
+        <rect
+          fill="url('#horizontal-grid-dash-pattern')"
+          height="1"
+          shape-rendering="crispEdges"
+          width="570"
+          x="0"
+          y="208"
+        />
+        <rect
+          fill="url('#horizontal-grid-dash-pattern')"
+          height="1"
+          shape-rendering="crispEdges"
+          width="570"
+          x="0"
+          y="178"
+        />
+        <rect
+          fill="url('#horizontal-grid-dash-pattern')"
+          height="1"
+          shape-rendering="crispEdges"
+          width="570"
+          x="0"
+          y="147"
+        />
+        <rect
+          fill="url('#horizontal-grid-dash-pattern')"
+          height="1"
+          shape-rendering="crispEdges"
+          width="570"
+          x="0"
+          y="117"
+        />
+        <rect
+          fill="url('#horizontal-grid-dash-pattern')"
+          height="1"
+          shape-rendering="crispEdges"
+          width="570"
+          x="0"
+          y="86"
+        />
+        <rect
+          fill="url('#horizontal-grid-dash-pattern')"
+          height="1"
+          shape-rendering="crispEdges"
+          width="570"
+          x="0"
+          y="55"
+        />
+        <rect
+          fill="url('#horizontal-grid-dash-pattern')"
+          height="1"
+          shape-rendering="crispEdges"
+          width="570"
+          x="0"
+          y="25"
+        />
+      </g>
+      <g
+        class="visx-group visx-axis visx-axis-left"
+        transform="translate(15, 0)"
+      >
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="330"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                0
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="300"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                10
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="269"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                20
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="238"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                30
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="208"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                40
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="178"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                50
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="147"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                60
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="117"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                70
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="86"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                80
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="55"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                90
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)] text-left"
+              text-anchor="end"
+              transform=""
+              x="-8"
+              y="25"
+            >
+              <tspan
+                dy="0.355em"
+                x="-8"
+              >
+                100
+              </tspan>
+            </text>
+          </svg>
+        </g>
+      </g>
+      <g
+        class="visx-group relative z-10"
+        transform="translate(0, 0)"
+        width="600"
+      >
+        <path
+          class=" "
+          d="
+                        M 81 308 
+                        Q 81 300 89 300 
+                        H 116 
+                        Q 124 300 124 308 
+                        V 330 
+                        H 81 
+                        Z
+                      "
+          fill="url(#slantPattern-:r0:)"
+          stroke="#FBCBB0"
+          stroke-width="0.5"
+          style="filter: url(#shadow1-:r0:);"
+        />
+        <rect
+          class="visx-bar"
+          fill="transparent"
+          height="345"
+          width="43"
+          x="81"
+          y="25"
+        />
+        <defs>
+          <pattern
+            height="10"
+            id="slantPattern-FEF4EE-FFE3D4-0-:r0:"
+            patternUnits="userSpaceOnUse"
+            width="10"
+          >
+            <rect
+              fill="#FEF4EE"
+              height="10"
+              width="10"
+            />
+            <path
+              d="M-2,2 l4,-4 M0,10 l10,-10 M8,12 l4,-4"
+              stroke="#FFE3D4"
+              stroke-width="1"
+            />
+          </pattern>
+          <filter
+            color-interpolation-filters="sRGB"
+            filterUnits="userSpaceOnUse"
+            id="shadow-dynamic--0-:r0:"
+          >
+            <fedropshadow
+              dx="4"
+              dy="0"
+              stdDeviation="0"
+            />
+          </filter>
+        </defs>
+        <defs>
+          <pattern
+            height="10"
+            id="slantPattern-dottedStroke-FEF4EE-FFE3D4-0-:r0:"
+            patternUnits="userSpaceOnUse"
+            width="10"
+          >
+            <rect
+              fill="#FFFFFF"
+              height="10"
+              width="10"
+            />
+            <path
+              d="M-2,2 l4,-4 M0,10 l10,-10 M8,12 l4,-4"
+              stroke="#FFE3D4"
+              stroke-dasharray="1,1"
+              stroke-width="1"
+            />
+          </pattern>
+          <filter
+            color-interpolation-filters="sRGB"
+            filterUnits="userSpaceOnUse"
+            id="shadow-dynamic--0-:r0:"
+          >
+            <fedropshadow
+              dx="4"
+              dy="0"
+              stdDeviation="0"
+            />
+          </filter>
+        </defs>
+        <path
+          class=" "
+          d="
+                        M 152 33 
+                        Q 152 25 160 25 
+                        H 187 
+                        Q 195 25 195 33 
+                        V 330 
+                        H 152 
+                        Z
+                      "
+          fill="url(#barGradient-:r0:)"
+          stroke="#FBCBB0"
+          stroke-width="0"
+          style="filter: url(#shadow2-:r0:);"
+        />
+        <rect
+          class="visx-bar"
+          fill="transparent"
+          height="345"
+          width="43"
+          x="152"
+          y="25"
+        />
+        <defs>
+          <pattern
+            height="10"
+            id="slantPattern-FEF4EE-FFE3D4-1-:r0:"
+            patternUnits="userSpaceOnUse"
+            width="10"
+          >
+            <rect
+              fill="#FEF4EE"
+              height="10"
+              width="10"
+            />
+            <path
+              d="M-2,2 l4,-4 M0,10 l10,-10 M8,12 l4,-4"
+              stroke="#FFE3D4"
+              stroke-width="1"
+            />
+          </pattern>
+          <filter
+            color-interpolation-filters="sRGB"
+            filterUnits="userSpaceOnUse"
+            id="shadow-dynamic--1-:r0:"
+          >
+            <fedropshadow
+              dx="4"
+              dy="0"
+              stdDeviation="0"
+            />
+          </filter>
+        </defs>
+        <defs>
+          <pattern
+            height="10"
+            id="slantPattern-dottedStroke-FEF4EE-FFE3D4-1-:r0:"
+            patternUnits="userSpaceOnUse"
+            width="10"
+          >
+            <rect
+              fill="#FFFFFF"
+              height="10"
+              width="10"
+            />
+            <path
+              d="M-2,2 l4,-4 M0,10 l10,-10 M8,12 l4,-4"
+              stroke="#FFE3D4"
+              stroke-dasharray="1,1"
+              stroke-width="1"
+            />
+          </pattern>
+          <filter
+            color-interpolation-filters="sRGB"
+            filterUnits="userSpaceOnUse"
+            id="shadow-dynamic--1-:r0:"
+          >
+            <fedropshadow
+              dx="4"
+              dy="0"
+              stdDeviation="0"
+            />
+          </filter>
+        </defs>
+        <path
+          class=" "
+          d="
+                        M 223 63 
+                        Q 223 55 231 55 
+                        H 258 
+                        Q 266 55 266 63 
+                        V 330 
+                        H 223 
+                        Z
+                      "
+          fill="url(#slantPattern-:r0:)"
+          stroke="#FBCBB0"
+          stroke-width="0.5"
+          style="filter: url(#shadow1-:r0:);"
+        />
+        <rect
+          class="visx-bar"
+          fill="transparent"
+          height="345"
+          width="43"
+          x="223"
+          y="25"
+        />
+        <defs>
+          <pattern
+            height="10"
+            id="slantPattern-FEF4EE-FFE3D4-2-:r0:"
+            patternUnits="userSpaceOnUse"
+            width="10"
+          >
+            <rect
+              fill="#FEF4EE"
+              height="10"
+              width="10"
+            />
+            <path
+              d="M-2,2 l4,-4 M0,10 l10,-10 M8,12 l4,-4"
+              stroke="#FFE3D4"
+              stroke-width="1"
+            />
+          </pattern>
+          <filter
+            color-interpolation-filters="sRGB"
+            filterUnits="userSpaceOnUse"
+            id="shadow-dynamic--2-:r0:"
+          >
+            <fedropshadow
+              dx="4"
+              dy="0"
+              stdDeviation="0"
+            />
+          </filter>
+        </defs>
+        <defs>
+          <pattern
+            height="10"
+            id="slantPattern-dottedStroke-FEF4EE-FFE3D4-2-:r0:"
+            patternUnits="userSpaceOnUse"
+            width="10"
+          >
+            <rect
+              fill="#FFFFFF"
+              height="10"
+              width="10"
+            />
+            <path
+              d="M-2,2 l4,-4 M0,10 l10,-10 M8,12 l4,-4"
+              stroke="#FFE3D4"
+              stroke-dasharray="1,1"
+              stroke-width="1"
+            />
+          </pattern>
+          <filter
+            color-interpolation-filters="sRGB"
+            filterUnits="userSpaceOnUse"
+            id="shadow-dynamic--2-:r0:"
+          >
+            <fedropshadow
+              dx="4"
+              dy="0"
+              stdDeviation="0"
+            />
+          </filter>
+        </defs>
+        <path
+          class=" hidden"
+          d="
+                        M 294 330 
+                        Q 294 330 294 330 
+                        H 337 
+                        Q 337 330 337 330 
+                        V 330 
+                        H 294 
+                        Z
+                      "
+          fill="url(#slantPattern-:r0:)"
+          stroke="#FBCBB0"
+          stroke-width="0.5"
+          style="filter: url(#shadow1-:r0:);"
+        />
+        <rect
+          class="visx-bar"
+          fill="transparent"
+          height="345"
+          width="43"
+          x="294"
+          y="25"
+        />
+        <defs>
+          <pattern
+            height="10"
+            id="slantPattern-FEF4EE-FFE3D4-3-:r0:"
+            patternUnits="userSpaceOnUse"
+            width="10"
+          >
+            <rect
+              fill="#FEF4EE"
+              height="10"
+              width="10"
+            />
+            <path
+              d="M-2,2 l4,-4 M0,10 l10,-10 M8,12 l4,-4"
+              stroke="#FFE3D4"
+              stroke-width="1"
+            />
+          </pattern>
+          <filter
+            color-interpolation-filters="sRGB"
+            filterUnits="userSpaceOnUse"
+            id="shadow-dynamic--3-:r0:"
+          >
+            <fedropshadow
+              dx="4"
+              dy="0"
+              stdDeviation="0"
+            />
+          </filter>
+        </defs>
+        <defs>
+          <pattern
+            height="10"
+            id="slantPattern-dottedStroke-FEF4EE-FFE3D4-3-:r0:"
+            patternUnits="userSpaceOnUse"
+            width="10"
+          >
+            <rect
+              fill="#FFFFFF"
+              height="10"
+              width="10"
+            />
+            <path
+              d="M-2,2 l4,-4 M0,10 l10,-10 M8,12 l4,-4"
+              stroke="#FFE3D4"
+              stroke-dasharray="1,1"
+              stroke-width="1"
+            />
+          </pattern>
+          <filter
+            color-interpolation-filters="sRGB"
+            filterUnits="userSpaceOnUse"
+            id="shadow-dynamic--3-:r0:"
+          >
+            <fedropshadow
+              dx="4"
+              dy="0"
+              stdDeviation="0"
+            />
+          </filter>
+        </defs>
+        <path
+          class=" "
+          d="
+                        M 365 216 
+                        Q 365 208 373 208 
+                        H 400 
+                        Q 408 208 408 216 
+                        V 330 
+                        H 365 
+                        Z
+                      "
+          fill="url(#slantPattern-:r0:)"
+          stroke="#FBCBB0"
+          stroke-width="0.5"
+          style="filter: url(#shadow1-:r0:);"
+        />
+        <rect
+          class="visx-bar"
+          fill="transparent"
+          height="345"
+          width="43"
+          x="365"
+          y="25"
+        />
+        <defs>
+          <pattern
+            height="10"
+            id="slantPattern-FEF4EE-FFE3D4-4-:r0:"
+            patternUnits="userSpaceOnUse"
+            width="10"
+          >
+            <rect
+              fill="#FEF4EE"
+              height="10"
+              width="10"
+            />
+            <path
+              d="M-2,2 l4,-4 M0,10 l10,-10 M8,12 l4,-4"
+              stroke="#FFE3D4"
+              stroke-width="1"
+            />
+          </pattern>
+          <filter
+            color-interpolation-filters="sRGB"
+            filterUnits="userSpaceOnUse"
+            id="shadow-dynamic--4-:r0:"
+          >
+            <fedropshadow
+              dx="4"
+              dy="0"
+              stdDeviation="0"
+            />
+          </filter>
+        </defs>
+        <defs>
+          <pattern
+            height="10"
+            id="slantPattern-dottedStroke-FEF4EE-FFE3D4-4-:r0:"
+            patternUnits="userSpaceOnUse"
+            width="10"
+          >
+            <rect
+              fill="#FFFFFF"
+              height="10"
+              width="10"
+            />
+            <path
+              d="M-2,2 l4,-4 M0,10 l10,-10 M8,12 l4,-4"
+              stroke="#FFE3D4"
+              stroke-dasharray="1,1"
+              stroke-width="1"
+            />
+          </pattern>
+          <filter
+            color-interpolation-filters="sRGB"
+            filterUnits="userSpaceOnUse"
+            id="shadow-dynamic--4-:r0:"
+          >
+            <fedropshadow
+              dx="4"
+              dy="0"
+              stdDeviation="0"
+            />
+          </filter>
+        </defs>
+        <path
+          class=" "
+          d="
+                        M 436 155 
+                        Q 436 147 444 147 
+                        H 471 
+                        Q 479 147 479 155 
+                        V 330 
+                        H 436 
+                        Z
+                      "
+          fill="url(#slantPattern-:r0:)"
+          stroke="#FBCBB0"
+          stroke-width="0.5"
+          style="filter: url(#shadow1-:r0:);"
+        />
+        <rect
+          class="visx-bar"
+          fill="transparent"
+          height="345"
+          width="43"
+          x="436"
+          y="25"
+        />
+        <defs>
+          <pattern
+            height="10"
+            id="slantPattern-FEF4EE-FFE3D4-5-:r0:"
+            patternUnits="userSpaceOnUse"
+            width="10"
+          >
+            <rect
+              fill="#FEF4EE"
+              height="10"
+              width="10"
+            />
+            <path
+              d="M-2,2 l4,-4 M0,10 l10,-10 M8,12 l4,-4"
+              stroke="#FFE3D4"
+              stroke-width="1"
+            />
+          </pattern>
+          <filter
+            color-interpolation-filters="sRGB"
+            filterUnits="userSpaceOnUse"
+            id="shadow-dynamic--5-:r0:"
+          >
+            <fedropshadow
+              dx="4"
+              dy="0"
+              stdDeviation="0"
+            />
+          </filter>
+        </defs>
+        <defs>
+          <pattern
+            height="10"
+            id="slantPattern-dottedStroke-FEF4EE-FFE3D4-5-:r0:"
+            patternUnits="userSpaceOnUse"
+            width="10"
+          >
+            <rect
+              fill="#FFFFFF"
+              height="10"
+              width="10"
+            />
+            <path
+              d="M-2,2 l4,-4 M0,10 l10,-10 M8,12 l4,-4"
+              stroke="#FFE3D4"
+              stroke-dasharray="1,1"
+              stroke-width="1"
+            />
+          </pattern>
+          <filter
+            color-interpolation-filters="sRGB"
+            filterUnits="userSpaceOnUse"
+            id="shadow-dynamic--5-:r0:"
+          >
+            <fedropshadow
+              dx="4"
+              dy="0"
+              stdDeviation="0"
+            />
+          </filter>
+        </defs>
+        <path
+          class=" "
+          d="
+                        M 507 63 
+                        Q 507 55 515 55 
+                        H 542 
+                        Q 550 55 550 63 
+                        V 330 
+                        H 507 
+                        Z
+                      "
+          fill="url(#slantPattern-:r0:)"
+          stroke="#FBCBB0"
+          stroke-width="0.5"
+          style="filter: url(#shadow1-:r0:);"
+        />
+        <rect
+          class="visx-bar"
+          fill="transparent"
+          height="345"
+          width="43"
+          x="507"
+          y="25"
+        />
+        <defs>
+          <pattern
+            height="10"
+            id="slantPattern-FEF4EE-FFE3D4-6-:r0:"
+            patternUnits="userSpaceOnUse"
+            width="10"
+          >
+            <rect
+              fill="#FEF4EE"
+              height="10"
+              width="10"
+            />
+            <path
+              d="M-2,2 l4,-4 M0,10 l10,-10 M8,12 l4,-4"
+              stroke="#FFE3D4"
+              stroke-width="1"
+            />
+          </pattern>
+          <filter
+            color-interpolation-filters="sRGB"
+            filterUnits="userSpaceOnUse"
+            id="shadow-dynamic--6-:r0:"
+          >
+            <fedropshadow
+              dx="4"
+              dy="0"
+              stdDeviation="0"
+            />
+          </filter>
+        </defs>
+        <defs>
+          <pattern
+            height="10"
+            id="slantPattern-dottedStroke-FEF4EE-FFE3D4-6-:r0:"
+            patternUnits="userSpaceOnUse"
+            width="10"
+          >
+            <rect
+              fill="#FFFFFF"
+              height="10"
+              width="10"
+            />
+            <path
+              d="M-2,2 l4,-4 M0,10 l10,-10 M8,12 l4,-4"
+              stroke="#FFE3D4"
+              stroke-dasharray="1,1"
+              stroke-width="1"
+            />
+          </pattern>
+          <filter
+            color-interpolation-filters="sRGB"
+            filterUnits="userSpaceOnUse"
+            id="shadow-dynamic--6-:r0:"
+          >
+            <fedropshadow
+              dx="4"
+              dy="0"
+              stdDeviation="0"
+            />
+          </filter>
+        </defs>
+        <defs>
+          <lineargradient
+            gradientTransform="rotate(90)"
+            id="barGradient-:r0:"
+          >
+            <stop
+              offset="41.13%"
+              stop-color="#FE9F69"
+            />
+            <stop
+              offset="81.93%"
+              stop-color="#F15701"
+            />
+          </lineargradient>
+          <filter
+            color-interpolation-filters="sRGB"
+            filterUnits="userSpaceOnUse"
+            id="shadow2-:r0:"
+          >
+            <fedropshadow
+              dx="4"
+              dy="0"
+              flood-color="rgb(241,87,1)"
+              stdDeviation="0"
+            />
+          </filter>
+          <filter
+            color-interpolation-filters="sRGB"
+            filterUnits="userSpaceOnUse"
+            id="shadow1-:r0:"
+          >
+            <fedropshadow
+              dx="4"
+              dy="0"
+              flood-color="rgb(251,203,176)"
+              stdDeviation="0"
+            />
+          </filter>
+          <pattern
+            height="10"
+            id="slantPattern-:r0:"
+            patternUnits="userSpaceOnUse"
+            width="10"
+          >
+            <rect
+              class=""
+              fill="#FEF4EE"
+              height="10"
+              width="10"
+            />
+            <path
+              class=""
+              d="M-2,2 l4,-4 M0,10 l10,-10 M8,12 l4,-4"
+              stroke="#FFE3D4"
+              stroke-width="1"
+            />
+          </pattern>
+        </defs>
+      </g>
+      <g
+        class="visx-group visx-axis visx-axis-bottom"
+        transform="translate(0, 330)"
+      >
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0.5rem"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)]"
+              text-anchor="middle"
+              transform=""
+              x="103"
+              y="18"
+            >
+              <tspan
+                dy="0em"
+                x="103"
+              >
+                x1
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0.5rem"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)]"
+              text-anchor="middle"
+              transform=""
+              x="174"
+              y="18"
+            >
+              <tspan
+                dy="0em"
+                x="174"
+              >
+                x2
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0.5rem"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)]"
+              text-anchor="middle"
+              transform=""
+              x="245"
+              y="18"
+            >
+              <tspan
+                dy="0em"
+                x="245"
+              >
+                x3
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0.5rem"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)]"
+              text-anchor="middle"
+              transform=""
+              x="316"
+              y="18"
+            >
+              <tspan
+                dy="0em"
+                x="316"
+              >
+                x4
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0.5rem"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)]"
+              text-anchor="middle"
+              transform=""
+              x="387"
+              y="18"
+            >
+              <tspan
+                dy="0em"
+                x="387"
+              >
+                x5
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0.5rem"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)]"
+              text-anchor="middle"
+              transform=""
+              x="458"
+              y="18"
+            >
+              <tspan
+                dy="0em"
+                x="458"
+              >
+                x6
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <g
+          class="visx-group visx-axis-tick"
+          transform="translate(0, 0)"
+        >
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0.5rem"
+          >
+            <text
+              class="!label-small fill-[rgba(0,0,0,0.4)]"
+              text-anchor="middle"
+              transform=""
+              x="529"
+              y="18"
+            >
+              <tspan
+                dy="0em"
+                x="529"
+              >
+                x7
+              </tspan>
+            </text>
+          </svg>
+        </g>
+      </g>
+    </g>
+  </svg>
+</div>
+`;
+
+exports[`BarChart renders legend with custom labels 1`] = `
+<div
+  class=" flex flex-col gap-2"
+  data-testid="legend-testId"
+>
+  <div
+    class="bg-fill-fill-dark rounded-xl p-2"
+  >
+    <div
+      class="flex h-6 items-center gap-1"
+    >
+      <span
+        class="text-text-text label-small font-medium"
+      >
+        X Axis:
+      </span>
+      <span
+        class="label-small text-text-text"
+      >
+        Sample Text
+      </span>
+    </div>
+    <div
+      class="flex h-6 items-center gap-1"
+    >
+      <span
+        class="text-text-text label-small font-medium"
+      >
+        Y Axis
+      </span>
+      <span
+        class="label-small text-text-text"
+      >
+        Sample Text
+      </span>
+    </div>
+  </div>
+  <div
+    class=" flex gap-6"
+  >
+    <div
+      class="flex flex-col gap-0.5"
+    >
+      <div
+        class=" flex h-6 items-center gap-[0.563rem]"
+      >
+        <span
+          class=" text-text-text label-small px-[0.281rem] font-medium"
+        >
+          X1
+        </span>
+        <span
+          class=" label-small text-text-text"
+        >
+          Sample text 1
+        </span>
+      </div>
+      <div
+        class=" flex h-6 items-center gap-[0.563rem]"
+      >
+        <span
+          class=" text-text-text label-small px-[0.281rem] font-medium"
+        >
+          X2
+        </span>
+        <span
+          class=" label-small text-text-text"
+        >
+          Sample text 2
+        </span>
+      </div>
+      <div
+        class=" flex h-6 items-center gap-[0.563rem]"
+      >
+        <span
+          class=" text-text-text label-small px-[0.281rem] font-medium"
+        >
+          X3
+        </span>
+        <span
+          class=" label-small text-text-text"
+        >
+          Sample text 3
+        </span>
+      </div>
+    </div>
+    <div
+      class="flex flex-col gap-0.5"
+    >
+      <div
+        class=" flex h-6 items-center gap-[0.563rem]"
+      >
+        <span
+          class=" text-text-text label-small px-[0.281rem] font-medium"
+        >
+          X4
+        </span>
+        <span
+          class=" label-small text-text-text"
+        >
+          Sample text 4
+        </span>
+      </div>
+      <div
+        class=" flex h-6 items-center gap-[0.563rem]"
+      >
+        <span
+          class=" text-text-text label-small px-[0.281rem] font-medium"
+        >
+          X5
+        </span>
+        <span
+          class=" label-small text-text-text"
+        >
+          Sample text 5
+        </span>
+      </div>
+      <div
+        class=" flex h-6 items-center gap-[0.563rem]"
+      >
+        <span
+          class=" text-text-text label-small px-[0.281rem] font-medium"
+        >
+          X6
+        </span>
+        <span
+          class=" label-small text-text-text"
+        >
+          Sample text 6
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;

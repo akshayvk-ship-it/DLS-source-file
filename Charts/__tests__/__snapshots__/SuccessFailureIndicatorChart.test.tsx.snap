@@ -1,0 +1,124 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`SuccessFailureIndicatorChart renders correctly with default props 1`] = `
+<div
+  class=" border-border-border-light
+        relative max-w-full overflow-x-scroll rounded-lg border border-solid
+        px-2
+      "
+  data-testid="success-failure-indicator-chart"
+  style="width: 118px; height: 56px; padding-top: 8px; padding-bottom: 8px;"
+>
+  <svg
+    class=""
+    height="36"
+    width="98"
+  >
+    <g
+      class="visx-group"
+      transform="translate(0, 0)"
+    >
+      <rect
+        class="visx-bar"
+        fill="#30D379"
+        height="36"
+        rx="2"
+        ry="2"
+        width="8"
+        x="0"
+        y="0"
+      />
+      <rect
+        class="visx-bar"
+        fill="#F2C81E"
+        height="36"
+        rx="2"
+        ry="2"
+        width="8"
+        x="10"
+        y="0"
+      />
+      <rect
+        class="visx-bar"
+        fill="#30D379"
+        height="36"
+        rx="2"
+        ry="2"
+        width="8"
+        x="20"
+        y="0"
+      />
+      <rect
+        class="visx-bar"
+        fill="#30D379"
+        height="36"
+        rx="2"
+        ry="2"
+        width="8"
+        x="30"
+        y="0"
+      />
+      <rect
+        class="visx-bar"
+        fill="#E5392D"
+        height="36"
+        rx="2"
+        ry="2"
+        width="8"
+        x="40"
+        y="0"
+      />
+      <rect
+        class="visx-bar"
+        fill="#E5392D"
+        height="36"
+        rx="2"
+        ry="2"
+        width="8"
+        x="50"
+        y="0"
+      />
+      <rect
+        class="visx-bar"
+        fill="#30D379"
+        height="36"
+        rx="2"
+        ry="2"
+        width="8"
+        x="60"
+        y="0"
+      />
+      <rect
+        class="visx-bar"
+        fill="#F2C81E"
+        height="36"
+        rx="2"
+        ry="2"
+        width="8"
+        x="70"
+        y="0"
+      />
+      <rect
+        class="visx-bar"
+        fill="#30D379"
+        height="36"
+        rx="2"
+        ry="2"
+        width="8"
+        x="80"
+        y="0"
+      />
+      <rect
+        class="visx-bar"
+        fill="#30D379"
+        height="36"
+        rx="2"
+        ry="2"
+        width="8"
+        x="90"
+        y="0"
+      />
+    </g>
+  </svg>
+</div>
+`;

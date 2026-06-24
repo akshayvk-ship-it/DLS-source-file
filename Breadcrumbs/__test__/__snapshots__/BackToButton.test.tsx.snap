@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Back Button Snapshot Test 1`] = `
+<body>
+  <div>
+    <button
+      class=" flex h-6 items-center"
+      type="button"
+    >
+      <svg
+        fill="none"
+        height="12"
+        viewBox="0 0 18 12"
+        width="18"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          class="fill-icon-action"
+          clip-rule="evenodd"
+          d="M7.60031 1.27313C7.87926 1.02001 7.87926 0.609624 7.60031 0.356506C7.32137 0.103389 6.8691 0.103389 6.59016 0.356506L0.875873 5.54169C0.596928 5.79481 0.596928 6.20519 0.875873 6.45831L6.59016 11.6435C6.8691 11.8966 7.32137 11.8966 7.60031 11.6435C7.87926 11.3904 7.87926 10.98 7.60031 10.7269L3.10539 6.64815H16.619C17.0135 6.64815 17.3333 6.35797 17.3333 6.00001C17.3333 5.64204 17.0135 5.35186 16.619 5.35186H3.10538L7.60031 1.27313Z"
+          fill="#F15701"
+          fill-rule="evenodd"
+        />
+      </svg>
+      <span
+        class=" text-text-action label-small ml-2 font-semibold"
+      >
+        Back to Settings
+      </span>
+    </button>
+  </div>
+</body>
+`;

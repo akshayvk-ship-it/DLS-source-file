@@ -1,0 +1,377 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`RadarGraphChart renders correctly with default props 1`] = `
+<div
+  class="undefined"
+  data-testid="radar-graph-testId"
+>
+  <svg
+    height="600"
+    width="600"
+  >
+    <defs>
+      <radialgradient
+        cx="50%"
+        cy="50%"
+        id="radarGradient-0"
+        r="100%"
+      >
+        <stop
+          offset="30%"
+          stop-color="white"
+          stop-opacity="0.1"
+        />
+        <stop
+          offset="100%"
+          stop-color="rgba(255, 0, 0, 1)"
+          stop-opacity="1"
+        />
+      </radialgradient>
+      <radialgradient
+        cx="50%"
+        cy="50%"
+        id="radarGradient-1"
+        r="100%"
+      >
+        <stop
+          offset="30%"
+          stop-color="white"
+          stop-opacity="0.1"
+        />
+        <stop
+          offset="100%"
+          stop-color="rgba(0, 255, 0, 1)"
+          stop-opacity="1"
+        />
+      </radialgradient>
+      <radialgradient
+        cx="50%"
+        cy="50%"
+        id="radarGradient-2"
+        r="100%"
+      >
+        <stop
+          offset="30%"
+          stop-color="white"
+          stop-opacity="0.1"
+        />
+        <stop
+          offset="100%"
+          stop-color="rgba(0, 0, 255, 1)"
+          stop-opacity="1"
+        />
+      </radialgradient>
+      <filter
+        height="200%"
+        id="radar-outer-shadow"
+        width="200%"
+        x="-50%"
+        y="-50%"
+      >
+        <fedropshadow
+          dx="0"
+          dy="0"
+          flood-color="#F15701"
+          flood-opacity="15"
+          stdDeviation="10"
+        />
+      </filter>
+    </defs>
+    <g
+      class="visx-group"
+      transform="translate(300, 300)"
+    >
+      <polygon
+        class="visx-polygon stroke-border-border fill-none"
+        filter="url(#radar-outer-shadow)"
+        points="1.469576158976824e-14,-240 207.84609690826525,-120 207.84609690826528,119.99999999999996 1.469576158976824e-14,240 -207.84609690826522,120.00000000000009 -207.84609690826537,-119.99999999999986"
+        stroke-width="1"
+      />
+      <polygon
+        class="visx-polygon fill-fill-fill"
+        points="1.469576158976824e-14,-240 207.84609690826525,-120 207.84609690826528,119.99999999999996 1.469576158976824e-14,240 -207.84609690826522,120.00000000000009 -207.84609690826537,-119.99999999999986"
+      />
+      <g>
+        <line
+          class="visx-line stroke-border-border"
+          fill="transparent"
+          shape-rendering="auto"
+          x1="0"
+          x2="1.469576158976824e-14"
+          y1="0"
+          y2="-240"
+        />
+        <text
+          class="paragraph-small fill-text-text font-medium"
+          dominant-baseline="central"
+          fill="#3B475B"
+          text-anchor="middle"
+          x="1.622657008870243e-14"
+          y="-265"
+        >
+          <tspan
+            dy="0"
+            x="1.622657008870243e-14"
+          >
+            Sales
+          </tspan>
+        </text>
+      </g>
+      <g>
+        <line
+          class="visx-line stroke-border-border"
+          fill="transparent"
+          shape-rendering="auto"
+          x1="0"
+          x2="207.84609690826525"
+          y1="0"
+          y2="-120"
+        />
+        <text
+          class="paragraph-small fill-text-text font-medium"
+          dominant-baseline="central"
+          fill="#3B475B"
+          text-anchor="middle"
+          x="242.4871130596428"
+          y="-140"
+        >
+          <tspan
+            dy="0"
+            x="242.4871130596428"
+          >
+            Marketing
+          </tspan>
+        </text>
+      </g>
+      <g>
+        <line
+          class="visx-line stroke-border-border"
+          fill="transparent"
+          shape-rendering="auto"
+          x1="0"
+          x2="207.84609690826528"
+          y1="0"
+          y2="119.99999999999996"
+        />
+        <text
+          class="paragraph-small fill-text-text font-medium"
+          dominant-baseline="central"
+          fill="#3B475B"
+          text-anchor="middle"
+          x="242.48711305964284"
+          y="139.99999999999994"
+        >
+          <tspan
+            dy="0"
+            x="242.48711305964284"
+          >
+            Information
+          </tspan>
+          <tspan
+            dy="1.2em"
+            x="242.48711305964284"
+          >
+            Technology
+          </tspan>
+        </text>
+      </g>
+      <g>
+        <line
+          class="visx-line stroke-border-border"
+          fill="transparent"
+          shape-rendering="auto"
+          x1="0"
+          x2="1.469576158976824e-14"
+          y1="0"
+          y2="240"
+        />
+        <text
+          class="paragraph-small fill-text-text font-medium"
+          dominant-baseline="central"
+          fill="#3B475B"
+          text-anchor="middle"
+          x="1.622657008870243e-14"
+          y="265"
+        >
+          <tspan
+            dy="0"
+            x="1.622657008870243e-14"
+          >
+            Development
+          </tspan>
+        </text>
+      </g>
+      <g>
+        <line
+          class="visx-line stroke-border-border"
+          fill="transparent"
+          shape-rendering="auto"
+          x1="0"
+          x2="-207.84609690826522"
+          y1="0"
+          y2="120.00000000000009"
+        />
+        <text
+          class="paragraph-small fill-text-text font-medium"
+          dominant-baseline="central"
+          fill="#3B475B"
+          text-anchor="middle"
+          x="-242.48711305964278"
+          y="140.00000000000009"
+        >
+          <tspan
+            dy="0"
+            x="-242.48711305964278"
+          >
+            Customer
+          </tspan>
+          <tspan
+            dy="1.2em"
+            x="-242.48711305964278"
+          >
+            Support
+          </tspan>
+        </text>
+      </g>
+      <g>
+        <line
+          class="visx-line stroke-border-border"
+          fill="transparent"
+          shape-rendering="auto"
+          x1="0"
+          x2="-207.84609690826537"
+          y1="0"
+          y2="-119.99999999999986"
+        />
+        <text
+          class="paragraph-small fill-text-text font-medium"
+          dominant-baseline="central"
+          fill="#3B475B"
+          text-anchor="middle"
+          x="-242.48711305964292"
+          y="-139.99999999999983"
+        >
+          <tspan
+            dy="0"
+            x="-242.48711305964292"
+          >
+            Administration
+          </tspan>
+        </text>
+      </g>
+      <g>
+        <polygon
+          class="visx-polygon stroke-border-border fill-none"
+          points="2.351321854362918e-15,-38.4 33.25537550532244,-19.2 33.25537550532245,19.199999999999992 2.351321854362918e-15,38.4 -33.255375505322434,19.200000000000014 -33.255375505322455,-19.199999999999974"
+          stroke-width="1"
+        />
+        <text
+          class="paragraph-extra-small fill-text-light z-50 font-medium"
+          dominant-baseline="middle"
+          text-anchor="middle"
+          x="14"
+          y="-38.4"
+        >
+          16
+        </text>
+      </g>
+      <g>
+        <polygon
+          class="visx-polygon stroke-border-border fill-none"
+          points="4.849601324623519e-15,-79.2 68.58921197972754,-39.6 68.58921197972755,39.59999999999999 4.849601324623519e-15,79.2 -68.58921197972754,39.60000000000003 -68.58921197972758,-39.59999999999995"
+          stroke-width="1"
+        />
+        <text
+          class="paragraph-extra-small fill-text-light z-50 font-medium"
+          dominant-baseline="middle"
+          text-anchor="middle"
+          x="14"
+          y="-79.2"
+        >
+          33
+        </text>
+      </g>
+      <g>
+        <polygon
+          class="visx-polygon stroke-border-border fill-none"
+          points="7.34788079488412e-15,-120 103.92304845413263,-60 103.92304845413264,59.99999999999998 7.34788079488412e-15,120 -103.92304845413261,60.00000000000004 -103.92304845413268,-59.99999999999993"
+          stroke-width="1"
+        />
+        <text
+          class="paragraph-extra-small fill-text-light z-50 font-medium"
+          dominant-baseline="middle"
+          text-anchor="middle"
+          x="14"
+          y="-120"
+        >
+          50
+        </text>
+      </g>
+      <g>
+        <polygon
+          class="visx-polygon stroke-border-border fill-none"
+          points="9.699202649247038e-15,-158.4 137.17842395945507,-79.2 137.1784239594551,79.19999999999997 9.699202649247038e-15,158.4 -137.17842395945507,79.20000000000006 -137.17842395945516,-79.1999999999999"
+          stroke-width="1"
+        />
+        <text
+          class="paragraph-extra-small fill-text-light z-50 font-medium"
+          dominant-baseline="middle"
+          text-anchor="middle"
+          x="14"
+          y="-158.4"
+        >
+          66
+        </text>
+      </g>
+      <g>
+        <polygon
+          class="visx-polygon stroke-border-border fill-none"
+          points="1.2197482119507637e-14,-199.2 172.51226043386015,-99.6 172.51226043386018,99.59999999999997 1.2197482119507637e-14,199.2 -172.51226043386015,99.60000000000007 -172.51226043386023,-99.59999999999987"
+          stroke-width="1"
+        />
+        <text
+          class="paragraph-extra-small fill-text-light z-50 font-medium"
+          dominant-baseline="middle"
+          text-anchor="middle"
+          x="14"
+          y="-199.2"
+        >
+          83
+        </text>
+      </g>
+      <g>
+        <text
+          class="paragraph-extra-small fill-text-light z-50 font-medium"
+          dominant-baseline="middle"
+          text-anchor="middle"
+          x="14"
+          y="-240"
+        >
+          100
+        </text>
+      </g>
+      <polygon
+        class="visx-polygon"
+        fill="url(#radarGradient-0)"
+        points="1.175660927181459e-14,-192 187.06148721743872,-108 124.70765814495917,71.99999999999997 1.0287033112837767e-14,168 -166.2768775266122,96.00000000000006 -176.66918237202557,-101.99999999999987"
+        stroke="rgba(255, 0, 0, 1)"
+        stroke-width="2"
+      />
+      <polygon
+        class="visx-polygon"
+        fill="url(#radarGradient-1)"
+        points="1.0287033112837767e-14,-168 124.70765814495915,-72 166.27687752661222,95.99999999999997 1.3226185430791415e-14,216 -124.70765814495914,72.00000000000004 -155.88457268119902,-89.99999999999989"
+        stroke="rgba(0, 255, 0, 1)"
+        stroke-width="2"
+      />
+      <polygon
+        class="visx-polygon"
+        fill="url(#radarGradient-2)"
+        points="8.817456953860943e-15,-144 145.4922678357857,-84 187.06148721743875,107.99999999999996 1.175660927181459e-14,192 -187.06148721743872,108.00000000000007 -135.0999629903725,-77.9999999999999"
+        stroke="rgba(0, 0, 255, 1)"
+        stroke-width="2"
+      />
+    </g>
+  </svg>
+</div>
+`;

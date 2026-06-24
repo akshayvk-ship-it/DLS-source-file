@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`render horizontal axis legend 1`] = `
+[
+  <div
+    class=" flex flex-col gap-2"
+    data-testid="legend-testId"
+  >
+    <div
+      class=" flex gap-6"
+    >
+      <div
+        class="flex flex-col gap-0.5"
+      >
+        <div
+          class=" flex h-6 items-center gap-[0.563rem]"
+        >
+          <span
+            class=" text-text-text label-small px-[0.281rem] font-medium"
+          >
+            X2
+          </span>
+          <span
+            class=" label-small text-text-text"
+          >
+            Sample text long long long 2
+          </span>
+        </div>
+        <div
+          class=" flex h-6 items-center gap-[0.563rem]"
+        >
+          <span
+            class=" text-text-text label-small px-[0.281rem] font-medium"
+          >
+            X4
+          </span>
+          <span
+            class=" label-small text-text-text"
+          >
+            Sample text 4
+          </span>
+        </div>
+      </div>
+      <div
+        class="flex flex-col gap-0.5"
+      >
+        <div
+          class=" flex h-6 items-center gap-[0.563rem]"
+        >
+          <span
+            class=" text-text-text label-small px-[0.281rem] font-medium"
+          >
+            X5
+          </span>
+          <span
+            class=" label-small text-text-text"
+          >
+            Sample text 5
+          </span>
+        </div>
+        <div
+          class=" flex h-6 items-center gap-[0.563rem]"
+        >
+          <span
+            class=" text-text-text label-small px-[0.281rem] font-medium"
+          >
+            X6
+          </span>
+          <span
+            class=" label-small text-text-text"
+          >
+            Sample text 6
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;

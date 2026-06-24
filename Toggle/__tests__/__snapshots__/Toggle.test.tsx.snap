@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Toggle renders correctly 1`] = `
+<body>
+  <div>
+    <div
+      class=" relative flex h-2.5 items-center"
+    >
+      <input
+        class="absolute left-0 top-0 !h-0 !w-0 !max-w-0 !border-0 opacity-0"
+        data-testid="toggle-checkbox"
+        id="toggle-input"
+        name="toggle-input"
+        tabindex="0"
+        type="checkbox"
+      />
+      <label
+        class="flex items-center"
+        for="toggle-input"
+      >
+        <div
+          class="
+              relative bottom-0 top-0 cursor-pointer rounded-full border before:absolute before:bottom-1/2 before:z-10 before:flex-shrink-0 before:translate-y-1/2  before:rounded-full before:transition-all before:duration-300 before:ease-in-out active:transition-shadow active:before:scale-75 
+              border-text-light hover:border-border-dark before:bg-text-light hover:before:bg-icon-icon active:before:shadow-[0px_0px_0px_3px_rgb(59,71,91,0.2)] [&:hover>p]:text-icon-icon 
+              p-0.5 w-10 h-5 before:w-3.5 before:h-3.5 before:translate-x-0              
+              
+              
+            "
+        />
+        <p
+          class=" label-medium ml-2 font-medium text-text-text"
+        >
+          Test Toggle
+        </p>
+      </label>
+    </div>
+  </div>
+</body>
+`;

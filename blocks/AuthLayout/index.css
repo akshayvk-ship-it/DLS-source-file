@@ -1,0 +1,71 @@
+@keyframes move-spin-ping-1 {
+  0% {
+    transform: translateX(0) rotate(0deg);
+  }
+  45% {
+    transform: translateX(var(--vector1-translate-x, 130%)) rotate(78deg);
+  }
+  55% {
+    transform: translateX(var(--vector1-translate-x, 130%)) rotate(78deg);
+  }
+  100% {
+    transform: translateX(0) rotate(0deg);
+  }
+}
+
+@keyframes move-spin-ping-2 {
+  0% {
+    transform: translateY(0) rotate(0deg);
+  }
+  45% {
+    transform: translateY(var(--vector2-translate-y, -80%)) rotate(-78deg);
+  }
+  55% {
+    transform: translateY(var(--vector2-translate-y, -80%)) rotate(-78deg);
+  }
+  100% {
+    transform: translateY(0) rotate(0deg);
+  }
+}
+
+@keyframes move-spin-ping-3 {
+  0% {
+    transform: translateY(0) rotate(0deg);
+  }
+  45% {
+    transform: translateY(var(--vector3-translate-y, 50%)) rotate(78deg);
+  }
+  55% {
+    transform: translateY(var(--vector3-translate-y, 50%)) rotate(78deg);
+  }
+  100% {
+    transform: translateY(0) rotate(0deg);
+  }
+}
+
+.animate-move-spin-ping-1 {
+  animation: move-spin-ping-1 10s ease-in-out infinite both;
+  position: absolute;
+  transform-origin: center center;
+  will-change: transform;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+}
+
+.animate-move-spin-ping-2 {
+  animation: move-spin-ping-2 10s ease-in-out infinite both;
+  position: absolute;
+  transform-origin: center center;
+  will-change: transform;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+}
+
+.animate-move-spin-ping-3 {
+  animation: move-spin-ping-3 10s ease-in-out infinite both;
+  position: absolute;
+  transform-origin: center center;
+  will-change: transform;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+}

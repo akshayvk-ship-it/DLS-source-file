@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Checkbox snapshot test 1`] = `
+<body>
+  <div>
+    <label
+      class=" flex space-x-2 text-text-dark"
+      for="test-check"
+      tabindex="-1"
+    >
+      <div
+        class="mt-1"
+      >
+        <div
+          class=" relative h-fit w-fit"
+        >
+          <input
+            class=" block w-5 h-5  border-border-border
+          hover:border-border-action focus:!shadow-border-brand-focus-ring focus:border-border-action-focused disabled:!border-border-disabled disabled:bg-fill-disabled bg-50 appearance-none rounded border bg-origin-border !outline-none focus:shadow-[0px_0px_0px_4px]
+        disabled:cursor-not-allowed !border-border-action bg-fill-action-light
+            !bg-fill-action-light !border-border-action
+          "
+            id="test-check"
+            type="Checkbox"
+          />
+          <span
+            class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 block"
+            role="none"
+            tabindex="-1"
+          >
+            <svg
+              fill="none"
+              height="2"
+              viewBox="0 0 12 2"
+              width="12"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                class="fill-icon-action            
+                          
+          "
+                clip-rule="evenodd"
+                d="M0.875 1C0.875 0.585786 1.21079 0.25 1.625 0.25H10.375C10.7892 0.25 11.125 0.585786 11.125 1C11.125 1.41421 10.7892 1.75 10.375 1.75H1.625C1.21079 1.75 0.875 1.41421 0.875 1Z"
+                fill="#F15701"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+        </div>
+      </div>
+      <div
+        class="flex flex-col justify-center"
+      >
+        <span
+          class=" label-medium font-medium"
+        >
+          Sample Text
+        </span>
+        <p
+          class=" paragraph-small text-text-text font-normal"
+        >
+          Sample support text
+        </p>
+      </div>
+    </label>
+  </div>
+</body>
+`;

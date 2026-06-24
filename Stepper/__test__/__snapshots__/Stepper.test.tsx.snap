@@ -1,0 +1,523 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`failed state 1`] = `
+<body>
+  <div>
+    <div
+      class="  flex flex-row space-x-2 pl-16  "
+    >
+      <div
+        class="flex flex-col space-y-4 "
+        data-testid=""
+      >
+        <div
+          class="flex flex-row space-x-2 items-center "
+        >
+          <div
+            class=" bg-text-dark text-text-on-fill label-small grid h-6 w-6 place-items-center rounded-full font-medium"
+          >
+            <svg
+              class="h-2 w-2"
+              fill="none"
+              height="8"
+              viewBox="0 0 11 8"
+              width="11"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M9.77101 0.293648C10.0964 0.619086 10.0964 1.14672 9.771 1.47216L4.03686 7.20629C3.71231 7.53085 3.18641 7.53185 2.86062 7.20854L0.296892 4.66439C-0.0297899 4.3402 -0.0318117 3.81257 0.292376 3.48589C0.616563 3.15921 1.1442 3.15719 1.47088 3.48137L3.44536 5.44078L8.59249 0.293647C8.91793 -0.0317891 9.44557 -0.0317887 9.77101 0.293648Z"
+                fill="white"
+                fill-rule="evenodd"
+                id="Line 124 (Stroke)"
+              />
+            </svg>
+          </div>
+          <svg
+            class="text-text-dark"
+            fill="none"
+            height="2"
+            width="112"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <line
+              stroke="currentColor"
+              stroke-width="4"
+              x1="0"
+              x2="100%"
+              y1="0"
+              y2="0"
+            />
+          </svg>
+        </div>
+         
+      </div>
+      <div
+        class="flex flex-col space-y-4 "
+        data-testid=""
+      >
+        <div
+          class="flex flex-row space-x-2 items-center "
+        >
+          <div
+            class=" bg-fill-error text-text-on-fill label-small grid h-6 w-6 place-items-center rounded-full font-medium"
+          >
+            <svg
+              class="h-2 w-2"
+              fill="none"
+              height="10"
+              viewBox="0 0 9 10"
+              width="9"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M8.43326 2.13784C8.72759 1.8464 8.72993 1.37153 8.43849 1.07719C8.14704 0.782861 7.67217 0.780521 7.37784 1.07197L4.49635 3.9252L1.66 1.08315C1.3674 0.789965 0.892525 0.789488 0.599338 1.08209C0.306151 1.37469 0.305674 1.84956 0.598274 2.14275L3.43046 4.98063L0.566772 7.81623C0.272439 8.10767 0.270099 8.58254 0.561545 8.87688C0.852992 9.17121 1.32786 9.17355 1.62219 8.8821L4.49007 6.04236L7.36683 8.9249C7.65943 9.21809 8.13431 9.21857 8.42749 8.92597C8.72068 8.63337 8.72116 8.15849 8.42856 7.86531L5.55595 4.98693L8.43326 2.13784Z"
+                fill="white"
+                fill-rule="evenodd"
+                id="Union"
+              />
+            </svg>
+          </div>
+          <svg
+            class="text-text-disabled"
+            fill="none"
+            height="2"
+            width="112"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <line
+              stroke="currentColor"
+              stroke-dasharray="4"
+              stroke-width="4"
+              x1="0"
+              x2="100%"
+              y1="0"
+              y2="0"
+            />
+          </svg>
+        </div>
+         
+      </div>
+      <div
+        class="flex flex-col space-y-4 "
+        data-testid=""
+      >
+        <div
+          class="flex flex-row space-x-2 items-center "
+        >
+          <div
+            class=" bg-text-disabled text-text-on-fill label-small grid h-6 w-6 place-items-center rounded-full font-medium"
+          >
+             
+            3
+          </div>
+           
+        </div>
+         
+      </div>
+    </div>
+  </div>
+</body>
+`;
+
+exports[`finished state 1`] = `
+<body>
+  <div>
+    <div
+      class="  flex flex-row space-x-2 pl-16  "
+    >
+      <div
+        class="flex flex-col space-y-4 "
+        data-testid=""
+      >
+        <div
+          class="flex flex-row space-x-2 items-center "
+        >
+          <div
+            class=" bg-text-dark text-text-on-fill label-small grid h-6 w-6 place-items-center rounded-full font-medium"
+          >
+            <svg
+              class="h-2 w-2"
+              fill="none"
+              height="8"
+              viewBox="0 0 11 8"
+              width="11"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M9.77101 0.293648C10.0964 0.619086 10.0964 1.14672 9.771 1.47216L4.03686 7.20629C3.71231 7.53085 3.18641 7.53185 2.86062 7.20854L0.296892 4.66439C-0.0297899 4.3402 -0.0318117 3.81257 0.292376 3.48589C0.616563 3.15921 1.1442 3.15719 1.47088 3.48137L3.44536 5.44078L8.59249 0.293647C8.91793 -0.0317891 9.44557 -0.0317887 9.77101 0.293648Z"
+                fill="white"
+                fill-rule="evenodd"
+                id="Line 124 (Stroke)"
+              />
+            </svg>
+          </div>
+          <svg
+            class="text-text-dark"
+            fill="none"
+            height="2"
+            width="112"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <line
+              stroke="currentColor"
+              stroke-width="4"
+              x1="0"
+              x2="100%"
+              y1="0"
+              y2="0"
+            />
+          </svg>
+        </div>
+         
+      </div>
+      <div
+        class="flex flex-col space-y-4 "
+        data-testid=""
+      >
+        <div
+          class="flex flex-row space-x-2 items-center "
+        >
+          <div
+            class=" bg-text-dark text-text-on-fill label-small grid h-6 w-6 place-items-center rounded-full font-medium"
+          >
+            <svg
+              class="h-2 w-2"
+              fill="none"
+              height="8"
+              viewBox="0 0 11 8"
+              width="11"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M9.77101 0.293648C10.0964 0.619086 10.0964 1.14672 9.771 1.47216L4.03686 7.20629C3.71231 7.53085 3.18641 7.53185 2.86062 7.20854L0.296892 4.66439C-0.0297899 4.3402 -0.0318117 3.81257 0.292376 3.48589C0.616563 3.15921 1.1442 3.15719 1.47088 3.48137L3.44536 5.44078L8.59249 0.293647C8.91793 -0.0317891 9.44557 -0.0317887 9.77101 0.293648Z"
+                fill="white"
+                fill-rule="evenodd"
+                id="Line 124 (Stroke)"
+              />
+            </svg>
+          </div>
+          <svg
+            class="text-text-dark"
+            fill="none"
+            height="2"
+            width="112"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <line
+              stroke="currentColor"
+              stroke-width="4"
+              x1="0"
+              x2="100%"
+              y1="0"
+              y2="0"
+            />
+          </svg>
+        </div>
+         
+      </div>
+      <div
+        class="flex flex-col space-y-4 "
+        data-testid=""
+      >
+        <div
+          class="flex flex-row space-x-2 items-center "
+        >
+          <div
+            class=" bg-text-dark text-text-on-fill label-small grid h-6 w-6 place-items-center rounded-full font-medium"
+          >
+            <svg
+              class="h-2 w-2"
+              fill="none"
+              height="8"
+              viewBox="0 0 11 8"
+              width="11"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M9.77101 0.293648C10.0964 0.619086 10.0964 1.14672 9.771 1.47216L4.03686 7.20629C3.71231 7.53085 3.18641 7.53185 2.86062 7.20854L0.296892 4.66439C-0.0297899 4.3402 -0.0318117 3.81257 0.292376 3.48589C0.616563 3.15921 1.1442 3.15719 1.47088 3.48137L3.44536 5.44078L8.59249 0.293647C8.91793 -0.0317891 9.44557 -0.0317887 9.77101 0.293648Z"
+                fill="white"
+                fill-rule="evenodd"
+                id="Line 124 (Stroke)"
+              />
+            </svg>
+          </div>
+           
+        </div>
+         
+      </div>
+    </div>
+  </div>
+</body>
+`;
+
+exports[`initial state 1`] = `
+<body>
+  <div>
+    <div
+      class="  flex flex-row space-x-2 pl-16  "
+    >
+      <div
+        class="flex flex-col space-y-4 "
+        data-testid=""
+      >
+        <div
+          class="flex flex-row space-x-2 items-center "
+        >
+          <div
+            class=" bg-text-dark text-text-on-fill label-small grid h-6 w-6 place-items-center rounded-full font-medium"
+          >
+             
+            1
+          </div>
+          <svg
+            class="text-text-dark"
+            fill="none"
+            height="2"
+            width="112"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <line
+              stroke="currentColor"
+              stroke-dasharray="4"
+              stroke-width="4"
+              x1="0"
+              x2="100%"
+              y1="0"
+              y2="0"
+            />
+          </svg>
+        </div>
+         
+      </div>
+      <div
+        class="flex flex-col space-y-4 "
+        data-testid=""
+      >
+        <div
+          class="flex flex-row space-x-2 items-center "
+        >
+          <div
+            class=" bg-text-disabled text-text-on-fill label-small grid h-6 w-6 place-items-center rounded-full font-medium"
+          >
+             
+            2
+          </div>
+          <svg
+            class="text-text-disabled"
+            fill="none"
+            height="2"
+            width="112"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <line
+              stroke="currentColor"
+              stroke-dasharray="4"
+              stroke-width="4"
+              x1="0"
+              x2="100%"
+              y1="0"
+              y2="0"
+            />
+          </svg>
+        </div>
+         
+      </div>
+      <div
+        class="flex flex-col space-y-4 "
+        data-testid=""
+      >
+        <div
+          class="flex flex-row space-x-2 items-center "
+        >
+          <div
+            class=" bg-text-disabled text-text-on-fill label-small grid h-6 w-6 place-items-center rounded-full font-medium"
+          >
+             
+            3
+          </div>
+           
+        </div>
+         
+      </div>
+    </div>
+  </div>
+</body>
+`;
+
+exports[`labelled steps 1`] = `
+<body>
+  <div>
+    <div
+      class="  flex flex-row space-x-2 pl-16  "
+    >
+      <div
+        class="flex flex-col space-y-4 "
+        data-testid=""
+      >
+        <div
+          class="flex flex-row space-x-2 items-center "
+        >
+          <div
+            class=" bg-text-dark text-text-on-fill label-small grid h-6 w-6 place-items-center rounded-full font-medium"
+          >
+            <svg
+              class="h-2 w-2"
+              fill="none"
+              height="8"
+              viewBox="0 0 11 8"
+              width="11"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M9.77101 0.293648C10.0964 0.619086 10.0964 1.14672 9.771 1.47216L4.03686 7.20629C3.71231 7.53085 3.18641 7.53185 2.86062 7.20854L0.296892 4.66439C-0.0297899 4.3402 -0.0318117 3.81257 0.292376 3.48589C0.616563 3.15921 1.1442 3.15719 1.47088 3.48137L3.44536 5.44078L8.59249 0.293647C8.91793 -0.0317891 9.44557 -0.0317887 9.77101 0.293648Z"
+                fill="white"
+                fill-rule="evenodd"
+                id="Line 124 (Stroke)"
+              />
+            </svg>
+          </div>
+          <svg
+            class="text-text-dark"
+            fill="none"
+            height="2"
+            width="112"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <line
+              stroke="currentColor"
+              stroke-width="4"
+              x1="0"
+              x2="100%"
+              y1="0"
+              y2="0"
+            />
+          </svg>
+        </div>
+        <div
+          class="  flex flex-col max-w-32 translate-x-[calc(-1*50%+0.75rem)] items-center"
+        >
+          <span
+            class="label-medium font-semibold text-text-dark text-center"
+          >
+            Step 1
+          </span>
+          <span
+            class="label-small font-normal text-text-text text-center"
+          >
+            sub 1
+          </span>
+        </div>
+      </div>
+      <div
+        class="flex flex-col space-y-4 "
+        data-testid=""
+      >
+        <div
+          class="flex flex-row space-x-2 items-center "
+        >
+          <div
+            class=" bg-text-dark text-text-on-fill label-small grid h-6 w-6 place-items-center rounded-full font-medium"
+          >
+            <svg
+              class="h-2 w-2"
+              fill="none"
+              height="8"
+              viewBox="0 0 11 8"
+              width="11"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M9.77101 0.293648C10.0964 0.619086 10.0964 1.14672 9.771 1.47216L4.03686 7.20629C3.71231 7.53085 3.18641 7.53185 2.86062 7.20854L0.296892 4.66439C-0.0297899 4.3402 -0.0318117 3.81257 0.292376 3.48589C0.616563 3.15921 1.1442 3.15719 1.47088 3.48137L3.44536 5.44078L8.59249 0.293647C8.91793 -0.0317891 9.44557 -0.0317887 9.77101 0.293648Z"
+                fill="white"
+                fill-rule="evenodd"
+                id="Line 124 (Stroke)"
+              />
+            </svg>
+          </div>
+          <svg
+            class="text-text-dark"
+            fill="none"
+            height="2"
+            width="112"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <line
+              stroke="currentColor"
+              stroke-width="4"
+              x1="0"
+              x2="100%"
+              y1="0"
+              y2="0"
+            />
+          </svg>
+        </div>
+        <div
+          class="  flex flex-col max-w-32 translate-x-[calc(-1*50%+0.75rem)] items-center"
+        >
+          <span
+            class="label-medium font-semibold text-text-dark text-center"
+          >
+            Step 2
+          </span>
+          <span
+            class="label-small font-normal text-text-text text-center"
+          >
+            sub 2
+          </span>
+        </div>
+      </div>
+      <div
+        class="flex flex-col space-y-4 "
+        data-testid=""
+      >
+        <div
+          class="flex flex-row space-x-2 items-center "
+        >
+          <div
+            class=" bg-text-dark text-text-on-fill label-small grid h-6 w-6 place-items-center rounded-full font-medium"
+          >
+            <svg
+              class="h-2 w-2"
+              fill="none"
+              height="8"
+              viewBox="0 0 11 8"
+              width="11"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M9.77101 0.293648C10.0964 0.619086 10.0964 1.14672 9.771 1.47216L4.03686 7.20629C3.71231 7.53085 3.18641 7.53185 2.86062 7.20854L0.296892 4.66439C-0.0297899 4.3402 -0.0318117 3.81257 0.292376 3.48589C0.616563 3.15921 1.1442 3.15719 1.47088 3.48137L3.44536 5.44078L8.59249 0.293647C8.91793 -0.0317891 9.44557 -0.0317887 9.77101 0.293648Z"
+                fill="white"
+                fill-rule="evenodd"
+                id="Line 124 (Stroke)"
+              />
+            </svg>
+          </div>
+           
+        </div>
+        <div
+          class="  flex flex-col max-w-32 translate-x-[calc(-1*50%+0.75rem)] items-center"
+        >
+          <span
+            class="label-medium font-semibold text-text-dark text-center"
+          >
+            Step 3
+          </span>
+          <span
+            class="label-small font-normal text-text-text text-center"
+          >
+            sub 3
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+`;

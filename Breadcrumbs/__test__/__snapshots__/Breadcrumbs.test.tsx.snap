@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`BreadCrumbs Snapshot Test 1`] = `
+<body>
+  <div>
+    <div
+      class=" text-text-text label-small flex items-center py-0.5 font-medium [&>*]:mr-2 last:[&>*]:mr-0"
+    >
+      <button
+        class="hover:text-text-action-hover duration-200"
+        type="button"
+      >
+        <svg
+          fill="none"
+          height="20"
+          viewBox="0 0 20 20"
+          width="20"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            clip-rule="evenodd"
+            d="M9.69809 2.94557C9.77109 2.89021 9.8717 2.88903 9.94597 2.94268L16.6562 7.78951C16.9273 7.98535 17.0879 8.29947 17.0879 8.63393V15.2218C17.0879 16.2573 16.2485 17.0968 15.2129 17.0968H4.78708C3.75155 17.0968 2.91208 16.2573 2.91208 15.2218V8.60955C2.91208 8.28365 3.06461 7.97653 3.32428 7.77959L9.69809 2.94557ZM10.6779 1.92937C10.158 1.55384 9.45374 1.56205 8.94274 1.94961L2.56893 6.78363C1.99765 7.21689 1.66208 7.89256 1.66208 8.60955V15.2218C1.66208 16.9477 3.06119 18.3468 4.78708 18.3468H15.2129C16.9388 18.3468 18.3379 16.9477 18.3379 15.2218V8.63393C18.3379 7.89811 17.9846 7.20705 17.3881 6.7762L10.6779 1.92937ZM6.54705 13.688C6.20187 13.688 5.92205 13.9678 5.92205 14.313C5.92205 14.6582 6.20187 14.938 6.54705 14.938H13.5556C13.9008 14.938 14.1806 14.6582 14.1806 14.313C14.1806 13.9678 13.9008 13.688 13.5556 13.688H6.54705Z"
+            fill="currentColor"
+            fill-rule="evenodd"
+          />
+        </svg>
+      </button>
+      <span
+        class="text-text-lighter label-small font-medium"
+      >
+        /
+      </span>
+      <a
+        class="hover:bg-fill-hover-light hover:text-text-action-hover rounded px-2 duration-200"
+        href="/settings"
+      >
+        Settings
+      </a>
+      <span
+        class="text-text-lighter label-small font-medium"
+      >
+        /
+      </span>
+      <button
+        class=" hover:bg-fill-hover-light hover:text-text-action-hover"
+        type="button"
+      >
+        ...
+      </button>
+      <span
+        class="text-text-lighter label-small font-medium"
+      >
+        /
+      </span>
+      <a
+        class="bg-fill-action-light text-text-action label-small rounded px-2 font-semibold"
+        href="/2FA"
+      >
+        2FA
+      </a>
+    </div>
+  </div>
+</body>
+`;

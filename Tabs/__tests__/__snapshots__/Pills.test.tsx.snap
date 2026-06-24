@@ -1,0 +1,75 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Pills onChange 1`] = `
+<body>
+  <div>
+    <div
+      class="scroll-hidden relative flex w-full max-w-fit overflow-auto scroll-smooth  border-border-disabled bg-fill-fill-dark z-10 flex h-12 items-center space-x-2 rounded-xl border px-[0.188rem]"
+    >
+      <div
+        class=" text-text-light hover:bg-fill-hover focus:bg-fill-hover label-medium  flex h-10 items-center text-nowrap rounded-lg px-6  font-semibold !outline-none "
+        role="button"
+        tabindex="0"
+      >
+        Tab 1
+      </div>
+      <div
+        class=" text-text-dark  label-medium  flex h-10 items-center text-nowrap rounded-lg px-6  font-semibold !outline-none "
+        role="button"
+        tabindex="0"
+      >
+        Tab 2
+      </div>
+      <div
+        class=" text-text-light hover:bg-fill-hover focus:bg-fill-hover label-medium  flex h-10 items-center text-nowrap rounded-lg px-6  font-semibold !outline-none "
+        role="button"
+        tabindex="0"
+      >
+        Tab 3
+      </div>
+      <div
+        class=" bg-fill-fill absolute -z-10 !m-0 h-10 rounded-lg shadow-[0px_1px_3px_0px_rgba(0,0,0,0.1)_,_0px_1px_2px_0px_rgba(0,0,0,0.06)] transition-[width_left]"
+        style="width: 0px; left: 0px;"
+      />
+       
+    </div>
+  </div>
+</body>
+`;
+
+exports[`Pills snapshot 1`] = `
+<body>
+  <div>
+    <div
+      class="scroll-hidden relative flex w-full max-w-fit overflow-auto scroll-smooth  border-border-disabled bg-fill-fill-dark z-10 flex h-12 items-center space-x-2 rounded-xl border px-[0.188rem]"
+    >
+      <div
+        class=" text-text-dark  label-medium  flex h-10 items-center text-nowrap rounded-lg px-6  font-semibold !outline-none "
+        role="button"
+        tabindex="0"
+      >
+        Tab 1
+      </div>
+      <div
+        class=" text-text-light hover:bg-fill-hover focus:bg-fill-hover label-medium  flex h-10 items-center text-nowrap rounded-lg px-6  font-semibold !outline-none "
+        role="button"
+        tabindex="0"
+      >
+        Tab 2
+      </div>
+      <div
+        class=" text-text-light hover:bg-fill-hover focus:bg-fill-hover label-medium  flex h-10 items-center text-nowrap rounded-lg px-6  font-semibold !outline-none "
+        role="button"
+        tabindex="0"
+      >
+        Tab 3
+      </div>
+      <div
+        class=" bg-fill-fill absolute -z-10 !m-0 h-10 rounded-lg shadow-[0px_1px_3px_0px_rgba(0,0,0,0.1)_,_0px_1px_2px_0px_rgba(0,0,0,0.06)] transition-[width_left]"
+        style="width: 0px; left: 0px;"
+      />
+       
+    </div>
+  </div>
+</body>
+`;

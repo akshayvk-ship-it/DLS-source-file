@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`open state snapshot 1`] = `
+<body>
+  <div>
+    <div
+      class="relative w-full flex-col items-start gap-2  undefined"
+      data-testid="dropdown-mweb-test-id"
+    >
+      <div
+        class="mb-2 flex w-full flex-col"
+      >
+        <div
+          class="flex items-center gap-1"
+        >
+          <span
+            class="label-small text-text-dark font-medium undefined"
+          >
+            Label
+          </span>
+        </div>
+      </div>
+      <button
+        class="bg-fill-fill label-medium text-text-text border-border-border relative flex w-full items-center justify-between rounded-lg border border-solid px-4
+            
+            
+            h-12 py-3
+            "
+        type="button"
+      >
+        <p
+          class="label-medium text-text-text  font-normal"
+        >
+          4 items selected
+        </p>
+        <svg
+          class="cursor-pointer"
+          data-testid="dropdown-mweb-test-id-chevron-icon"
+          height="24"
+          viewBox="0 0 24 24"
+          width="24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            clip-rule="evenodd"
+            d="M12.5303 15.5303C12.2374 15.8232 11.7626 15.8232 11.4697 15.5303L5.46967 9.53033C5.17678 9.23744 5.17678 8.76256 5.46967 8.46967C5.76256 8.17678 6.23744 8.17678 6.53033 8.46967L12 13.9393L17.4697 8.46967C17.7626 8.17678 18.2374 8.17678 18.5303 8.46967C18.8232 8.76256 18.8232 9.23744 18.5303 9.53033L12.5303 15.5303Z"
+            fill="currentColor"
+            fill-rule="evenodd"
+          />
+        </svg>
+      </button>
+    </div>
+  </div>
+</body>
+`;

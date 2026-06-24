@@ -1,0 +1,53 @@
+.loading {
+  animation-delay: 1s;
+  animation: loading var(--animation-duration) linear;
+}
+
+@keyframes loading {
+  0% {
+    width: 0%;
+  }
+
+  100% {
+    width: 100%;
+  }
+}
+
+.dot {
+  animation-name: dot-translation, dot-width;
+  box-shadow: 0px 0px 4px 0px #ff6721;
+  animation-delay: 1ms;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: ease-in-out;
+}
+
+@keyframes dot-translation {
+  from {
+    left: 0px;
+  }
+
+  to {
+    left: calc(100% - 8px);
+  }
+}
+
+@keyframes dot-width {
+  0% {
+    width: 8px;
+    border-radius: 50%;
+    opacity: 30%;
+  }
+
+  50% {
+    width: 16px;
+    border-radius: 8px;
+    opacity: 50%;
+  }
+  100% {
+    width: 8px;
+    border-radius: 50%;
+    opacity: 14%;
+  }
+}

@@ -1,0 +1,21 @@
+@keyframes expandWidthRightToLeft {
+  0% {
+    transform: scaleX(0);
+  }
+  100% {
+    transform: scaleX(1);
+  }
+}
+
+.skeleton-bar-expand {
+  transform: scaleX(0);
+  transform-origin: right;
+  animation: expandWidthRightToLeft 1s ease forwards;
+}
+
+.vertical-funnel-animation {
+  animation: expandWidthRightToLeft 1s ease forwards;
+  transform-origin: center;
+  transform: scaleX(0);
+  animation-delay: 1.3s;
+}

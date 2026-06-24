@@ -1,0 +1,575 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`TreeMapChart renders correctly with default props 1`] = `
+<div
+  class=" relative"
+  data-testid="tree-map-chart"
+>
+  <svg
+    height="1184"
+    width="293"
+  >
+    <g>
+      <rect
+        fill="rgba(241, 87, 1, 0.4)"
+        height="408"
+        stroke="#fff"
+        width="165"
+        x="1"
+        y="1"
+      />
+      <text
+        class="label-large font-semibold"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.8)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="83.5"
+        y="193"
+      >
+        Item A
+      </text>
+      <text
+        class="label-large font-semibold"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.8)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="83.5"
+        y="217"
+      >
+        19.80
+        %
+      </text>
+    </g>
+    <g>
+      <rect
+        fill="rgba(241, 87, 1, 0.26)"
+        height="408"
+        stroke="#fff"
+        width="124"
+        x="168"
+        y="1"
+      />
+      <text
+        class="label-medium font-medium"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.72)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="230"
+        y="195"
+      >
+        Item B
+      </text>
+      <text
+        class="label-medium font-medium"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.72)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="230"
+        y="215"
+      >
+        14.85
+        %
+      </text>
+    </g>
+    <g>
+      <rect
+        fill="rgba(241, 87, 1, 0.26)"
+        height="291"
+        stroke="#fff"
+        width="174"
+        x="1"
+        y="411"
+      />
+      <text
+        class="label-medium font-medium"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.72)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="88"
+        y="546.5"
+      >
+        Item C
+      </text>
+      <text
+        class="label-medium font-medium"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.72)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="88"
+        y="566.5"
+      >
+        14.85
+        %
+      </text>
+    </g>
+    <g>
+      <rect
+        fill="rgba(241, 87, 1, 0.18)"
+        height="291"
+        stroke="#fff"
+        width="115"
+        x="177"
+        y="411"
+      />
+      <text
+        class="label-small font-medium"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.64)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="234.5"
+        y="546.5"
+      >
+        Item D
+      </text>
+      <text
+        class="label-small font-medium"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.64)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="234.5"
+        y="566.5"
+      >
+        9.90
+        %
+      </text>
+    </g>
+    <g>
+      <rect
+        fill="rgba(241, 87, 1, 0.18)"
+        height="209"
+        stroke="#fff"
+        width="161"
+        x="1"
+        y="704"
+      />
+      <text
+        class="label-small font-medium"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.64)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="81.5"
+        y="798.5"
+      >
+        Item E
+      </text>
+      <text
+        class="label-small font-medium"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.64)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="81.5"
+        y="818.5"
+      >
+        9.90
+        %
+      </text>
+    </g>
+    <g>
+      <rect
+        fill="rgba(241, 87, 1, 0.1)"
+        height="209"
+        stroke="#fff"
+        width="128"
+        x="164"
+        y="704"
+      />
+      <text
+        class="label-extra-small font-medium"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.64)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="228"
+        y="802.5"
+      >
+        Item F
+      </text>
+      <text
+        class="label-extra-small font-medium"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.64)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="228"
+        y="814.5"
+      >
+        7.92
+        %
+      </text>
+    </g>
+    <g>
+      <rect
+        fill="rgba(241, 87, 1, 0.1)"
+        height="144"
+        stroke="#fff"
+        width="164"
+        x="1"
+        y="915"
+      />
+      <text
+        class="label-extra-small font-medium"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.64)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="83"
+        y="981"
+      >
+        Item G
+      </text>
+      <text
+        class="label-extra-small font-medium"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.64)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="83"
+        y="993"
+      >
+        6.93
+        %
+      </text>
+    </g>
+    <g>
+      <rect
+        fill="rgba(241, 87, 1, 0.1)"
+        height="60"
+        stroke="#fff"
+        width="164"
+        x="1"
+        y="1061"
+      />
+      <text
+        class="label-extra-small font-medium"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.64)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="83"
+        y="1085"
+      >
+        Item H
+      </text>
+      <text
+        class="label-extra-small font-medium"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.64)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="83"
+        y="1097"
+      >
+        2.97
+        %
+      </text>
+    </g>
+    <g>
+      <rect
+        fill="rgba(241, 87, 1, 0.1)"
+        height="60"
+        stroke="#fff"
+        width="164"
+        x="1"
+        y="1123"
+      />
+      <text
+        class="label-extra-small font-medium"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.64)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="83"
+        y="1147"
+      >
+        Item I
+      </text>
+      <text
+        class="label-extra-small font-medium"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.64)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="83"
+        y="1159"
+      >
+        2.97
+        %
+      </text>
+    </g>
+    <g>
+      <rect
+        fill="rgba(241, 87, 1, 0.1)"
+        height="106"
+        stroke="#fff"
+        width="93"
+        x="167"
+        y="915"
+      />
+      <text
+        class="label-extra-small font-medium"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.64)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="213.5"
+        y="962"
+      >
+        Item J
+      </text>
+      <text
+        class="label-extra-small font-medium"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.64)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="213.5"
+        y="974"
+      >
+        2.97
+        %
+      </text>
+    </g>
+    <g>
+      <rect
+        fill="rgba(241, 87, 1, 0.1)"
+        height="106"
+        stroke="#fff"
+        width="30"
+        x="262"
+        y="915"
+      />
+      <text
+        class="label-extra-small font-medium"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.64)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="277"
+        y="962"
+      >
+        Item K
+      </text>
+      <text
+        class="label-extra-small font-medium"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.64)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="277"
+        y="974"
+      >
+        0.99
+        %
+      </text>
+    </g>
+    <g>
+      <rect
+        fill="rgba(241, 87, 1, 0.1)"
+        height="79"
+        stroke="#fff"
+        width="40"
+        x="167"
+        y="1023"
+      />
+      <text
+        class="label-extra-small font-medium"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.64)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="187"
+        y="1056.5"
+      >
+        Item L
+      </text>
+      <text
+        class="label-extra-small font-medium"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.64)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="187"
+        y="1068.5"
+      >
+        0.99
+        %
+      </text>
+    </g>
+    <g>
+      <rect
+        fill="rgba(241, 87, 1, 0.1)"
+        height="79"
+        stroke="#fff"
+        width="41"
+        x="209"
+        y="1023"
+      />
+      <text
+        class="label-extra-small font-medium"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.64)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="229.5"
+        y="1056.5"
+      >
+        Item M
+      </text>
+      <text
+        class="label-extra-small font-medium"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.64)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="229.5"
+        y="1068.5"
+      >
+        0.99
+        %
+      </text>
+    </g>
+    <g>
+      <rect
+        fill="rgba(241, 87, 1, 0.1)"
+        height="79"
+        stroke="#fff"
+        width="40"
+        x="252"
+        y="1023"
+      />
+      <text
+        class="label-extra-small font-medium"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.64)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="272"
+        y="1056.5"
+      >
+        Item N
+      </text>
+      <text
+        class="label-extra-small font-medium"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.64)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="272"
+        y="1068.5"
+      >
+        0.99
+        %
+      </text>
+    </g>
+    <g>
+      <rect
+        fill="rgba(241, 87, 1, 0.1)"
+        height="39"
+        stroke="#fff"
+        width="83"
+        x="167"
+        y="1104"
+      />
+      <text
+        class="label-extra-small font-medium"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.64)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="208.5"
+        y="1117.5"
+      >
+        Item O
+      </text>
+      <text
+        class="label-extra-small font-medium"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.64)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="208.5"
+        y="1129.5"
+      >
+        0.99
+        %
+      </text>
+    </g>
+    <g>
+      <rect
+        fill="rgba(241, 87, 1, 0.1)"
+        height="38"
+        stroke="#fff"
+        width="83"
+        x="167"
+        y="1145"
+      />
+      <text
+        class="label-extra-small font-medium"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.64)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="208.5"
+        y="1158"
+      >
+        Item P
+      </text>
+      <text
+        class="label-extra-small font-medium"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.64)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="208.5"
+        y="1170"
+      >
+        0.99
+        %
+      </text>
+    </g>
+    <g>
+      <rect
+        fill="rgba(241, 87, 1, 0.1)"
+        height="79"
+        stroke="#fff"
+        width="40"
+        x="252"
+        y="1104"
+      />
+      <text
+        class="label-extra-small font-medium"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.64)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="272"
+        y="1137.5"
+      >
+        Item Q
+      </text>
+      <text
+        class="label-extra-small font-medium"
+        dominant-baseline="middle"
+        fill="rgba(116, 42, 0, 0.64)"
+        pointer-events="none"
+        text-anchor="middle"
+        x="272"
+        y="1149.5"
+      >
+        0.99
+        %
+      </text>
+    </g>
+  </svg>
+</div>
+`;

@@ -1,0 +1,133 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`snapshot 1`] = `
+<body>
+  <div>
+    <div
+      class="  border-border-border bg-fill-fill relative z-0 flex h-[14.375rem] w-[25.375rem] flex-col items-start justify-between overflow-hidden rounded-2xl border-[0.0625rem] px-4"
+    >
+      <div
+        class="flex w-full items-start justify-between py-4"
+      >
+        <button
+          class=" !shadow-border-brand-focus-ring text-fill-action active:text-text-on-fill-action-pressed disabled:text-text-disabled label-medium  flex-row-reverse space-x-reverse  flex items-center justify-center  rounded-lg font-semibold  !outline-none focus-visible:shadow-[0px_0px_0px_4px] disabled:cursor-not-allowed "
+          data-testid="defaultButtonTestId"
+          type="button"
+        >
+          <div
+            class="max-h-[1.25rem] max-w-[1.25rem] "
+          >
+            <svg
+              fill="none"
+              height="20"
+              viewBox="0 0 20 20"
+              width="20"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <g
+                clip-path="url(#clip0_3956_2962)"
+              >
+                <path
+                  clip-rule="evenodd"
+                  d="M10.4675 1.80238L10.6216 2.16049C11.371 3.9021 13.3708 4.73036 15.1322 4.02856L15.4957 3.8837C15.9044 3.72088 16.3089 4.12702 16.1446 4.53502L16.0144 4.85819C15.302 6.62663 16.136 8.63996 17.8903 9.38653L18.2123 9.52354C18.6179 9.69616 18.6179 10.2711 18.2123 10.4437L17.8903 10.5807C16.136 11.3273 15.302 13.3406 16.0144 15.109L16.1446 15.4322C16.3089 15.8402 15.9044 16.2463 15.4957 16.0835L15.1322 15.9387C13.3708 15.2369 11.371 16.0651 10.6216 17.8067L10.4675 18.1648C10.294 18.568 9.72242 18.568 9.54894 18.1648L9.39486 17.8067C8.6455 16.0651 6.64562 15.2369 4.8843 15.9387L4.52074 16.0835C4.11211 16.2463 3.70752 15.8402 3.87188 15.4322L4.00207 15.109C4.71449 13.3406 3.88044 11.3273 2.12615 10.5807L1.80421 10.4437C1.3986 10.2711 1.3986 9.69616 1.80421 9.52354L2.12615 9.38653C3.88044 8.63995 4.71449 6.62663 4.00207 4.85819L3.87188 4.53502C3.70752 4.12702 4.11211 3.72088 4.52074 3.8837L4.8843 4.02856C6.64562 4.73036 8.6455 3.9021 9.39486 2.16049L9.54894 1.80238C9.72242 1.39921 10.294 1.39921 10.4675 1.80238ZM8.17107 1.20953C8.86497 -0.403176 11.1515 -0.403177 11.8454 1.20953L11.9995 1.56763C12.4277 2.56284 13.5705 3.03613 14.5769 2.6351L14.9405 2.49024C16.575 1.83898 18.1934 3.46351 17.5359 5.09552L17.4057 5.4187C16.9986 6.42923 17.4752 7.5797 18.4777 8.00632L18.7996 8.14333C20.4221 8.83379 20.4221 11.1334 18.7996 11.8239L18.4777 11.9609C17.4752 12.3875 16.9986 13.538 17.4057 14.5485L17.5359 14.8717C18.1934 16.5037 16.575 18.1283 14.9405 17.477L14.5769 17.3321C13.5705 16.9311 12.4277 17.4044 11.9995 18.3996L11.8454 18.7577C11.1515 20.3704 8.86497 20.3704 8.17107 18.7577L8.01699 18.3996C7.58879 17.4044 6.446 16.9311 5.43953 17.3321L5.07597 17.477C3.44148 18.1282 1.82308 16.5037 2.48054 14.8717L2.61073 14.5485C3.01783 13.538 2.54123 12.3875 1.53878 11.9609L1.21683 11.8239C-0.40561 11.1334 -0.40561 8.83379 1.21683 8.14333L1.53878 8.00632C2.54123 7.5797 3.01783 6.42923 2.61073 5.41869L2.48054 5.09552C1.82308 3.46351 3.44148 1.83897 5.07597 2.49024L5.43953 2.6351C6.446 3.03613 7.58879 2.56284 8.01699 1.56763L8.17107 1.20953ZM11.8844 9.98364C11.8844 11.0381 11.0366 11.8786 10.0082 11.8786C8.97984 11.8786 8.132 11.0381 8.132 9.98364C8.132 8.92922 8.97984 8.08865 10.0082 8.08865C11.0366 8.08865 11.8844 8.92922 11.8844 9.98364ZM13.3844 9.98364C13.3844 11.8586 11.8729 13.3786 10.0082 13.3786C8.14359 13.3786 6.632 11.8586 6.632 9.98364C6.632 8.10864 8.14359 6.58865 10.0082 6.58865C11.8729 6.58865 13.3844 8.10864 13.3844 9.98364Z"
+                  fill="currentColor"
+                  fill-rule="evenodd"
+                />
+              </g>
+              <defs>
+                <clippath
+                  id="clip0_3956_2962"
+                >
+                  <rect
+                    fill="white"
+                    height="20"
+                    width="20"
+                  />
+                </clippath>
+              </defs>
+            </svg>
+          </div>
+        </button>
+        <button
+          class=" bg-fill-fill hover:bg-fill-hover-light !shadow-fill-hover active:bg-fill-hover-light disabled:bg-fill-disabled text-text-dark active:text-text-dark-pressed disabled:text-text-disabled border border-text-disabled disabled:border-border-disabled [&:not(:focus)]:shadow-[0px_1px_2px_0px] [&:not(:focus)]:!shadow-[rgba(27,32,41,0.05)] label-small h-8 px-4   flex items-center justify-center  rounded-lg font-semibold  !outline-none focus-visible:shadow-[0px_0px_0px_4px] disabled:cursor-not-allowed "
+          data-testid="defaultButtonTestId"
+          type="button"
+        >
+          <span
+            class="text-nowrap "
+          >
+            Add Funds
+          </span>
+        </button>
+      </div>
+      <div
+        class=" text-text-text flex flex-col"
+      >
+        <p
+          class="paragraph-extra-small font-normal"
+        >
+          Balance
+        </p>
+        <span
+          class=" heading-1-semibold"
+        >
+          ₹ 
+        </span>
+      </div>
+      <div
+        class="  paragraph-extra-small text-text-light flex items-center space-x-[0.375rem] "
+      >
+        <span>
+          Wallet id
+        </span>
+        <div
+          class="bg-fill-fill my-2 flex space-x-2 rounded-lg px-2 font-normal"
+        >
+          <span />
+          <div
+            class=" relative"
+            data-testid="tooltip-ui-library"
+          >
+            <div
+              class="cursor-pointer"
+            >
+              <svg
+                class="text-icon-icon h-[1.125rem] w-[1.125rem] cursor-pointer p-[0.1875rem]"
+                fill="none"
+                height="12"
+                viewBox="0 0 12 12"
+                width="12"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  clip-rule="evenodd"
+                  d="M4 2C4 0.89543 4.89543 0 6 0H10C11.1046 0 12 0.895431 12 2V6.66667C12 7.77124 11.1046 8.66667 10 8.66667H8V10C8 11.1046 7.10457 12 6 12H2C0.895431 12 0 11.1046 0 10V5.33333C0 4.22876 0.895431 3.33333 2 3.33333H4V2ZM6 1H10C10.5523 1 11 1.44772 11 2V6.66667C11 7.21895 10.5523 7.66667 10 7.66667H6C5.44772 7.66667 5 7.21895 5 6.66667V2C5 1.44772 5.44772 1 6 1ZM4 4.33333H2C1.44772 4.33333 1 4.78105 1 5.33333V10C1 10.5523 1.44772 11 2 11H6C6.55229 11 7 10.5523 7 10V8.66667H6C4.89543 8.66667 4 7.77124 4 6.66667V4.33333Z"
+                  fill="currentColor"
+                  fill-rule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+      <svg
+        class="text-surface-base absolute -right-28 -top-7 -z-10 h-72 w-60 rotate-[30deg]"
+        fill="none"
+        height="51"
+        viewBox="0 0 45 51"
+        width="45"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M22.5041 9.23557L16.6906 12.6228V18.9885L22.5041 15.6104L30.9134 20.505V30.2851L22.5041 35.1798L14.0948 30.2851V11.1335L21.2062 6.97442V0.599609L0.539062 12.6228V38.1765L21.2062 50.1996V43.8157L6.01906 34.9891V15.8102L8.61485 14.3027V33.4725L22.5041 41.5455L36.3934 33.4725V17.3176L22.5041 9.23557Z"
+          fill="currentColor"
+        />
+        <path
+          d="M23.8027 0.599609V6.97442L38.9899 15.8011V34.98L23.8027 43.8157V50.1996L44.4789 38.1674V12.6137L23.8027 0.599609Z"
+          fill="currentColor"
+        />
+      </svg>
+    </div>
+  </div>
+</body>
+`;

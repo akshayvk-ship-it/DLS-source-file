@@ -1,0 +1,88 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Accordion Snapshot test 1`] = `
+<body>
+  <div>
+    <div
+      class="border-border-border-light relative flex flex-col items-start justify-center border-b "
+      data-testid="defaultAccordionTestId"
+      role="button"
+      tabindex="0"
+    >
+      <div
+        class="mb-[0.938rem] flex w-full flex-row items-center justify-center"
+      >
+        <div
+          class="text-text-dark label-medium h-5  flex  w-full flex-row items-center justify-between font-medium  "
+        >
+          Accordion header
+          <span
+            class="ml-2"
+          >
+            <svg
+              fill="none"
+              height="16"
+              viewBox="0 0 16 16"
+              width="16"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M8.53033 11.5303C8.23744 11.8232 7.76256 11.8232 7.46967 11.5303L1.46967 5.53033C1.17678 5.23744 1.17678 4.76256 1.46967 4.46967C1.76256 4.17678 2.23744 4.17678 2.53033 4.46967L8 9.93934L13.4697 4.46967C13.7626 4.17678 14.2374 4.17678 14.5303 4.46967C14.8232 4.76256 14.8232 5.23744 14.5303 5.53033L8.53033 11.5303Z"
+                fill="#3B475B"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+`;
+
+exports[`Accordion open 1`] = `
+<body>
+  <div>
+    <div
+      class="border-border-border-light relative flex flex-col items-start justify-center border-b "
+      data-testid="defaultAccordionTestId"
+      role="button"
+      tabindex="0"
+    >
+      <div
+        class="mb-4 flex w-full flex-row items-center justify-center"
+      >
+        <div
+          class="text-text-dark label-medium h-5  flex  w-full flex-row items-center justify-between font-medium  "
+        >
+          Click Here
+          <span
+            class="ml-2"
+          >
+            <svg
+              fill="none"
+              height="16"
+              viewBox="0 0 16 16"
+              width="16"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M7.46967 4.46967C7.76256 4.17678 8.23744 4.17678 8.53033 4.46967L14.5303 10.4697C14.8232 10.7626 14.8232 11.2374 14.5303 11.5303C14.2374 11.8232 13.7626 11.8232 13.4697 11.5303L8 6.06066L2.53033 11.5303C2.23744 11.8232 1.76256 11.8232 1.46967 11.5303C1.17678 11.2374 1.17678 10.7626 1.46967 10.4697L7.46967 4.46967Z"
+                fill="#3B475B"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+        </div>
+      </div>
+      <div
+        class="text-text-text label-small  mb-[0.938rem]  w-full   "
+      >
+        test
+      </div>
+    </div>
+  </div>
+</body>
+`;

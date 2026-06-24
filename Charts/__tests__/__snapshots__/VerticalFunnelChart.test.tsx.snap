@@ -1,0 +1,790 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`FunnelChart Snapshot Test renders FunnelChart correctly 1`] = `
+<div>
+  <div
+    class=""
+    data-testid="vertical-funnel-chart-test-id"
+  >
+    <svg
+      height="650"
+      width="650"
+    >
+      <g
+        class="visx-group"
+        transform="translate(0, 0)"
+      >
+        <path
+          d="
+                M 140,25
+                L 510,25
+                L 510,122.5
+                L 140,122.5
+                Z
+              "
+          fill="#F1570133"
+        />
+        <path
+          d="
+                M 151.29032258064515,122.5
+                L 510,122.5
+                Q 498.7096774193549,142 498.7096774193549,161.5
+                L 498.7096774193549,220
+                L 151.29032258064515,220
+                L 151.29032258064515,161.5
+                Q 151.29032258064515,142 140,122.5
+                Z
+            "
+          fill="#F157015C"
+        />
+        <path
+          d="
+                M 155.0537634408602,219.99999999999997
+                L 498.7096774193549,219.99999999999997
+                Q 494.94623655913983,239.5 494.94623655913983,259
+                L 494.94623655913983,317.5
+                L 155.0537634408602,317.5
+                L 155.0537634408602,259
+                Q 155.0537634408602,239.5 151.29032258064515,219.99999999999997
+                Z
+            "
+          fill="#F1570185"
+        />
+        <path
+          d="
+                M 155.0537634408602,317.5
+                L 494.94623655913983,317.5
+                Q 494.94623655913983,337 494.94623655913983,356.5
+                L 494.94623655913983,415
+                L 155.0537634408602,415
+                L 155.0537634408602,356.5
+                Q 155.0537634408602,337 155.0537634408602,317.5
+                Z
+            "
+          fill="#F15701AD"
+        />
+        <path
+          d="
+                M 158.8172043010753,414.99999999999994
+                L 494.94623655913983,414.99999999999994
+                Q 491.1827956989247,434.5 491.1827956989247,454
+                L 491.1827956989247,512.5
+                L 158.8172043010753,512.5
+                L 158.8172043010753,454
+                Q 158.8172043010753,434.5 155.0537634408602,414.99999999999994
+                Z
+            "
+          fill="#F15701D6"
+        />
+        <path
+          d="
+                M 164.46236559139783,512.5
+                L 491.1827956989247,512.5
+                Q 485.5376344086022,532 485.5376344086022,551.5
+                L 485.5376344086022,610
+                L 164.46236559139783,610
+                L 164.46236559139783,551.5
+                Q 164.46236559139783,532 158.8172043010753,512.5
+                Z
+            "
+          fill="#F15701FF"
+        />
+        <svg
+          style="overflow: visible;"
+          x="0"
+          y="0"
+        >
+          <text
+            class="label-small fill-text-light"
+            dominant-baseline="central"
+            fill="#848B98"
+            text-anchor="middle"
+            transform=""
+            x="600"
+            y="53.75"
+          >
+            <tspan
+              dy="0em"
+              x="600"
+            >
+              93,000
+            </tspan>
+          </text>
+        </svg>
+        <svg
+          style="overflow: visible;"
+          x="0"
+          y="0"
+        >
+          <text
+            class="heading-3 fill-text-text font-semibold"
+            dominant-baseline="central"
+            fill="#3B475B"
+            text-anchor="middle"
+            transform=""
+            x="600"
+            y="73.75"
+          >
+            <tspan
+              dy="0em"
+              x="600"
+            >
+              100%
+            </tspan>
+          </text>
+        </svg>
+        <g
+          class="visx-group"
+          transform="translate(0, 93.75)"
+        >
+          <g
+            class="visx-group"
+            transform="translate(561, 0)"
+          />
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="label-small fill-text-text"
+              dominant-baseline="central"
+              fill="#3B475B"
+              text-anchor="middle"
+              transform=""
+              x="600"
+              y="0"
+            >
+              <tspan
+                dy="0em"
+                x="600"
+              >
+                Label5
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <svg
+          style="overflow: visible;"
+          x="0"
+          y="0"
+        >
+          <text
+            class="label-small fill-text-light"
+            dominant-baseline="central"
+            fill="#848B98"
+            text-anchor="middle"
+            transform=""
+            x="600"
+            y="141.25"
+          >
+            <tspan
+              dy="0em"
+              x="600"
+            >
+              87,000
+            </tspan>
+          </text>
+        </svg>
+        <svg
+          style="overflow: visible;"
+          x="0"
+          y="0"
+        >
+          <text
+            class="heading-3 fill-text-text font-semibold"
+            dominant-baseline="central"
+            fill="#3B475B"
+            text-anchor="middle"
+            transform=""
+            x="600"
+            y="161.25"
+          >
+            <tspan
+              dy="0em"
+              x="600"
+            >
+              94%
+            </tspan>
+          </text>
+        </svg>
+        <g
+          class="visx-group"
+          transform="translate(0, 181.25)"
+        >
+          <g
+            class="visx-group"
+            transform="translate(561, 0)"
+          >
+            <svg
+              fill="none"
+              height="14"
+              viewBox="0 0 14 14"
+              width="14"
+              xmlns="http://www.w3.org/2000/svg"
+              y="-5"
+            >
+              <rect
+                class="fill-icon-error"
+                fill="#D7074C"
+                height="12"
+                rx="6"
+                width="12"
+              />
+              <path
+                d="M3.10662 6.2995L3.71813 5.68501L5.55563 7.5255L5.55563 2.80859L6.44455 2.80859L6.44455 7.5255L8.28503 5.68501L8.89355 6.2995L6.00009 9.19297L3.10662 6.2995Z"
+                fill="white"
+              />
+            </svg>
+          </g>
+          <text
+            class="paragraph-small fill-text-light font-medium"
+            dominant-baseline="central"
+            fill="#3B475B"
+            text-anchor="middle"
+            x="600"
+            y="0"
+          >
+            <tspan
+              class="fill-text-error"
+            >
+              6.5%
+            </tspan>
+             
+            <tspan>
+              6,000
+            </tspan>
+          </text>
+        </g>
+        <svg
+          style="overflow: visible;"
+          x="0"
+          y="0"
+        >
+          <text
+            class="label-small fill-text-text"
+            dominant-baseline="central"
+            fill="#3B475B"
+            text-anchor="middle"
+            transform=""
+            x="600"
+            y="201.25"
+          >
+            <tspan
+              dy="0em"
+              x="600"
+            >
+              Label2
+            </tspan>
+          </text>
+        </svg>
+        <svg
+          style="overflow: visible;"
+          x="0"
+          y="0"
+        >
+          <text
+            class="label-small fill-text-light"
+            dominant-baseline="central"
+            fill="#848B98"
+            text-anchor="middle"
+            transform=""
+            x="600"
+            y="238.75"
+          >
+            <tspan
+              dy="0em"
+              x="600"
+            >
+              85,000
+            </tspan>
+          </text>
+        </svg>
+        <svg
+          style="overflow: visible;"
+          x="0"
+          y="0"
+        >
+          <text
+            class="heading-3 fill-text-text font-semibold"
+            dominant-baseline="central"
+            fill="#3B475B"
+            text-anchor="middle"
+            transform=""
+            x="600"
+            y="258.75"
+          >
+            <tspan
+              dy="0em"
+              x="600"
+            >
+              91%
+            </tspan>
+          </text>
+        </svg>
+        <g
+          class="visx-group"
+          transform="translate(0, 278.75)"
+        >
+          <g
+            class="visx-group"
+            transform="translate(561, 0)"
+          >
+            <svg
+              fill="none"
+              height="14"
+              viewBox="0 0 14 14"
+              width="14"
+              xmlns="http://www.w3.org/2000/svg"
+              y="-5"
+            >
+              <rect
+                class="fill-icon-error"
+                fill="#D7074C"
+                height="12"
+                rx="6"
+                width="12"
+              />
+              <path
+                d="M3.10662 6.2995L3.71813 5.68501L5.55563 7.5255L5.55563 2.80859L6.44455 2.80859L6.44455 7.5255L8.28503 5.68501L8.89355 6.2995L6.00009 9.19297L3.10662 6.2995Z"
+                fill="white"
+              />
+            </svg>
+          </g>
+          <text
+            class="paragraph-small fill-text-light font-medium"
+            dominant-baseline="central"
+            fill="#3B475B"
+            text-anchor="middle"
+            x="600"
+            y="0"
+          >
+            <tspan
+              class="fill-text-error"
+            >
+              2.2%
+            </tspan>
+             
+            <tspan>
+              2,000
+            </tspan>
+          </text>
+        </g>
+        <svg
+          style="overflow: visible;"
+          x="0"
+          y="0"
+        >
+          <text
+            class="label-small fill-text-text"
+            dominant-baseline="central"
+            fill="#3B475B"
+            text-anchor="middle"
+            transform=""
+            x="600"
+            y="298.75"
+          >
+            <tspan
+              dy="0em"
+              x="600"
+            >
+              Label3
+            </tspan>
+          </text>
+        </svg>
+        <svg
+          style="overflow: visible;"
+          x="0"
+          y="0"
+        >
+          <text
+            class="label-small fill-text-light"
+            dominant-baseline="central"
+            fill="#848B98"
+            text-anchor="middle"
+            transform=""
+            x="600"
+            y="346.25"
+          >
+            <tspan
+              dy="0em"
+              x="600"
+            >
+              85,000
+            </tspan>
+          </text>
+        </svg>
+        <svg
+          style="overflow: visible;"
+          x="0"
+          y="0"
+        >
+          <text
+            class="heading-3 fill-text-text font-semibold"
+            dominant-baseline="central"
+            fill="#3B475B"
+            text-anchor="middle"
+            transform=""
+            x="600"
+            y="366.25"
+          >
+            <tspan
+              dy="0em"
+              x="600"
+            >
+              91%
+            </tspan>
+          </text>
+        </svg>
+        <g
+          class="visx-group"
+          transform="translate(0, 386.25)"
+        >
+          <g
+            class="visx-group"
+            transform="translate(561, 0)"
+          />
+          <svg
+            style="overflow: visible;"
+            x="0"
+            y="0"
+          >
+            <text
+              class="label-small fill-text-text"
+              dominant-baseline="central"
+              fill="#3B475B"
+              text-anchor="middle"
+              transform=""
+              x="600"
+              y="0"
+            >
+              <tspan
+                dy="0em"
+                x="600"
+              >
+                Label4
+              </tspan>
+            </text>
+          </svg>
+        </g>
+        <svg
+          style="overflow: visible;"
+          x="0"
+          y="0"
+        >
+          <text
+            class="label-small fill-text-light"
+            dominant-baseline="central"
+            fill="#848B98"
+            text-anchor="middle"
+            transform=""
+            x="600"
+            y="433.75"
+          >
+            <tspan
+              dy="0em"
+              x="600"
+            >
+              83,000
+            </tspan>
+          </text>
+        </svg>
+        <svg
+          style="overflow: visible;"
+          x="0"
+          y="0"
+        >
+          <text
+            class="heading-3 fill-text-text font-semibold"
+            dominant-baseline="central"
+            fill="#3B475B"
+            text-anchor="middle"
+            transform=""
+            x="600"
+            y="453.75"
+          >
+            <tspan
+              dy="0em"
+              x="600"
+            >
+              89%
+            </tspan>
+          </text>
+        </svg>
+        <g
+          class="visx-group"
+          transform="translate(0, 473.75)"
+        >
+          <g
+            class="visx-group"
+            transform="translate(561, 0)"
+          >
+            <svg
+              fill="none"
+              height="14"
+              viewBox="0 0 14 14"
+              width="14"
+              xmlns="http://www.w3.org/2000/svg"
+              y="-5"
+            >
+              <rect
+                class="fill-icon-error"
+                fill="#D7074C"
+                height="12"
+                rx="6"
+                width="12"
+              />
+              <path
+                d="M3.10662 6.2995L3.71813 5.68501L5.55563 7.5255L5.55563 2.80859L6.44455 2.80859L6.44455 7.5255L8.28503 5.68501L8.89355 6.2995L6.00009 9.19297L3.10662 6.2995Z"
+                fill="white"
+              />
+            </svg>
+          </g>
+          <text
+            class="paragraph-small fill-text-light font-medium"
+            dominant-baseline="central"
+            fill="#3B475B"
+            text-anchor="middle"
+            x="600"
+            y="0"
+          >
+            <tspan
+              class="fill-text-error"
+            >
+              2.2%
+            </tspan>
+             
+            <tspan>
+              2,000
+            </tspan>
+          </text>
+        </g>
+        <svg
+          style="overflow: visible;"
+          x="0"
+          y="0"
+        >
+          <text
+            class="label-small fill-text-text"
+            dominant-baseline="central"
+            fill="#3B475B"
+            text-anchor="middle"
+            transform=""
+            x="600"
+            y="493.75"
+          >
+            <tspan
+              dy="0em"
+              x="600"
+            >
+              Label6
+            </tspan>
+          </text>
+        </svg>
+        <svg
+          style="overflow: visible;"
+          x="0"
+          y="0"
+        >
+          <text
+            class="label-small fill-text-light"
+            dominant-baseline="central"
+            fill="#848B98"
+            text-anchor="middle"
+            transform=""
+            x="600"
+            y="531.25"
+          >
+            <tspan
+              dy="0em"
+              x="600"
+            >
+              80,000
+            </tspan>
+          </text>
+        </svg>
+        <svg
+          style="overflow: visible;"
+          x="0"
+          y="0"
+        >
+          <text
+            class="heading-3 fill-text-text font-semibold"
+            dominant-baseline="central"
+            fill="#3B475B"
+            text-anchor="middle"
+            transform=""
+            x="600"
+            y="551.25"
+          >
+            <tspan
+              dy="0em"
+              x="600"
+            >
+              86%
+            </tspan>
+          </text>
+        </svg>
+        <g
+          class="visx-group"
+          transform="translate(0, 571.25)"
+        >
+          <g
+            class="visx-group"
+            transform="translate(561, 0)"
+          >
+            <svg
+              fill="none"
+              height="14"
+              viewBox="0 0 14 14"
+              width="14"
+              xmlns="http://www.w3.org/2000/svg"
+              y="-5"
+            >
+              <rect
+                class="fill-icon-error"
+                fill="#D7074C"
+                height="12"
+                rx="6"
+                width="12"
+              />
+              <path
+                d="M3.10662 6.2995L3.71813 5.68501L5.55563 7.5255L5.55563 2.80859L6.44455 2.80859L6.44455 7.5255L8.28503 5.68501L8.89355 6.2995L6.00009 9.19297L3.10662 6.2995Z"
+                fill="white"
+              />
+            </svg>
+          </g>
+          <text
+            class="paragraph-small fill-text-light font-medium"
+            dominant-baseline="central"
+            fill="#3B475B"
+            text-anchor="middle"
+            x="600"
+            y="0"
+          >
+            <tspan
+              class="fill-text-error"
+            >
+              3.2%
+            </tspan>
+             
+            <tspan>
+              3,000
+            </tspan>
+          </text>
+        </g>
+        <svg
+          style="overflow: visible;"
+          x="0"
+          y="0"
+        >
+          <text
+            class="label-small fill-text-text"
+            dominant-baseline="central"
+            fill="#3B475B"
+            text-anchor="middle"
+            transform=""
+            x="600"
+            y="591.25"
+          >
+            <tspan
+              dy="0em"
+              x="600"
+            >
+              Label1
+            </tspan>
+          </text>
+        </svg>
+        <line
+          class="visx-line"
+          fill="transparent"
+          shape-rendering="crispEdges"
+          stroke="#D0D3D8"
+          stroke-opacity="0.5"
+          stroke-width="2"
+          x1="0"
+          x2="650"
+          y1="25"
+          y2="25"
+        />
+        <line
+          class="visx-line"
+          fill="transparent"
+          shape-rendering="crispEdges"
+          stroke="#D0D3D8"
+          stroke-dasharray="3"
+          stroke-opacity="0.5"
+          stroke-width="1"
+          x1="0"
+          x2="650"
+          y1="122.5"
+          y2="122.5"
+        />
+        <line
+          class="visx-line"
+          fill="transparent"
+          shape-rendering="crispEdges"
+          stroke="#D0D3D8"
+          stroke-dasharray="3"
+          stroke-opacity="0.5"
+          stroke-width="1"
+          x1="0"
+          x2="650"
+          y1="219.99999999999997"
+          y2="219.99999999999997"
+        />
+        <line
+          class="visx-line"
+          fill="transparent"
+          shape-rendering="crispEdges"
+          stroke="#D0D3D8"
+          stroke-dasharray="3"
+          stroke-opacity="0.5"
+          stroke-width="1"
+          x1="0"
+          x2="650"
+          y1="317.5"
+          y2="317.5"
+        />
+        <line
+          class="visx-line"
+          fill="transparent"
+          shape-rendering="crispEdges"
+          stroke="#D0D3D8"
+          stroke-dasharray="3"
+          stroke-opacity="0.5"
+          stroke-width="1"
+          x1="0"
+          x2="650"
+          y1="414.99999999999994"
+          y2="414.99999999999994"
+        />
+        <line
+          class="visx-line"
+          fill="transparent"
+          shape-rendering="crispEdges"
+          stroke="#D0D3D8"
+          stroke-dasharray="3"
+          stroke-opacity="0.5"
+          stroke-width="1"
+          x1="0"
+          x2="650"
+          y1="512.5"
+          y2="512.5"
+        />
+        <line
+          class="visx-line"
+          fill="transparent"
+          shape-rendering="crispEdges"
+          stroke="#D0D3D8"
+          stroke-width="1"
+          x1="0"
+          x2="650"
+          y1="610"
+          y2="610"
+        />
+      </g>
+    </svg>
+  </div>
+</div>
+`;

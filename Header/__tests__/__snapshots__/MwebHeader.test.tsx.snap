@@ -1,0 +1,173 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`MWeb Header Snapshot Test 1`] = `
+<body>
+  <div>
+    <div
+      class="  h-12  bg-fill-fill w-full flex items-center justify-between px-4 space-x-2"
+    >
+      <div
+        class="flex items-center space-x-1"
+      >
+        <div
+          class=""
+        >
+          <div>
+            <svg
+              fill="none"
+              height="20"
+              viewBox="0 0 20 20"
+              width="20"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M13.5303 3.46967C13.8232 3.76256 13.8232 4.23744 13.5303 4.53033L8.06066 10L13.5303 15.4697C13.8232 15.7626 13.8232 16.2374 13.5303 16.5303C13.2374 16.8232 12.7626 16.8232 12.4697 16.5303L6.46967 10.5303C6.17678 10.2374 6.17678 9.76256 6.46967 9.46967L12.4697 3.46967C12.7626 3.17678 13.2374 3.17678 13.5303 3.46967Z"
+                fill="currentColor"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </div>
+        </div>
+        <span
+          class=" heading-5-semibold text-text-dark"
+        >
+          Title Text
+        </span>
+      </div>
+      <div
+        class="flex w-full flex-1 items-center justify-end space-x-2"
+      >
+        <div
+          class="flex flex-col shadow-[0px_1px_2px_0px_rgba(27,32,41,0.06)] flex-1"
+        >
+          <div
+            aria-label="Search"
+            class=" !h-8 !py-1.5 !px-2 border-border-border focus-within:border-border-action-focused focus-within:shadow-border-brand-focus-ring focus-within:shadow-[0px_0px_0px_4px]  relative h-12 rounded-lg border border-solid px-4 py-3 
+            
+            
+            
+            flex items-center hover:cursor-text
+          "
+            role="textbox"
+            tabindex="-1"
+          >
+            <div
+              class="mr-2 text-icon-icon "
+            >
+              <div
+                class="flex"
+                tabindex="-1"
+              >
+                <svg
+                  class="h-5 w-5"
+                  fill="none"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <g
+                    clip-path="url(#clip0_1421_18480)"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M15.96 10.2C15.96 13.3812 13.3812 15.96 10.2 15.96C7.01884 15.96 4.44 13.3812 4.44 10.2C4.44 7.01884 7.01884 4.44 10.2 4.44C13.3812 4.44 15.96 7.01884 15.96 10.2ZM14.7567 15.7749C13.5155 16.7906 11.9289 17.4 10.2 17.4C6.22355 17.4 3 14.1764 3 10.2C3 6.22355 6.22355 3 10.2 3C14.1765 3 17.4 6.22355 17.4 10.2C17.4 11.9289 16.7906 13.5155 15.7749 14.7567L20.7891 19.7709C21.0703 20.0521 21.0703 20.5079 20.7891 20.7891C20.5079 21.0703 20.0521 21.0703 19.7709 20.7891L14.7567 15.7749Z"
+                      fill="#3B475B"
+                      fill-rule="evenodd"
+                    />
+                  </g>
+                  <defs>
+                    <clippath
+                      id="clip0_1421_18480"
+                    >
+                      <rect
+                        fill="white"
+                        height="24"
+                        width="24"
+                      />
+                    </clippath>
+                  </defs>
+                </svg>
+                <div />
+              </div>
+            </div>
+            <div
+              class="relative flex-1"
+            >
+              <input
+                class="w-40"
+                data-testid="Search"
+                id="Search"
+                name="Search"
+                placeholder="Search"
+                tabindex="0"
+                type="text"
+                value=""
+              />
+              <div
+                class=" absolute bottom-0 left-0 right-0 top-0 flex after:absolute after:bottom-0 after:left-0 after:right-0 after:top-0"
+              >
+                <span
+                  class=" text-text-light label-large"
+                />
+                 
+                <div
+                  class="relative flex h-full flex-1 flex-col overflow-hidden"
+                >
+                  <span
+                    class=" text-text-light label-large absolute top-0 
+              translate-y-0  transition-transform duration-200 ease-in
+              
+              "
+                  />
+                  <span
+                    class=" text-text-light label-large absolute top-0 -translate-y-full  transition-transform duration-200 ease-in
+              
+              translate-y-full !transition-none
+              "
+                  />
+                </div>
+              </div>
+            </div>
+            <div
+              class="ml-2 text-icon-icon cursor-pointer"
+            >
+              <button
+                class="flex justify-center"
+                tabindex="-1"
+                type="button"
+              >
+                <div>
+                  <div />
+                </div>
+              </button>
+            </div>
+          </div>
+        </div>
+        <div
+          class=""
+        >
+          <div>
+            <svg
+              class=""
+              fill="none"
+              height="24"
+              viewBox="0 0 24 24"
+              width="24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M14.7618 2.85714C14.7618 2.38376 14.4208 2 14 2C13.5793 2 13.2382 2.38376 13.2382 2.85714V14.0754L9.43098 10.22C9.11826 9.90335 8.63658 9.93188 8.35513 10.2837C8.07367 10.6356 8.09902 11.1776 8.41175 11.4943L13.4904 16.6371C13.7801 16.9305 14.2199 16.9305 14.5096 16.6371L19.5883 11.4943C19.901 11.1776 19.9264 10.6356 19.6449 10.2837C19.3635 9.93188 18.8818 9.90335 18.5691 10.22L14.7618 14.0754V2.85714ZM5.63975 14.4267C5.70891 13.9597 5.42856 13.5181 5.01355 13.4403C4.59855 13.3624 4.20605 13.6779 4.13688 14.1448C3.95647 15.3628 3.8927 17.2247 4.33912 18.8277C4.56465 19.6376 4.93538 20.4347 5.53458 21.0337C6.14812 21.647 6.94971 22 7.93551 22H20.6322C20.9435 22 22.0071 21.9967 22.868 20.8345C23.695 19.7178 24.1904 17.7221 23.9307 14.2146C23.8957 13.7428 23.5275 13.3922 23.1082 13.4316C22.6889 13.4709 22.3774 13.8852 22.4123 14.3569C22.6604 17.7065 22.1401 19.1394 21.6975 19.737C21.291 20.2858 20.8341 20.2858 20.6356 20.2857H7.93551C7.29613 20.2857 6.86191 20.0674 6.54648 19.7521C6.21671 19.4225 5.96531 18.9339 5.79301 18.3152C5.44378 17.0611 5.48158 15.4944 5.63975 14.4267Z"
+                fill="#3B475B"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+`;
