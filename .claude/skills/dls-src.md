@@ -1,7 +1,7 @@
 # Skill: Extract DLS Icons from Storybook
 
 ## Trigger
-Use this skill when the user asks to:
+Activate this skill when the user types **"DLS src"** or `/dls-src`, or asks to:
 - Extract icons from the DLS Storybook
 - Update or refresh icons from `blueprint-staging.hatio.dev`
 - Add missing icons to the `icons/` folder
